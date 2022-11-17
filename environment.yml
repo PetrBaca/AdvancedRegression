@@ -22,4 +22,3 @@ dependencies:
   - statsmodels==0.13.2
   - pip:
     - bambi @ git+https://github.com/bambinos/bambi
-    
