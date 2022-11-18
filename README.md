@@ -44,7 +44,7 @@ Once the material is on your computer, you'll see that the repository for this c
 to install. If you run:
 
 ```bash
-cd IntroductoryCourse
+cd AdvancedRegression
 conda env create -f environment.yml
 ```
 
