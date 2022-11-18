@@ -10,8 +10,6 @@ This is a mix of Google slides or Jupyter notebook depending on the lesson
 
 ### Exercises
 The lesson exercises are also contained in the `lesson_code` directory.   
-*Note* for the beta the Tools exercises are currently missing and will be added. 
-We also will be adding solutions in some format
 
 
 ## Setup
@@ -70,7 +68,7 @@ Then, you can start JupyterLab to access the materials:
 jupyter lab
 ```
 
-**When you open any notebook, make sure it's using the right kernel, which will be named `ib_advanced_regression`**. You can check this at the top-right of the Jupyter page (refer to the [dedicated video in the Tool Introduction lesson](https://learn.intuitivebayes.com/courses/intuitive-bayes-introduction/992558-introduction-to-pymc-arviz-and-other-data-science-tools/3004534-installing-pymc)).
+**When you open any notebook, make sure it's using the right kernel, which will be named `ib_advanced_regression`**. You can check this at the top-right of the Jupyter page (refer to the [dedicated video in the resources lesson](https://www.intuitivebayes.com/view/courses/advanced-regression/1615884-resource-library/5071356-environment-installation-with-anaconda)).
 
 ### Instructions for pip (only if necessary)
 
