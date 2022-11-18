@@ -21,4 +21,4 @@ dependencies:
   - seaborn=0.11.2
   - statsmodels==0.13.2
   - pip:
-    - bambi @ git+https://github.com/bambinos/bambi
+    - bambi @ git+https://github.com/bambinos/bambi@e05daf1de6e5ca3c111b9221f44d3939c1aaaf82
