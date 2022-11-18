@@ -18,7 +18,7 @@ Most of the course material is provided as Jupyter notebooks. We provide two set
 packages needed to run these notebooks. The first, that we strongly recommend, will rely on [Anaconda](hhttps://www.anaconda.com), and the second
 will only use the standard [pip python package](https://packaging.python.org/tutorials/installing-packages/).
 
-To see a live video example of how to install the virtual environment for this course, watch the [dedicated video in the Tool Introduction lesson](https://www.intuitivebayes.com/view/courses/advanced-regression/1615884-resource-library/5071356-environment-installation-with-anaconda).
+To see a live video example of how to install the virtual environment for this course, watch the [dedicated video in the Resources Library](https://www.intuitivebayes.com/view/courses/advanced-regression/1615884-resource-library/5071356-environment-installation-with-anaconda).
 
 To install PyMC specifically, you'll find updated instructions on the official repository -- [MacOS](https://github.com/pymc-devs/pymc/wiki/Installation-Guide-(MacOS)), [Windows](https://github.com/pymc-devs/pymc/wiki/Installation-Guide-(Windows)), [Linux](https://github.com/pymc-devs/pymc/wiki/Installation-Guide-(Linux)).
 
