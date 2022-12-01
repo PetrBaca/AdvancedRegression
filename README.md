@@ -37,6 +37,10 @@ The next step is to clone or download the course material on your computer. Just
 git clone git@github.com:IntuitiveBayes/AdvancedRegression.git
 ```
 
+If you do not have an ssh key setup you'll need to do so using these [Github docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+Alternatively you can click the download button to get a ZIP file of the repository contents.
+
 #### 2. Create virtual environment
 Once the material is on your computer, you'll see that the repository for this course has a file called `environment.yml` that includes a list of all the packages you need
 to install. If you run:
