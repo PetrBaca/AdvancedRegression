@@ -28,7 +28,7 @@ text.color:     2F3645
 ## * AXES                                                                    *
 ## ***************************************************************************
 
-axes.facecolor:         None        # axes background color
+#axes.facecolor:         None        # axes background color
 axes.edgecolor:         DFDFDF      # axes edge color
 axes.linewidth:         0.5         # edge line width
 
