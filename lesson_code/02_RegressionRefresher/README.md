@@ -73,7 +73,7 @@ You'll learn
 
 ### 60. Transformations
 
-It's time to learn about transfromations!
+It's time to learn about transformations!
 
 * Transformations are a very powerful tool
 * They allow us to 
