@@ -1,0 +1,1990 @@
+,age_group,education,gender,nationality,electoral_district,unit,n
+0,16-24,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,519
+1,16-24,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,62
+2,16-24,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,552
+3,16-24,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,656
+4,16-24,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,84
+5,16-24,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,905
+6,16-24,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,386
+7,16-24,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,51
+8,16-24,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,490
+9,16-24,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,671
+10,16-24,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,56
+11,16-24,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,800
+12,16-24,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,651
+13,16-24,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,79
+14,16-24,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,714
+15,16-24,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,697
+16,16-24,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,107
+17,16-24,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,791
+18,16-24,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,293
+19,16-24,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,40
+20,16-24,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,354
+21,16-24,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,492
+22,16-24,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,51
+23,16-24,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,620
+24,16-24,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,2714
+25,16-24,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,228
+26,16-24,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,3853
+27,16-24,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,187
+28,16-24,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,16
+29,16-24,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,195
+30,16-24,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,760
+31,16-24,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,55
+32,16-24,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,739
+33,16-24,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,542
+34,16-24,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,36
+35,16-24,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,690
+36,16-24,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,542
+37,16-24,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,40
+38,16-24,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,787
+39,16-24,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,345
+40,16-24,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,20
+41,16-24,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,446
+42,16-24,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1111
+43,16-24,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,76
+44,16-24,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1358
+45,16-24,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,454
+46,16-24,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,27
+47,16-24,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,604
+48,16-24,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,1555
+49,16-24,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,120
+50,16-24,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,1961
+51,16-24,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,652
+52,16-24,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,31
+53,16-24,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,867
+54,16-24,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,577
+55,16-24,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,43
+56,16-24,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,735
+57,16-24,Secondary education,Male,Estonian,Tartu linn,Tartu linn,1457
+58,16-24,Higher education,Male,Estonian,Tartu linn,Tartu linn,176
+59,16-24,Basic education,Male,Estonian,Tartu linn,Tartu linn,1887
+60,16-24,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1158
+61,16-24,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,94
+62,16-24,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1589
+63,16-24,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,483
+64,16-24,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,25
+65,16-24,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,636
+66,16-24,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,949
+67,16-24,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,47
+68,16-24,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1082
+69,16-24,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,682
+70,16-24,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,31
+71,16-24,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,833
+72,16-24,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,295
+73,16-24,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,25
+74,16-24,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,350
+75,16-24,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,96
+76,16-24,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,12
+77,16-24,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,151
+78,16-24,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,99
+79,16-24,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,2
+80,16-24,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,93
+81,16-24,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,845
+82,16-24,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,50
+83,16-24,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1212
+84,16-24,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,259
+85,16-24,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,21
+86,16-24,Basic education,Male,Other,Mustamäe ja Nõmme,Mustamäe,341
+87,16-24,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,55
+88,16-24,Higher education,Male,Other,Mustamäe ja Nõmme,Nõmme,5
+89,16-24,Basic education,Male,Other,Mustamäe ja Nõmme,Nõmme,56
+90,16-24,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,56
+91,16-24,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,4
+92,16-24,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,64
+93,16-24,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,245
+94,16-24,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,7
+95,16-24,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,331
+96,16-24,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,385
+97,16-24,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,20
+98,16-24,Basic education,Male,Other,Harju- ja Raplamaa,Harjumaa,550
+99,16-24,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+100,16-24,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,1490
+101,16-24,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,71
+102,16-24,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,1844
+103,16-24,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,27
+104,16-24,Higher education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,3
+105,16-24,Basic education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,38
+106,16-24,Secondary education,Male,Other,Järva- ja Viljandimaa,Järvamaa,3
+107,16-24,Higher education,Male,Other,Järva- ja Viljandimaa,Järvamaa,1
+108,16-24,Basic education,Male,Other,Järva- ja Viljandimaa,Järvamaa,11
+109,16-24,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,16
+110,16-24,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,1
+111,16-24,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,30
+112,16-24,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,65
+113,16-24,Higher education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,5
+114,16-24,Basic education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,114
+115,16-24,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,9
+116,16-24,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,12
+117,16-24,Secondary education,Male,Other,Pärnumaa,Pärnumaa,68
+118,16-24,Higher education,Male,Other,Pärnumaa,Pärnumaa,8
+119,16-24,Basic education,Male,Other,Pärnumaa,Pärnumaa,98
+120,16-24,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,7
+121,16-24,Higher education,Male,Other,Harju- ja Raplamaa,Raplamaa,1
+122,16-24,Basic education,Male,Other,Harju- ja Raplamaa,Raplamaa,30
+123,16-24,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1
+124,16-24,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1
+125,16-24,Secondary education,Male,Other,Tartu linn,Tartu linn,163
+126,16-24,Higher education,Male,Other,Tartu linn,Tartu linn,9
+127,16-24,Basic education,Male,Other,Tartu linn,Tartu linn,240
+128,16-24,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,54
+129,16-24,Higher education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,2
+130,16-24,Basic education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,90
+131,16-24,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,35
+132,16-24,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,2
+133,16-24,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,90
+134,16-24,Secondary education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,6
+135,16-24,Basic education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,10
+136,16-24,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,9
+137,16-24,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,14
+138,16-24,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,474
+139,16-24,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,116
+140,16-24,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,501
+141,16-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,739
+142,16-24,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,175
+143,16-24,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,751
+144,16-24,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,442
+145,16-24,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,97
+146,16-24,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,366
+147,16-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,649
+148,16-24,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,124
+149,16-24,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,699
+150,16-24,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,673
+151,16-24,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,171
+152,16-24,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,649
+153,16-24,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,623
+154,16-24,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,134
+155,16-24,Basic education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,667
+156,16-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,254
+157,16-24,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,58
+158,16-24,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,294
+159,16-24,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,555
+160,16-24,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,105
+161,16-24,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,552
+162,16-24,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,2670
+163,16-24,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,468
+164,16-24,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,3260
+165,16-24,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,167
+166,16-24,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,27
+167,16-24,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,138
+168,16-24,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,673
+169,16-24,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,120
+170,16-24,Basic education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,584
+171,16-24,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,553
+172,16-24,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,98
+173,16-24,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,516
+174,16-24,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,494
+175,16-24,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,94
+176,16-24,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,677
+177,16-24,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,341
+178,16-24,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,62
+179,16-24,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,392
+180,16-24,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1060
+181,16-24,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,181
+182,16-24,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1210
+183,16-24,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,441
+184,16-24,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,70
+185,16-24,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,449
+186,16-24,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,1637
+187,16-24,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,237
+188,16-24,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,1632
+189,16-24,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,611
+190,16-24,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,92
+191,16-24,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,664
+192,16-24,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,567
+193,16-24,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,102
+194,16-24,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,563
+195,16-24,Secondary education,Female,Estonian,Tartu linn,Tartu linn,1566
+196,16-24,Higher education,Female,Estonian,Tartu linn,Tartu linn,321
+197,16-24,Basic education,Female,Estonian,Tartu linn,Tartu linn,1583
+198,16-24,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1104
+199,16-24,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,188
+200,16-24,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1262
+201,16-24,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,476
+202,16-24,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,83
+203,16-24,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,484
+204,16-24,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,877
+205,16-24,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,139
+206,16-24,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,966
+207,16-24,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,708
+208,16-24,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,125
+209,16-24,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,610
+210,16-24,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,293
+211,16-24,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,32
+212,16-24,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,273
+213,16-24,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,114
+214,16-24,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,31
+215,16-24,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,132
+216,16-24,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,77
+217,16-24,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,10
+218,16-24,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,95
+219,16-24,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,822
+220,16-24,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,120
+221,16-24,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1040
+222,16-24,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,273
+223,16-24,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,35
+224,16-24,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,271
+225,16-24,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,51
+226,16-24,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,6
+227,16-24,Basic education,Female,Other,Mustamäe ja Nõmme,Nõmme,68
+228,16-24,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,66
+229,16-24,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,9
+230,16-24,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,68
+231,16-24,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,247
+232,16-24,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,23
+233,16-24,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,328
+234,16-24,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,369
+235,16-24,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,47
+236,16-24,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,500
+237,16-24,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,1447
+238,16-24,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,171
+239,16-24,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,1614
+240,16-24,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,35
+241,16-24,Higher education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,3
+242,16-24,Basic education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,24
+243,16-24,Secondary education,Female,Other,Järva- ja Viljandimaa,Järvamaa,5
+244,16-24,Higher education,Female,Other,Järva- ja Viljandimaa,Järvamaa,1
+245,16-24,Basic education,Female,Other,Järva- ja Viljandimaa,Järvamaa,9
+246,16-24,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,16
+247,16-24,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,1
+248,16-24,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,27
+249,16-24,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,77
+250,16-24,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,6
+251,16-24,Basic education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,104
+252,16-24,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,6
+253,16-24,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,15
+254,16-24,Secondary education,Female,Other,Pärnumaa,Pärnumaa,60
+255,16-24,Higher education,Female,Other,Pärnumaa,Pärnumaa,13
+256,16-24,Basic education,Female,Other,Pärnumaa,Pärnumaa,79
+257,16-24,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,11
+258,16-24,Higher education,Female,Other,Harju- ja Raplamaa,Raplamaa,1
+259,16-24,Basic education,Female,Other,Harju- ja Raplamaa,Raplamaa,12
+260,16-24,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1
+261,16-24,Secondary education,Female,Other,Tartu linn,Tartu linn,200
+262,16-24,Higher education,Female,Other,Tartu linn,Tartu linn,24
+263,16-24,Basic education,Female,Other,Tartu linn,Tartu linn,224
+264,16-24,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,58
+265,16-24,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,4
+266,16-24,Basic education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,64
+267,16-24,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,43
+268,16-24,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,4
+269,16-24,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,68
+270,16-24,Secondary education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,4
+271,16-24,Higher education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,2
+272,16-24,Basic education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,6
+273,16-24,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,11
+274,16-24,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,1
+275,16-24,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,14
+276,25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,836
+277,25-34,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,704
+278,25-34,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,213
+279,25-34,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1300
+280,25-34,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1639
+281,25-34,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,330
+282,25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,809
+283,25-34,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,816
+284,25-34,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,220
+285,25-34,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1323
+286,25-34,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,736
+287,25-34,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,494
+288,25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,1629
+289,25-34,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,1247
+290,25-34,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,462
+291,25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,774
+292,25-34,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,607
+293,25-34,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,215
+294,25-34,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,265
+295,25-34,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,267
+296,25-34,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,62
+297,25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1202
+298,25-34,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1034
+299,25-34,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,385
+300,25-34,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,4204
+301,25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,2310
+302,25-34,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1682
+303,25-34,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,300
+304,25-34,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,129
+305,25-34,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,141
+306,25-34,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,918
+307,25-34,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,299
+308,25-34,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,353
+309,25-34,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,957
+310,25-34,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,230
+311,25-34,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,495
+312,25-34,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,930
+313,25-34,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,214
+314,25-34,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,581
+315,25-34,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,628
+316,25-34,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,177
+317,25-34,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,358
+318,25-34,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1814
+319,25-34,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,580
+320,25-34,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,975
+321,25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,793
+322,25-34,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,279
+323,25-34,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,418
+324,25-34,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,2595
+325,25-34,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,724
+326,25-34,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,1501
+327,25-34,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,1190
+328,25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,288
+329,25-34,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,609
+330,25-34,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1023
+331,25-34,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,434
+332,25-34,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,551
+333,25-34,Secondary education,Male,Estonian,Tartu linn,Tartu linn,2564
+334,25-34,Higher education,Male,Estonian,Tartu linn,Tartu linn,1983
+335,25-34,Basic education,Male,Estonian,Tartu linn,Tartu linn,1058
+336,25-34,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,2149
+337,25-34,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,944
+338,25-34,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,962
+339,25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,744
+340,25-34,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,215
+341,25-34,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,452
+342,25-34,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1628
+343,25-34,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,429
+344,25-34,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,874
+345,25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1229
+346,25-34,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,417
+347,25-34,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,566
+348,25-34,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,453
+349,25-34,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,288
+350,25-34,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,80
+351,25-34,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,240
+352,25-34,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,163
+353,25-34,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,35
+354,25-34,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,153
+355,25-34,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,104
+356,25-34,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,41
+357,25-34,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1641
+358,25-34,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,722
+359,25-34,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,344
+360,25-34,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,583
+361,25-34,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,359
+362,25-34,Basic education,Male,Other,Mustamäe ja Nõmme,Mustamäe,132
+363,25-34,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,83
+364,25-34,Higher education,Male,Other,Mustamäe ja Nõmme,Nõmme,29
+365,25-34,Basic education,Male,Other,Mustamäe ja Nõmme,Nõmme,17
+366,25-34,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,53
+367,25-34,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,57
+368,25-34,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,10
+369,25-34,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,522
+370,25-34,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,206
+371,25-34,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,143
+372,25-34,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,562
+373,25-34,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,254
+374,25-34,Basic education,Male,Other,Harju- ja Raplamaa,Harjumaa,198
+375,25-34,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+376,25-34,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,1833
+377,25-34,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,502
+378,25-34,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,460
+379,25-34,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,47
+380,25-34,Higher education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,9
+381,25-34,Basic education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,16
+382,25-34,Secondary education,Male,Other,Järva- ja Viljandimaa,Järvamaa,8
+383,25-34,Higher education,Male,Other,Järva- ja Viljandimaa,Järvamaa,4
+384,25-34,Basic education,Male,Other,Järva- ja Viljandimaa,Järvamaa,9
+385,25-34,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,22
+386,25-34,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,6
+387,25-34,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,11
+388,25-34,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,87
+389,25-34,Higher education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,8
+390,25-34,Basic education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,50
+391,25-34,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,15
+392,25-34,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,4
+393,25-34,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,6
+394,25-34,Secondary education,Male,Other,Pärnumaa,Pärnumaa,118
+395,25-34,Higher education,Male,Other,Pärnumaa,Pärnumaa,21
+396,25-34,Basic education,Male,Other,Pärnumaa,Pärnumaa,52
+397,25-34,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,9
+398,25-34,Higher education,Male,Other,Harju- ja Raplamaa,Raplamaa,2
+399,25-34,Basic education,Male,Other,Harju- ja Raplamaa,Raplamaa,12
+400,25-34,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1
+401,25-34,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1
+402,25-34,Secondary education,Male,Other,Tartu linn,Tartu linn,263
+403,25-34,Higher education,Male,Other,Tartu linn,Tartu linn,111
+404,25-34,Basic education,Male,Other,Tartu linn,Tartu linn,165
+405,25-34,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,95
+406,25-34,Higher education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,34
+407,25-34,Basic education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,61
+408,25-34,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,51
+409,25-34,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,14
+410,25-34,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,35
+411,25-34,Secondary education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,9
+412,25-34,Higher education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,4
+413,25-34,Basic education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,15
+414,25-34,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,34
+415,25-34,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,4
+416,25-34,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,9
+417,25-34,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,646
+418,25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1128
+419,25-34,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,129
+420,25-34,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,929
+421,25-34,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,2599
+422,25-34,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,167
+423,25-34,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,602
+424,25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1275
+425,25-34,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,112
+426,25-34,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1017
+427,25-34,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1283
+428,25-34,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,284
+429,25-34,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1228
+430,25-34,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1950
+431,25-34,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,279
+432,25-34,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,508
+433,25-34,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,1003
+434,25-34,Basic education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,106
+435,25-34,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,174
+436,25-34,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,420
+437,25-34,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,24
+438,25-34,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,986
+439,25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,2029
+440,25-34,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,207
+441,25-34,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,2981
+442,25-34,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,4216
+443,25-34,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,789
+444,25-34,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,190
+445,25-34,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,176
+446,25-34,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,54
+447,25-34,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,530
+448,25-34,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,480
+449,25-34,Basic education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,127
+450,25-34,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,672
+451,25-34,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,463
+452,25-34,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,251
+453,25-34,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,659
+454,25-34,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,428
+455,25-34,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,329
+456,25-34,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,457
+457,25-34,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,319
+458,25-34,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,175
+459,25-34,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1227
+460,25-34,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1016
+461,25-34,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,474
+462,25-34,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,608
+463,25-34,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,440
+464,25-34,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,170
+465,25-34,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,2154
+466,25-34,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,1440
+467,25-34,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,701
+468,25-34,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,841
+469,25-34,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,548
+470,25-34,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,292
+471,25-34,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,852
+472,25-34,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,694
+473,25-34,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,236
+474,25-34,Secondary education,Female,Estonian,Tartu linn,Tartu linn,1736
+475,25-34,Higher education,Female,Estonian,Tartu linn,Tartu linn,3115
+476,25-34,Basic education,Female,Estonian,Tartu linn,Tartu linn,507
+477,25-34,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1540
+478,25-34,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1872
+479,25-34,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,415
+480,25-34,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,527
+481,25-34,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,407
+482,25-34,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,182
+483,25-34,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1074
+484,25-34,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,834
+485,25-34,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,477
+486,25-34,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,912
+487,25-34,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,627
+488,25-34,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,241
+489,25-34,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,396
+490,25-34,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,546
+491,25-34,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,60
+492,25-34,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,198
+493,25-34,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,350
+494,25-34,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,24
+495,25-34,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,117
+496,25-34,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,175
+497,25-34,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,26
+498,25-34,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1417
+499,25-34,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1502
+500,25-34,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,264
+501,25-34,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,421
+502,25-34,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,625
+503,25-34,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,64
+504,25-34,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,64
+505,25-34,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,70
+506,25-34,Basic education,Female,Other,Mustamäe ja Nõmme,Nõmme,10
+507,25-34,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,45
+508,25-34,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,114
+509,25-34,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,6
+510,25-34,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,425
+511,25-34,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,347
+512,25-34,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,79
+513,25-34,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,450
+514,25-34,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,577
+515,25-34,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,115
+516,25-34,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+517,25-34,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+518,25-34,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,1351
+519,25-34,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,1004
+520,25-34,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,258
+521,25-34,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,22
+522,25-34,Higher education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,20
+523,25-34,Basic education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,6
+524,25-34,Secondary education,Female,Other,Järva- ja Viljandimaa,Järvamaa,6
+525,25-34,Higher education,Female,Other,Järva- ja Viljandimaa,Järvamaa,11
+526,25-34,Basic education,Female,Other,Järva- ja Viljandimaa,Järvamaa,7
+527,25-34,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,18
+528,25-34,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,6
+529,25-34,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,6
+530,25-34,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,58
+531,25-34,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,29
+532,25-34,Basic education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,26
+533,25-34,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,5
+534,25-34,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,5
+535,25-34,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,7
+536,25-34,Secondary education,Female,Other,Pärnumaa,Pärnumaa,95
+537,25-34,Higher education,Female,Other,Pärnumaa,Pärnumaa,32
+538,25-34,Basic education,Female,Other,Pärnumaa,Pärnumaa,25
+539,25-34,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,15
+540,25-34,Higher education,Female,Other,Harju- ja Raplamaa,Raplamaa,8
+541,25-34,Basic education,Female,Other,Harju- ja Raplamaa,Raplamaa,13
+542,25-34,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,2
+543,25-34,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,3
+544,25-34,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,2
+545,25-34,Secondary education,Female,Other,Tartu linn,Tartu linn,188
+546,25-34,Higher education,Female,Other,Tartu linn,Tartu linn,221
+547,25-34,Basic education,Female,Other,Tartu linn,Tartu linn,58
+548,25-34,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,69
+549,25-34,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,48
+550,25-34,Basic education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,29
+551,25-34,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,50
+552,25-34,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,30
+553,25-34,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,23
+554,25-34,Secondary education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,12
+555,25-34,Higher education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,7
+556,25-34,Basic education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,2
+557,25-34,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,11
+558,25-34,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,21
+559,25-34,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,6
+560,35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,773
+561,35-44,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,709
+562,35-44,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,175
+563,35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1174
+564,35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,2052
+565,35-44,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,248
+566,35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,754
+567,35-44,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,836
+568,35-44,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,186
+569,35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1140
+570,35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,619
+571,35-44,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,427
+572,35-44,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,1293
+573,35-44,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,924
+574,35-44,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,403
+575,35-44,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,822
+576,35-44,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,916
+577,35-44,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,204
+578,35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,313
+579,35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,438
+580,35-44,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,74
+581,35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1120
+582,35-44,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1312
+583,35-44,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,348
+584,35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,5133
+585,35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,4040
+586,35-44,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1889
+587,35-44,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,266
+588,35-44,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,79
+589,35-44,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,144
+590,35-44,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,723
+591,35-44,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,219
+592,35-44,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,307
+593,35-44,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,700
+594,35-44,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,187
+595,35-44,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,464
+596,35-44,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,902
+597,35-44,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,197
+598,35-44,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,583
+599,35-44,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,500
+600,35-44,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,185
+601,35-44,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,321
+602,35-44,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1657
+603,35-44,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,485
+604,35-44,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,985
+605,35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,694
+606,35-44,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,201
+607,35-44,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,485
+608,35-44,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,2516
+609,35-44,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,801
+610,35-44,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,1486
+611,35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,1093
+612,35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,343
+613,35-44,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,658
+614,35-44,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,878
+615,35-44,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,358
+616,35-44,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,591
+617,35-44,Secondary education,Male,Estonian,Tartu linn,Tartu linn,2333
+618,35-44,Higher education,Male,Estonian,Tartu linn,Tartu linn,2232
+619,35-44,Basic education,Male,Estonian,Tartu linn,Tartu linn,969
+620,35-44,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,2138
+621,35-44,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1164
+622,35-44,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1043
+623,35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,591
+624,35-44,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,168
+625,35-44,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,336
+626,35-44,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1262
+627,35-44,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,373
+628,35-44,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,894
+629,35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1017
+630,35-44,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,296
+631,35-44,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,551
+632,35-44,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,462
+633,35-44,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,499
+634,35-44,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,86
+635,35-44,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,238
+636,35-44,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,370
+637,35-44,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,36
+638,35-44,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,121
+639,35-44,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,144
+640,35-44,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,30
+641,35-44,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1820
+642,35-44,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1270
+643,35-44,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,399
+644,35-44,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,519
+645,35-44,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,403
+646,35-44,Basic education,Male,Other,Mustamäe ja Nõmme,Mustamäe,109
+647,35-44,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,77
+648,35-44,Higher education,Male,Other,Mustamäe ja Nõmme,Nõmme,58
+649,35-44,Basic education,Male,Other,Mustamäe ja Nõmme,Nõmme,24
+650,35-44,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,74
+651,35-44,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,178
+652,35-44,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,8
+653,35-44,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,444
+654,35-44,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,246
+655,35-44,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,152
+656,35-44,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,681
+657,35-44,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,588
+658,35-44,Basic education,Male,Other,Harju- ja Raplamaa,Harjumaa,185
+659,35-44,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,1648
+660,35-44,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,721
+661,35-44,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,408
+662,35-44,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,44
+663,35-44,Higher education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,8
+664,35-44,Basic education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,40
+665,35-44,Secondary education,Male,Other,Järva- ja Viljandimaa,Järvamaa,17
+666,35-44,Higher education,Male,Other,Järva- ja Viljandimaa,Järvamaa,7
+667,35-44,Basic education,Male,Other,Järva- ja Viljandimaa,Järvamaa,22
+668,35-44,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,30
+669,35-44,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,7
+670,35-44,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,19
+671,35-44,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,84
+672,35-44,Higher education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,17
+673,35-44,Basic education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,63
+674,35-44,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,19
+675,35-44,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,4
+676,35-44,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,14
+677,35-44,Secondary education,Male,Other,Pärnumaa,Pärnumaa,139
+678,35-44,Higher education,Male,Other,Pärnumaa,Pärnumaa,33
+679,35-44,Basic education,Male,Other,Pärnumaa,Pärnumaa,51
+680,35-44,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,32
+681,35-44,Higher education,Male,Other,Harju- ja Raplamaa,Raplamaa,7
+682,35-44,Basic education,Male,Other,Harju- ja Raplamaa,Raplamaa,16
+683,35-44,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,6
+684,35-44,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,3
+685,35-44,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1
+686,35-44,Secondary education,Male,Other,Tartu linn,Tartu linn,393
+687,35-44,Higher education,Male,Other,Tartu linn,Tartu linn,194
+688,35-44,Basic education,Male,Other,Tartu linn,Tartu linn,172
+689,35-44,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,131
+690,35-44,Higher education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,47
+691,35-44,Basic education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,74
+692,35-44,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,50
+693,35-44,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,11
+694,35-44,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,39
+695,35-44,Secondary education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,24
+696,35-44,Higher education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,5
+697,35-44,Basic education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,28
+698,35-44,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,28
+699,35-44,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,7
+700,35-44,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,10
+701,35-44,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,518
+702,35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1022
+703,35-44,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,87
+704,35-44,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,797
+705,35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,3187
+706,35-44,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,83
+707,35-44,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,515
+708,35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1326
+709,35-44,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,70
+710,35-44,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,929
+711,35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1061
+712,35-44,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,225
+713,35-44,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,956
+714,35-44,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1519
+715,35-44,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,173
+716,35-44,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,545
+717,35-44,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,1448
+718,35-44,Basic education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,77
+719,35-44,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,190
+720,35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,727
+721,35-44,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,22
+722,35-44,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,778
+723,35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,2158
+724,35-44,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,136
+725,35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,3749
+726,35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,6833
+727,35-44,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,696
+728,35-44,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,189
+729,35-44,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,151
+730,35-44,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,36
+731,35-44,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,471
+732,35-44,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,465
+733,35-44,Basic education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,111
+734,35-44,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,545
+735,35-44,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,366
+736,35-44,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,212
+737,35-44,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,673
+738,35-44,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,428
+739,35-44,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,297
+740,35-44,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,439
+741,35-44,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,336
+742,35-44,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,143
+743,35-44,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1176
+744,35-44,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1063
+745,35-44,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,492
+746,35-44,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,528
+747,35-44,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,392
+748,35-44,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,204
+749,35-44,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,2189
+750,35-44,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,1724
+751,35-44,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,627
+752,35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,858
+753,35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,746
+754,35-44,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,281
+755,35-44,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,808
+756,35-44,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,615
+757,35-44,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,212
+758,35-44,Secondary education,Female,Estonian,Tartu linn,Tartu linn,1602
+759,35-44,Higher education,Female,Estonian,Tartu linn,Tartu linn,3678
+760,35-44,Basic education,Female,Estonian,Tartu linn,Tartu linn,363
+761,35-44,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1448
+762,35-44,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,2057
+763,35-44,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,423
+764,35-44,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,502
+765,35-44,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,323
+766,35-44,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,207
+767,35-44,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,982
+768,35-44,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,786
+769,35-44,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,447
+770,35-44,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,745
+771,35-44,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,601
+772,35-44,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,245
+773,35-44,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,422
+774,35-44,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,798
+775,35-44,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,50
+776,35-44,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,215
+777,35-44,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,631
+778,35-44,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,21
+779,35-44,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,127
+780,35-44,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,280
+781,35-44,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,19
+782,35-44,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1791
+783,35-44,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,2503
+784,35-44,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,268
+785,35-44,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,453
+786,35-44,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,745
+787,35-44,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,74
+788,35-44,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,89
+789,35-44,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,113
+790,35-44,Basic education,Female,Other,Mustamäe ja Nõmme,Nõmme,19
+791,35-44,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,61
+792,35-44,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,252
+793,35-44,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,3
+794,35-44,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,430
+795,35-44,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,527
+796,35-44,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,82
+797,35-44,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,654
+798,35-44,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,1023
+799,35-44,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,146
+800,35-44,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,2
+801,35-44,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,2
+802,35-44,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,1476
+803,35-44,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,1576
+804,35-44,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,219
+805,35-44,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,35
+806,35-44,Higher education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,23
+807,35-44,Basic education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,11
+808,35-44,Secondary education,Female,Other,Järva- ja Viljandimaa,Järvamaa,18
+809,35-44,Higher education,Female,Other,Järva- ja Viljandimaa,Järvamaa,10
+810,35-44,Basic education,Female,Other,Järva- ja Viljandimaa,Järvamaa,12
+811,35-44,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,30
+812,35-44,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,14
+813,35-44,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,16
+814,35-44,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,103
+815,35-44,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,55
+816,35-44,Basic education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,40
+817,35-44,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,28
+818,35-44,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,11
+819,35-44,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,16
+820,35-44,Secondary education,Female,Other,Pärnumaa,Pärnumaa,149
+821,35-44,Higher education,Female,Other,Pärnumaa,Pärnumaa,81
+822,35-44,Basic education,Female,Other,Pärnumaa,Pärnumaa,31
+823,35-44,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,33
+824,35-44,Higher education,Female,Other,Harju- ja Raplamaa,Raplamaa,17
+825,35-44,Basic education,Female,Other,Harju- ja Raplamaa,Raplamaa,17
+826,35-44,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,6
+827,35-44,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,2
+828,35-44,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,3
+829,35-44,Secondary education,Female,Other,Tartu linn,Tartu linn,334
+830,35-44,Higher education,Female,Other,Tartu linn,Tartu linn,364
+831,35-44,Basic education,Female,Other,Tartu linn,Tartu linn,81
+832,35-44,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,110
+833,35-44,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,144
+834,35-44,Basic education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,32
+835,35-44,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,75
+836,35-44,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,22
+837,35-44,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,28
+838,35-44,Secondary education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,27
+839,35-44,Higher education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,10
+840,35-44,Basic education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,14
+841,35-44,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,12
+842,35-44,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,26
+843,35-44,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,7
+844,45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,813
+845,45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,644
+846,45-54,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,91
+847,45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1116
+848,45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1437
+849,45-54,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,140
+850,45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,725
+851,45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,577
+852,45-54,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,101
+853,45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1026
+854,45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,382
+855,45-54,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,200
+856,45-54,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,1302
+857,45-54,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,581
+858,45-54,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,208
+859,45-54,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,935
+860,45-54,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,948
+861,45-54,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,130
+862,45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,389
+863,45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,542
+864,45-54,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,42
+865,45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1005
+866,45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,685
+867,45-54,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,223
+868,45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,5632
+869,45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,3270
+870,45-54,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1157
+871,45-54,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,348
+872,45-54,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,93
+873,45-54,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,116
+874,45-54,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,1124
+875,45-54,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,297
+876,45-54,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,250
+877,45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1073
+878,45-54,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,145
+879,45-54,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,392
+880,45-54,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,1076
+881,45-54,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,200
+882,45-54,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,418
+883,45-54,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,598
+884,45-54,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,167
+885,45-54,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,330
+886,45-54,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,2031
+887,45-54,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,387
+888,45-54,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,787
+889,45-54,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,971
+890,45-54,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,144
+891,45-54,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,378
+892,45-54,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,3095
+893,45-54,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,720
+894,45-54,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,1016
+895,45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,1346
+896,45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,271
+897,45-54,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,552
+898,45-54,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1317
+899,45-54,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,253
+900,45-54,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,398
+901,45-54,Secondary education,Male,Estonian,Tartu linn,Tartu linn,2500
+902,45-54,Higher education,Male,Estonian,Tartu linn,Tartu linn,1621
+903,45-54,Basic education,Male,Estonian,Tartu linn,Tartu linn,539
+904,45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,2275
+905,45-54,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,734
+906,45-54,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,683
+907,45-54,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,998
+908,45-54,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,189
+909,45-54,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,325
+910,45-54,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1676
+911,45-54,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,310
+912,45-54,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,661
+913,45-54,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1426
+914,45-54,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,260
+915,45-54,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,468
+916,45-54,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,334
+917,45-54,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,245
+918,45-54,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,40
+919,45-54,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,154
+920,45-54,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,154
+921,45-54,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,25
+922,45-54,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,119
+923,45-54,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,81
+924,45-54,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,16
+925,45-54,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1070
+926,45-54,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,494
+927,45-54,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,130
+928,45-54,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,391
+929,45-54,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,182
+930,45-54,Basic education,Male,Other,Mustamäe ja Nõmme,Mustamäe,37
+931,45-54,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,84
+932,45-54,Higher education,Male,Other,Mustamäe ja Nõmme,Nõmme,44
+933,45-54,Basic education,Male,Other,Mustamäe ja Nõmme,Nõmme,3
+934,45-54,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,69
+935,45-54,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,88
+936,45-54,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,3
+937,45-54,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,342
+938,45-54,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,145
+939,45-54,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,60
+940,45-54,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,563
+941,45-54,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,215
+942,45-54,Basic education,Male,Other,Harju- ja Raplamaa,Harjumaa,98
+943,45-54,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,3
+944,45-54,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,1337
+945,45-54,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,498
+946,45-54,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,171
+947,45-54,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,84
+948,45-54,Higher education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,3
+949,45-54,Basic education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,25
+950,45-54,Secondary education,Male,Other,Järva- ja Viljandimaa,Järvamaa,39
+951,45-54,Higher education,Male,Other,Järva- ja Viljandimaa,Järvamaa,5
+952,45-54,Basic education,Male,Other,Järva- ja Viljandimaa,Järvamaa,18
+953,45-54,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,39
+954,45-54,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,4
+955,45-54,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,8
+956,45-54,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,125
+957,45-54,Higher education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,26
+958,45-54,Basic education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,36
+959,45-54,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,32
+960,45-54,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,3
+961,45-54,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,12
+962,45-54,Secondary education,Male,Other,Pärnumaa,Pärnumaa,193
+963,45-54,Higher education,Male,Other,Pärnumaa,Pärnumaa,26
+964,45-54,Basic education,Male,Other,Pärnumaa,Pärnumaa,38
+965,45-54,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,33
+966,45-54,Higher education,Male,Other,Harju- ja Raplamaa,Raplamaa,6
+967,45-54,Basic education,Male,Other,Harju- ja Raplamaa,Raplamaa,18
+968,45-54,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,4
+969,45-54,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,3
+970,45-54,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1
+971,45-54,Secondary education,Male,Other,Tartu linn,Tartu linn,365
+972,45-54,Higher education,Male,Other,Tartu linn,Tartu linn,85
+973,45-54,Basic education,Male,Other,Tartu linn,Tartu linn,87
+974,45-54,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,151
+975,45-54,Higher education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,29
+976,45-54,Basic education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,49
+977,45-54,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,84
+978,45-54,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,12
+979,45-54,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,21
+980,45-54,Secondary education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,47
+981,45-54,Higher education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,8
+982,45-54,Basic education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,27
+983,45-54,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,47
+984,45-54,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,14
+985,45-54,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,9
+986,45-54,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,645
+987,45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,946
+988,45-54,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,59
+989,45-54,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,890
+990,45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,2145
+991,45-54,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,63
+992,45-54,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,604
+993,45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,985
+994,45-54,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,42
+995,45-54,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,959
+996,45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,687
+997,45-54,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,97
+998,45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1185
+999,45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1244
+1000,45-54,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,112
+1001,45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,748
+1002,45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,1426
+1003,45-54,Basic education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,47
+1004,45-54,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,311
+1005,45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,717
+1006,45-54,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,7
+1007,45-54,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,912
+1008,45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1158
+1009,45-54,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,94
+1010,45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,4240
+1011,45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,4668
+1012,45-54,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,558
+1013,45-54,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,345
+1014,45-54,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,175
+1015,45-54,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,76
+1016,45-54,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,834
+1017,45-54,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,614
+1018,45-54,Basic education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,95
+1019,45-54,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,980
+1020,45-54,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,428
+1021,45-54,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,241
+1022,45-54,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1010
+1023,45-54,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,465
+1024,45-54,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,269
+1025,45-54,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,626
+1026,45-54,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,391
+1027,45-54,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,159
+1028,45-54,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1813
+1029,45-54,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1010
+1030,45-54,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,492
+1031,45-54,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,893
+1032,45-54,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,389
+1033,45-54,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,179
+1034,45-54,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,2980
+1035,45-54,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,1588
+1036,45-54,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,511
+1037,45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,1114
+1038,45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,654
+1039,45-54,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,271
+1040,45-54,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1280
+1041,45-54,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,576
+1042,45-54,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,218
+1043,45-54,Secondary education,Female,Estonian,Tartu linn,Tartu linn,2061
+1044,45-54,Higher education,Female,Estonian,Tartu linn,Tartu linn,2862
+1045,45-54,Basic education,Female,Estonian,Tartu linn,Tartu linn,299
+1046,45-54,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1807
+1047,45-54,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1358
+1048,45-54,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,366
+1049,45-54,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,873
+1050,45-54,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,444
+1051,45-54,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,173
+1052,45-54,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1580
+1053,45-54,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,814
+1054,45-54,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,397
+1055,45-54,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1277
+1056,45-54,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,622
+1057,45-54,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,212
+1058,45-54,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,527
+1059,45-54,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,467
+1060,45-54,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,28
+1061,45-54,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,214
+1062,45-54,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,273
+1063,45-54,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,7
+1064,45-54,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,164
+1065,45-54,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,161
+1066,45-54,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,7
+1067,45-54,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1471
+1068,45-54,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1042
+1069,45-54,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,85
+1070,45-54,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,555
+1071,45-54,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,417
+1072,45-54,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,33
+1073,45-54,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,96
+1074,45-54,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,93
+1075,45-54,Basic education,Female,Other,Mustamäe ja Nõmme,Nõmme,6
+1076,45-54,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,71
+1077,45-54,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,133
+1078,45-54,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,1
+1079,45-54,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,557
+1080,45-54,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,316
+1081,45-54,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,45
+1082,45-54,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,765
+1083,45-54,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,501
+1084,45-54,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,61
+1085,45-54,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+1086,45-54,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+1087,45-54,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+1088,45-54,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,1853
+1089,45-54,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,1355
+1090,45-54,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,91
+1091,45-54,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,91
+1092,45-54,Higher education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,19
+1093,45-54,Basic education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,12
+1094,45-54,Secondary education,Female,Other,Järva- ja Viljandimaa,Järvamaa,43
+1095,45-54,Higher education,Female,Other,Järva- ja Viljandimaa,Järvamaa,11
+1096,45-54,Basic education,Female,Other,Järva- ja Viljandimaa,Järvamaa,16
+1097,45-54,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,56
+1098,45-54,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,8
+1099,45-54,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,10
+1100,45-54,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,193
+1101,45-54,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,60
+1102,45-54,Basic education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,33
+1103,45-54,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,36
+1104,45-54,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,5
+1105,45-54,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,6
+1106,45-54,Secondary education,Female,Other,Pärnumaa,Pärnumaa,225
+1107,45-54,Higher education,Female,Other,Pärnumaa,Pärnumaa,83
+1108,45-54,Basic education,Female,Other,Pärnumaa,Pärnumaa,27
+1109,45-54,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,65
+1110,45-54,Higher education,Female,Other,Harju- ja Raplamaa,Raplamaa,18
+1111,45-54,Basic education,Female,Other,Harju- ja Raplamaa,Raplamaa,14
+1112,45-54,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,4
+1113,45-54,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,8
+1114,45-54,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,3
+1115,45-54,Secondary education,Female,Other,Tartu linn,Tartu linn,442
+1116,45-54,Higher education,Female,Other,Tartu linn,Tartu linn,216
+1117,45-54,Basic education,Female,Other,Tartu linn,Tartu linn,51
+1118,45-54,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,152
+1119,45-54,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,67
+1120,45-54,Basic education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,36
+1121,45-54,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,126
+1122,45-54,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,37
+1123,45-54,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,16
+1124,45-54,Secondary education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,58
+1125,45-54,Higher education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,5
+1126,45-54,Basic education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,15
+1127,45-54,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,52
+1128,45-54,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,20
+1129,45-54,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,8
+1130,55-64,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,451
+1131,55-64,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,415
+1132,55-64,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,29
+1133,55-64,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,677
+1134,55-64,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,799
+1135,55-64,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,48
+1136,55-64,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,507
+1137,55-64,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,363
+1138,55-64,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,31
+1139,55-64,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,818
+1140,55-64,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,334
+1141,55-64,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,84
+1142,55-64,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,876
+1143,55-64,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,444
+1144,55-64,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,88
+1145,55-64,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,743
+1146,55-64,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,749
+1147,55-64,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,75
+1148,55-64,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,261
+1149,55-64,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,321
+1150,55-64,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,16
+1151,55-64,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,716
+1152,55-64,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,353
+1153,55-64,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,83
+1154,55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,3802
+1155,55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1828
+1156,55-64,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,610
+1157,55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,401
+1158,55-64,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,86
+1159,55-64,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,131
+1160,55-64,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,1204
+1161,55-64,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,230
+1162,55-64,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,164
+1163,55-64,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1143
+1164,55-64,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,216
+1165,55-64,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,320
+1166,55-64,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,1358
+1167,55-64,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,234
+1168,55-64,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,321
+1169,55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,730
+1170,55-64,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,179
+1171,55-64,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,208
+1172,55-64,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,2232
+1173,55-64,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,423
+1174,55-64,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,543
+1175,55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1121
+1176,55-64,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,200
+1177,55-64,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,262
+1178,55-64,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,3248
+1179,55-64,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,715
+1180,55-64,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,590
+1181,55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,1297
+1182,55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,278
+1183,55-64,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,333
+1184,55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1437
+1185,55-64,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,349
+1186,55-64,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,340
+1187,55-64,Secondary education,Male,Estonian,Tartu linn,Tartu linn,1949
+1188,55-64,Higher education,Male,Estonian,Tartu linn,Tartu linn,1197
+1189,55-64,Basic education,Male,Estonian,Tartu linn,Tartu linn,269
+1190,55-64,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1943
+1191,55-64,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,634
+1192,55-64,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,432
+1193,55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1043
+1194,55-64,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,212
+1195,55-64,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,236
+1196,55-64,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1896
+1197,55-64,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,385
+1198,55-64,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,409
+1199,55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1741
+1200,55-64,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,266
+1201,55-64,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,282
+1202,55-64,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,253
+1203,55-64,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,211
+1204,55-64,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,11
+1205,55-64,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,129
+1206,55-64,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,179
+1207,55-64,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,3
+1208,55-64,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,104
+1209,55-64,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,59
+1210,55-64,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,3
+1211,55-64,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,938
+1212,55-64,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,471
+1213,55-64,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,39
+1214,55-64,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,320
+1215,55-64,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,175
+1216,55-64,Basic education,Male,Other,Mustamäe ja Nõmme,Mustamäe,26
+1217,55-64,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,85
+1218,55-64,Higher education,Male,Other,Mustamäe ja Nõmme,Nõmme,46
+1219,55-64,Basic education,Male,Other,Mustamäe ja Nõmme,Nõmme,2
+1220,55-64,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,54
+1221,55-64,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,105
+1222,55-64,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,394
+1223,55-64,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,174
+1224,55-64,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,20
+1225,55-64,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,586
+1226,55-64,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,291
+1227,55-64,Basic education,Male,Other,Harju- ja Raplamaa,Harjumaa,46
+1228,55-64,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,5
+1229,55-64,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,4
+1230,55-64,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+1231,55-64,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,1313
+1232,55-64,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,548
+1233,55-64,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,89
+1234,55-64,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,126
+1235,55-64,Higher education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,16
+1236,55-64,Basic education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,22
+1237,55-64,Secondary education,Male,Other,Järva- ja Viljandimaa,Järvamaa,63
+1238,55-64,Higher education,Male,Other,Järva- ja Viljandimaa,Järvamaa,5
+1239,55-64,Basic education,Male,Other,Järva- ja Viljandimaa,Järvamaa,5
+1240,55-64,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,53
+1241,55-64,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,13
+1242,55-64,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,8
+1243,55-64,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,196
+1244,55-64,Higher education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,35
+1245,55-64,Basic education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,30
+1246,55-64,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,48
+1247,55-64,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,12
+1248,55-64,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,13
+1249,55-64,Secondary education,Male,Other,Pärnumaa,Pärnumaa,253
+1250,55-64,Higher education,Male,Other,Pärnumaa,Pärnumaa,47
+1251,55-64,Basic education,Male,Other,Pärnumaa,Pärnumaa,26
+1252,55-64,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,59
+1253,55-64,Higher education,Male,Other,Harju- ja Raplamaa,Raplamaa,13
+1254,55-64,Basic education,Male,Other,Harju- ja Raplamaa,Raplamaa,12
+1255,55-64,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,14
+1256,55-64,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1
+1257,55-64,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,3
+1258,55-64,Secondary education,Male,Other,Tartu linn,Tartu linn,332
+1259,55-64,Higher education,Male,Other,Tartu linn,Tartu linn,124
+1260,55-64,Basic education,Male,Other,Tartu linn,Tartu linn,47
+1261,55-64,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,184
+1262,55-64,Higher education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,43
+1263,55-64,Basic education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,56
+1264,55-64,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,78
+1265,55-64,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,13
+1266,55-64,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,15
+1267,55-64,Secondary education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,68
+1268,55-64,Higher education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,12
+1269,55-64,Basic education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,16
+1270,55-64,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,73
+1271,55-64,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,11
+1272,55-64,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,11
+1273,55-64,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,573
+1274,55-64,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,596
+1275,55-64,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,22
+1276,55-64,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,788
+1277,55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1184
+1278,55-64,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,46
+1279,55-64,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,560
+1280,55-64,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,613
+1281,55-64,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,36
+1282,55-64,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1251
+1283,55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,692
+1284,55-64,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,76
+1285,55-64,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1063
+1286,55-64,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,890
+1287,55-64,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,57
+1288,55-64,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,809
+1289,55-64,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,1049
+1290,55-64,Basic education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,39
+1291,55-64,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,289
+1292,55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,434
+1293,55-64,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,9
+1294,55-64,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,825
+1295,55-64,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,715
+1296,55-64,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,51
+1297,55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,3788
+1298,55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,2613
+1299,55-64,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,416
+1300,55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,402
+1301,55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,209
+1302,55-64,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,75
+1303,55-64,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,996
+1304,55-64,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,477
+1305,55-64,Basic education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,90
+1306,55-64,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1129
+1307,55-64,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,463
+1308,55-64,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,187
+1309,55-64,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1367
+1310,55-64,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,439
+1311,55-64,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,231
+1312,55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,802
+1313,55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,401
+1314,55-64,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,133
+1315,55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,2237
+1316,55-64,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,972
+1317,55-64,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,342
+1318,55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1075
+1319,55-64,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,432
+1320,55-64,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,130
+1321,55-64,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,3441
+1322,55-64,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,1409
+1323,55-64,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,316
+1324,55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,1329
+1325,55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,535
+1326,55-64,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,213
+1327,55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1439
+1328,55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,663
+1329,55-64,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,265
+1330,55-64,Secondary education,Female,Estonian,Tartu linn,Tartu linn,2141
+1331,55-64,Higher education,Female,Estonian,Tartu linn,Tartu linn,1995
+1332,55-64,Basic education,Female,Estonian,Tartu linn,Tartu linn,161
+1333,55-64,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1849
+1334,55-64,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1016
+1335,55-64,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,234
+1336,55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1070
+1337,55-64,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,371
+1338,55-64,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,115
+1339,55-64,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1984
+1340,55-64,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,758
+1341,55-64,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,307
+1342,55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1664
+1343,55-64,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,582
+1344,55-64,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,167
+1345,55-64,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,442
+1346,55-64,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,408
+1347,55-64,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,8
+1348,55-64,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,246
+1349,55-64,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,327
+1350,55-64,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,4
+1351,55-64,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,166
+1352,55-64,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,176
+1353,55-64,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,4
+1354,55-64,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1989
+1355,55-64,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1309
+1356,55-64,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,39
+1357,55-64,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,584
+1358,55-64,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,459
+1359,55-64,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,13
+1360,55-64,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,145
+1361,55-64,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,112
+1362,55-64,Basic education,Female,Other,Mustamäe ja Nõmme,Nõmme,2
+1363,55-64,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,88
+1364,55-64,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,155
+1365,55-64,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,723
+1366,55-64,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,441
+1367,55-64,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,24
+1368,55-64,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,936
+1369,55-64,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,531
+1370,55-64,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,37
+1371,55-64,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,7
+1372,55-64,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,3
+1373,55-64,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,2791
+1374,55-64,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,1574
+1375,55-64,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,86
+1376,55-64,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,170
+1377,55-64,Higher education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,32
+1378,55-64,Basic education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,17
+1379,55-64,Secondary education,Female,Other,Järva- ja Viljandimaa,Järvamaa,90
+1380,55-64,Higher education,Female,Other,Järva- ja Viljandimaa,Järvamaa,17
+1381,55-64,Basic education,Female,Other,Järva- ja Viljandimaa,Järvamaa,15
+1382,55-64,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,97
+1383,55-64,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,29
+1384,55-64,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,7
+1385,55-64,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,298
+1386,55-64,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,70
+1387,55-64,Basic education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,28
+1388,55-64,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,74
+1389,55-64,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,14
+1390,55-64,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,10
+1391,55-64,Secondary education,Female,Other,Pärnumaa,Pärnumaa,389
+1392,55-64,Higher education,Female,Other,Pärnumaa,Pärnumaa,116
+1393,55-64,Basic education,Female,Other,Pärnumaa,Pärnumaa,33
+1394,55-64,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,71
+1395,55-64,Higher education,Female,Other,Harju- ja Raplamaa,Raplamaa,25
+1396,55-64,Basic education,Female,Other,Harju- ja Raplamaa,Raplamaa,13
+1397,55-64,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,27
+1398,55-64,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,6
+1399,55-64,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1
+1400,55-64,Secondary education,Female,Other,Tartu linn,Tartu linn,610
+1401,55-64,Higher education,Female,Other,Tartu linn,Tartu linn,266
+1402,55-64,Basic education,Female,Other,Tartu linn,Tartu linn,33
+1403,55-64,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,236
+1404,55-64,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,87
+1405,55-64,Basic education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,26
+1406,55-64,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,148
+1407,55-64,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,46
+1408,55-64,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,16
+1409,55-64,Secondary education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,108
+1410,55-64,Higher education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,27
+1411,55-64,Basic education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,17
+1412,55-64,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,93
+1413,55-64,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,17
+1414,55-64,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,13
+1415,65-74,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,331
+1416,65-74,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,316
+1417,65-74,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,88
+1418,65-74,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,380
+1419,65-74,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,547
+1420,65-74,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,82
+1421,65-74,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,314
+1422,65-74,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,276
+1423,65-74,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,64
+1424,65-74,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,735
+1425,65-74,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,457
+1426,65-74,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,212
+1427,65-74,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,448
+1428,65-74,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,320
+1429,65-74,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,147
+1430,65-74,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,506
+1431,65-74,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,513
+1432,65-74,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,128
+1433,65-74,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,170
+1434,65-74,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,247
+1435,65-74,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,45
+1436,65-74,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,408
+1437,65-74,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,248
+1438,65-74,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,101
+1439,65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,2137
+1440,65-74,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1183
+1441,65-74,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,904
+1442,65-74,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,226
+1443,65-74,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,81
+1444,65-74,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,218
+1445,65-74,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,722
+1446,65-74,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,179
+1447,65-74,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,305
+1448,65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,689
+1449,65-74,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,178
+1450,65-74,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,418
+1451,65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,743
+1452,65-74,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,196
+1453,65-74,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,479
+1454,65-74,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,468
+1455,65-74,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,148
+1456,65-74,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,308
+1457,65-74,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1260
+1458,65-74,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,394
+1459,65-74,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,776
+1460,65-74,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,579
+1461,65-74,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,195
+1462,65-74,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,394
+1463,65-74,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,1900
+1464,65-74,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,522
+1465,65-74,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,817
+1466,65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,685
+1467,65-74,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,251
+1468,65-74,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,451
+1469,65-74,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,593
+1470,65-74,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,220
+1471,65-74,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,595
+1472,65-74,Secondary education,Male,Estonian,Tartu linn,Tartu linn,1084
+1473,65-74,Higher education,Male,Estonian,Tartu linn,Tartu linn,799
+1474,65-74,Basic education,Male,Estonian,Tartu linn,Tartu linn,465
+1475,65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1003
+1476,65-74,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,414
+1477,65-74,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,586
+1478,65-74,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,656
+1479,65-74,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,167
+1480,65-74,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,303
+1481,65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1183
+1482,65-74,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,346
+1483,65-74,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,647
+1484,65-74,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,890
+1485,65-74,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,213
+1486,65-74,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,487
+1487,65-74,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,164
+1488,65-74,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,197
+1489,65-74,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,8
+1490,65-74,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,98
+1491,65-74,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,184
+1492,65-74,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,9
+1493,65-74,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,72
+1494,65-74,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,84
+1495,65-74,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,12
+1496,65-74,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,698
+1497,65-74,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,500
+1498,65-74,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,72
+1499,65-74,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,180
+1500,65-74,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,157
+1501,65-74,Basic education,Male,Other,Mustamäe ja Nõmme,Mustamäe,32
+1502,65-74,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,53
+1503,65-74,Higher education,Male,Other,Mustamäe ja Nõmme,Nõmme,46
+1504,65-74,Basic education,Male,Other,Mustamäe ja Nõmme,Nõmme,12
+1505,65-74,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,28
+1506,65-74,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,72
+1507,65-74,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,204
+1508,65-74,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,126
+1509,65-74,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,38
+1510,65-74,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,381
+1511,65-74,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,233
+1512,65-74,Basic education,Male,Other,Harju- ja Raplamaa,Harjumaa,77
+1513,65-74,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,7
+1514,65-74,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,2
+1515,65-74,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+1516,65-74,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,888
+1517,65-74,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,517
+1518,65-74,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,154
+1519,65-74,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,72
+1520,65-74,Higher education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,12
+1521,65-74,Basic education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,54
+1522,65-74,Secondary education,Male,Other,Järva- ja Viljandimaa,Järvamaa,48
+1523,65-74,Higher education,Male,Other,Järva- ja Viljandimaa,Järvamaa,9
+1524,65-74,Basic education,Male,Other,Järva- ja Viljandimaa,Järvamaa,26
+1525,65-74,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,38
+1526,65-74,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,14
+1527,65-74,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,16
+1528,65-74,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,137
+1529,65-74,Higher education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,32
+1530,65-74,Basic education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,37
+1531,65-74,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,32
+1532,65-74,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,8
+1533,65-74,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,13
+1534,65-74,Secondary education,Male,Other,Pärnumaa,Pärnumaa,199
+1535,65-74,Higher education,Male,Other,Pärnumaa,Pärnumaa,62
+1536,65-74,Basic education,Male,Other,Pärnumaa,Pärnumaa,48
+1537,65-74,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,52
+1538,65-74,Higher education,Male,Other,Harju- ja Raplamaa,Raplamaa,11
+1539,65-74,Basic education,Male,Other,Harju- ja Raplamaa,Raplamaa,31
+1540,65-74,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,9
+1541,65-74,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,3
+1542,65-74,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,6
+1543,65-74,Secondary education,Male,Other,Tartu linn,Tartu linn,260
+1544,65-74,Higher education,Male,Other,Tartu linn,Tartu linn,114
+1545,65-74,Basic education,Male,Other,Tartu linn,Tartu linn,90
+1546,65-74,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,125
+1547,65-74,Higher education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,23
+1548,65-74,Basic education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,66
+1549,65-74,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,88
+1550,65-74,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,8
+1551,65-74,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,19
+1552,65-74,Secondary education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,72
+1553,65-74,Higher education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,7
+1554,65-74,Basic education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,44
+1555,65-74,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,29
+1556,65-74,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,19
+1557,65-74,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,27
+1558,65-74,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,705
+1559,65-74,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,534
+1560,65-74,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,79
+1561,65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,691
+1562,65-74,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,851
+1563,65-74,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,73
+1564,65-74,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,587
+1565,65-74,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,494
+1566,65-74,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,83
+1567,65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1573
+1568,65-74,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,781
+1569,65-74,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,260
+1570,65-74,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1026
+1571,65-74,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,677
+1572,65-74,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,152
+1573,65-74,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,762
+1574,65-74,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,749
+1575,65-74,Basic education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,89
+1576,65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,265
+1577,65-74,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,317
+1578,65-74,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,18
+1579,65-74,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,782
+1580,65-74,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,428
+1581,65-74,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,145
+1582,65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,3229
+1583,65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,1647
+1584,65-74,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,850
+1585,65-74,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,328
+1586,65-74,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,135
+1587,65-74,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,207
+1588,65-74,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,1037
+1589,65-74,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,307
+1590,65-74,Basic education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,220
+1591,65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1045
+1592,65-74,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,352
+1593,65-74,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,417
+1594,65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1215
+1595,65-74,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,367
+1596,65-74,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,440
+1597,65-74,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,710
+1598,65-74,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,282
+1599,65-74,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,285
+1600,65-74,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1976
+1601,65-74,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,568
+1602,65-74,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,717
+1603,65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,958
+1604,65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,275
+1605,65-74,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,319
+1606,65-74,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,3062
+1607,65-74,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,907
+1608,65-74,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,777
+1609,65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,1138
+1610,65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,359
+1611,65-74,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,422
+1612,65-74,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1077
+1613,65-74,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,396
+1614,65-74,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,529
+1615,65-74,Secondary education,Female,Estonian,Tartu linn,Tartu linn,2099
+1616,65-74,Higher education,Female,Estonian,Tartu linn,Tartu linn,1323
+1617,65-74,Basic education,Female,Estonian,Tartu linn,Tartu linn,411
+1618,65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1437
+1619,65-74,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,665
+1620,65-74,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,489
+1621,65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,961
+1622,65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,251
+1623,65-74,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,278
+1624,65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1887
+1625,65-74,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,564
+1626,65-74,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,528
+1627,65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1384
+1628,65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,348
+1629,65-74,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,337
+1630,65-74,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,472
+1631,65-74,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,406
+1632,65-74,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,40
+1633,65-74,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,228
+1634,65-74,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,354
+1635,65-74,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,21
+1636,65-74,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,167
+1637,65-74,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,164
+1638,65-74,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,18
+1639,65-74,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,2000
+1640,65-74,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1225
+1641,65-74,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,146
+1642,65-74,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,547
+1643,65-74,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,387
+1644,65-74,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,33
+1645,65-74,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,139
+1646,65-74,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,101
+1647,65-74,Basic education,Female,Other,Mustamäe ja Nõmme,Nõmme,22
+1648,65-74,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,73
+1649,65-74,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,88
+1650,65-74,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,6
+1651,65-74,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,594
+1652,65-74,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,342
+1653,65-74,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,62
+1654,65-74,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,807
+1655,65-74,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,395
+1656,65-74,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,112
+1657,65-74,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,8
+1658,65-74,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1
+1659,65-74,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,2
+1660,65-74,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,2857
+1661,65-74,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,1246
+1662,65-74,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,234
+1663,65-74,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,153
+1664,65-74,Higher education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,32
+1665,65-74,Basic education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,55
+1666,65-74,Secondary education,Female,Other,Järva- ja Viljandimaa,Järvamaa,87
+1667,65-74,Higher education,Female,Other,Järva- ja Viljandimaa,Järvamaa,12
+1668,65-74,Basic education,Female,Other,Järva- ja Viljandimaa,Järvamaa,26
+1669,65-74,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,95
+1670,65-74,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,33
+1671,65-74,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,24
+1672,65-74,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,310
+1673,65-74,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,62
+1674,65-74,Basic education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,77
+1675,65-74,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,50
+1676,65-74,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,17
+1677,65-74,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,25
+1678,65-74,Secondary education,Female,Other,Pärnumaa,Pärnumaa,427
+1679,65-74,Higher education,Female,Other,Pärnumaa,Pärnumaa,143
+1680,65-74,Basic education,Female,Other,Pärnumaa,Pärnumaa,75
+1681,65-74,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,111
+1682,65-74,Higher education,Female,Other,Harju- ja Raplamaa,Raplamaa,26
+1683,65-74,Basic education,Female,Other,Harju- ja Raplamaa,Raplamaa,36
+1684,65-74,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,22
+1685,65-74,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,7
+1686,65-74,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,11
+1687,65-74,Secondary education,Female,Other,Tartu linn,Tartu linn,584
+1688,65-74,Higher education,Female,Other,Tartu linn,Tartu linn,275
+1689,65-74,Basic education,Female,Other,Tartu linn,Tartu linn,118
+1690,65-74,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,215
+1691,65-74,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,57
+1692,65-74,Basic education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,66
+1693,65-74,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,175
+1694,65-74,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,44
+1695,65-74,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,25
+1696,65-74,Secondary education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,165
+1697,65-74,Higher education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,34
+1698,65-74,Basic education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,52
+1699,65-74,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,82
+1700,65-74,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,25
+1701,65-74,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,26
+1702,75+,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,274
+1703,75+,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,315
+1704,75+,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,131
+1705,75+,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,232
+1706,75+,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,420
+1707,75+,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,102
+1708,75+,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,228
+1709,75+,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,256
+1710,75+,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,101
+1711,75+,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,355
+1712,75+,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,313
+1713,75+,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,206
+1714,75+,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,553
+1715,75+,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,541
+1716,75+,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,295
+1717,75+,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,331
+1718,75+,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,409
+1719,75+,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,149
+1720,75+,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,110
+1721,75+,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,156
+1722,75+,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,51
+1723,75+,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,207
+1724,75+,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,195
+1725,75+,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,122
+1726,75+,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1058
+1727,75+,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,801
+1728,75+,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,956
+1729,75+,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,68
+1730,75+,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,58
+1731,75+,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,112
+1732,75+,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,359
+1733,75+,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,133
+1734,75+,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,376
+1735,75+,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,348
+1736,75+,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,140
+1737,75+,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,488
+1738,75+,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,321
+1739,75+,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,128
+1740,75+,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,463
+1741,75+,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,145
+1742,75+,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,95
+1743,75+,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,273
+1744,75+,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,537
+1745,75+,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,183
+1746,75+,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,761
+1747,75+,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,280
+1748,75+,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,122
+1749,75+,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,438
+1750,75+,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,918
+1751,75+,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,383
+1752,75+,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,1098
+1753,75+,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,311
+1754,75+,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,138
+1755,75+,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,407
+1756,75+,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,282
+1757,75+,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,137
+1758,75+,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,613
+1759,75+,Secondary education,Male,Estonian,Tartu linn,Tartu linn,785
+1760,75+,Higher education,Male,Estonian,Tartu linn,Tartu linn,739
+1761,75+,Basic education,Male,Estonian,Tartu linn,Tartu linn,575
+1762,75+,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,450
+1763,75+,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,291
+1764,75+,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,607
+1765,75+,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,297
+1766,75+,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,108
+1767,75+,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,378
+1768,75+,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,533
+1769,75+,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,252
+1770,75+,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,680
+1771,75+,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,379
+1772,75+,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,138
+1773,75+,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,486
+1774,75+,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,68
+1775,75+,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,101
+1776,75+,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,16
+1777,75+,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,24
+1778,75+,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,84
+1779,75+,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,6
+1780,75+,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,28
+1781,75+,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,37
+1782,75+,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,11
+1783,75+,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,147
+1784,75+,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,138
+1785,75+,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,52
+1786,75+,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,111
+1787,75+,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,98
+1788,75+,Basic education,Male,Other,Mustamäe ja Nõmme,Mustamäe,30
+1789,75+,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,21
+1790,75+,Higher education,Male,Other,Mustamäe ja Nõmme,Nõmme,30
+1791,75+,Basic education,Male,Other,Mustamäe ja Nõmme,Nõmme,7
+1792,75+,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,10
+1793,75+,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,22
+1794,75+,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,1
+1795,75+,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,69
+1796,75+,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,65
+1797,75+,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,23
+1798,75+,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,92
+1799,75+,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,66
+1800,75+,Basic education,Male,Other,Harju- ja Raplamaa,Harjumaa,63
+1801,75+,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,3
+1802,75+,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,3
+1803,75+,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,263
+1804,75+,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,209
+1805,75+,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,150
+1806,75+,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,17
+1807,75+,Higher education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,8
+1808,75+,Basic education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,40
+1809,75+,Secondary education,Male,Other,Järva- ja Viljandimaa,Järvamaa,14
+1810,75+,Higher education,Male,Other,Järva- ja Viljandimaa,Järvamaa,9
+1811,75+,Basic education,Male,Other,Järva- ja Viljandimaa,Järvamaa,14
+1812,75+,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,17
+1813,75+,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,4
+1814,75+,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,12
+1815,75+,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,34
+1816,75+,Higher education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,8
+1817,75+,Basic education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,43
+1818,75+,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,5
+1819,75+,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,2
+1820,75+,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,17
+1821,75+,Secondary education,Male,Other,Pärnumaa,Pärnumaa,78
+1822,75+,Higher education,Male,Other,Pärnumaa,Pärnumaa,26
+1823,75+,Basic education,Male,Other,Pärnumaa,Pärnumaa,37
+1824,75+,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,15
+1825,75+,Higher education,Male,Other,Harju- ja Raplamaa,Raplamaa,4
+1826,75+,Basic education,Male,Other,Harju- ja Raplamaa,Raplamaa,24
+1827,75+,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,5
+1828,75+,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,4
+1829,75+,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,5
+1830,75+,Secondary education,Male,Other,Tartu linn,Tartu linn,82
+1831,75+,Higher education,Male,Other,Tartu linn,Tartu linn,57
+1832,75+,Basic education,Male,Other,Tartu linn,Tartu linn,57
+1833,75+,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,37
+1834,75+,Higher education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,15
+1835,75+,Basic education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,50
+1836,75+,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,22
+1837,75+,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,3
+1838,75+,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,9
+1839,75+,Secondary education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,18
+1840,75+,Higher education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,4
+1841,75+,Basic education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,26
+1842,75+,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,17
+1843,75+,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,9
+1844,75+,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,25
+1845,75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,776
+1846,75+,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,512
+1847,75+,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,274
+1848,75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,745
+1849,75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,785
+1850,75+,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,218
+1851,75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,645
+1852,75+,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,477
+1853,75+,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,263
+1854,75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1113
+1855,75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,522
+1856,75+,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,510
+1857,75+,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1924
+1858,75+,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1122
+1859,75+,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,686
+1860,75+,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,913
+1861,75+,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,691
+1862,75+,Basic education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,323
+1863,75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,340
+1864,75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,246
+1865,75+,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,107
+1866,75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,729
+1867,75+,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,366
+1868,75+,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,348
+1869,75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,2789
+1870,75+,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,1232
+1871,75+,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,1940
+1872,75+,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,230
+1873,75+,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,97
+1874,75+,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,295
+1875,75+,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,1054
+1876,75+,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,254
+1877,75+,Basic education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,752
+1878,75+,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,961
+1879,75+,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,241
+1880,75+,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,951
+1881,75+,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1060
+1882,75+,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,284
+1883,75+,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,892
+1884,75+,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,579
+1885,75+,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,211
+1886,75+,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,566
+1887,75+,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1703
+1888,75+,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,439
+1889,75+,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1521
+1890,75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,784
+1891,75+,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,222
+1892,75+,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,856
+1893,75+,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,2709
+1894,75+,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,802
+1895,75+,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,2383
+1896,75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,888
+1897,75+,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,277
+1898,75+,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,926
+1899,75+,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,906
+1900,75+,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,245
+1901,75+,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1188
+1902,75+,Secondary education,Female,Estonian,Tartu linn,Tartu linn,2467
+1903,75+,Higher education,Female,Estonian,Tartu linn,Tartu linn,1404
+1904,75+,Basic education,Female,Estonian,Tartu linn,Tartu linn,1237
+1905,75+,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1269
+1906,75+,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,443
+1907,75+,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1244
+1908,75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,954
+1909,75+,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,214
+1910,75+,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,693
+1911,75+,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1578
+1912,75+,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,510
+1913,75+,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1257
+1914,75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1154
+1915,75+,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,278
+1916,75+,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1094
+1917,75+,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,282
+1918,75+,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,204
+1919,75+,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,97
+1920,75+,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,160
+1921,75+,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,204
+1922,75+,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,55
+1923,75+,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,121
+1924,75+,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,104
+1925,75+,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,53
+1926,75+,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,744
+1927,75+,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,423
+1928,75+,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,290
+1929,75+,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,448
+1930,75+,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,311
+1931,75+,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,190
+1932,75+,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,89
+1933,75+,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,49
+1934,75+,Basic education,Female,Other,Mustamäe ja Nõmme,Nõmme,59
+1935,75+,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,43
+1936,75+,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,33
+1937,75+,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,12
+1938,75+,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,324
+1939,75+,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,172
+1940,75+,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,139
+1941,75+,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,350
+1942,75+,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,168
+1943,75+,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,225
+1944,75+,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,5
+1945,75+,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,3
+1946,75+,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,3
+1947,75+,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,1427
+1948,75+,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,583
+1949,75+,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,757
+1950,75+,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,86
+1951,75+,Higher education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,16
+1952,75+,Basic education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,103
+1953,75+,Secondary education,Female,Other,Järva- ja Viljandimaa,Järvamaa,53
+1954,75+,Higher education,Female,Other,Järva- ja Viljandimaa,Järvamaa,15
+1955,75+,Basic education,Female,Other,Järva- ja Viljandimaa,Järvamaa,52
+1956,75+,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,52
+1957,75+,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,12
+1958,75+,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,29
+1959,75+,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,159
+1960,75+,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,28
+1961,75+,Basic education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,143
+1962,75+,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,21
+1963,75+,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,13
+1964,75+,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,50
+1965,75+,Secondary education,Female,Other,Pärnumaa,Pärnumaa,241
+1966,75+,Higher education,Female,Other,Pärnumaa,Pärnumaa,65
+1967,75+,Basic education,Female,Other,Pärnumaa,Pärnumaa,172
+1968,75+,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,34
+1969,75+,Higher education,Female,Other,Harju- ja Raplamaa,Raplamaa,9
+1970,75+,Basic education,Female,Other,Harju- ja Raplamaa,Raplamaa,54
+1971,75+,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,16
+1972,75+,Higher education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,8
+1973,75+,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,11
+1974,75+,Secondary education,Female,Other,Tartu linn,Tartu linn,319
+1975,75+,Higher education,Female,Other,Tartu linn,Tartu linn,158
+1976,75+,Basic education,Female,Other,Tartu linn,Tartu linn,230
+1977,75+,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,121
+1978,75+,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,28
+1979,75+,Basic education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,171
+1980,75+,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,83
+1981,75+,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,26
+1982,75+,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,66
+1983,75+,Secondary education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,66
+1984,75+,Higher education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,24
+1985,75+,Basic education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,87
+1986,75+,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,68
+1987,75+,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,16
+1988,75+,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,73

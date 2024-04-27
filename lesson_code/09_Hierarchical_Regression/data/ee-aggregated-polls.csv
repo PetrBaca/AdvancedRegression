@@ -1,0 +1,1158 @@
+age_group,education,gender,nationality,electoral_district,unit,EKRE,Eesti 200,Hard to say,Isamaa,Keskerakond,Mitte ükski erakond,Other,Parempoolsed,Reformierakond,Rohelised,SDE,N
+16-24,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,1,0,0,0,0,0,0,1,0,0,2
+16-24,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,4,0,0,0,0,0,0,0,0,1,5
+16-24,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,1,0,2,0,0,0,0,0,0,0,1,4
+16-24,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,1,0,0,0,0,0,0,0,0,1
+16-24,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,0,0,0,1,0,0,1
+16-24,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,2,0,0,0,0,0,0,1,0,0,3
+16-24,Basic education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,0,0,0,0,0,0,0,0,0,1
+16-24,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1,0,0,0,0,0,0,0,0,0,0,1
+16-24,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,1,0,0,0,0,0,1
+16-24,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,1,0,0,0,1,0,2
+16-24,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,2,0,0,1,0,0,3
+16-24,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,0,0,0,1,0,0,0,0,0,0,1
+16-24,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,2,1,0,0,0,0,0,0,0,0,3
+16-24,Basic education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,0,0,0,0,1,0,1
+16-24,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,1,0,0,1,0,0,1,0,1,0,0,4
+16-24,Basic education,Female,Estonian,Tartu linn,Tartu linn,0,1,1,0,0,0,0,0,1,0,0,3
+16-24,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,1,0,1,0,2,0,0,0,0,0,5
+16-24,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,1,0,0,0,0,0,0,0,0,0,1
+16-24,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,2,0,0,0,0,0,0,2
+16-24,Basic education,Female,Other,Pärnumaa,Pärnumaa,0,0,0,1,0,0,0,0,0,0,0,1
+16-24,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,1,0,0,0,0,0,1
+16-24,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,3,0,3,0,1,1,0,0,2,1,1,12
+16-24,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,1,0,0,0,1,0,0,0,0,0,2
+16-24,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,2,0,0,0,0,0,0,0,0,0,0,2
+16-24,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,0,0,0,0,0,0,0,0,0,1
+16-24,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,1,0,0,0,0,0,0,0,0,0,0,1
+16-24,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,1,0,0,0,2,0,0,3
+16-24,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,0,1,0,0,0,1,0,2
+16-24,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,1,0,0,0,0,0,1
+16-24,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,1,0,0,0,0,1,2
+16-24,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,3,0,0,0,0,1,0,0,0,0,0,4
+16-24,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,2,0,0,0,0,1,0,0,0,0,0,3
+16-24,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,0,0,0,1,0,0,1
+16-24,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,0,0,1,0,0,0,0,0,0,0,0,1
+16-24,Basic education,Male,Estonian,Tartu linn,Tartu linn,0,1,2,1,0,0,0,1,2,0,0,7
+16-24,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,1,1,0,1,0,0,3
+16-24,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,0,2,0,0,0,0,0,2
+16-24,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,1,0,1,1,0,0,0,0,0,4
+16-24,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,1,0,0,0,0,0,0,0,1
+16-24,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,0,0,0,0,0,1,0,0,0,0,0,1
+16-24,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,1,0,0,0,0,0,1
+16-24,Basic education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,0,0,0,0,1,1,2
+16-24,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,1,0,0,0,0,0,0,1,0,1,3
+16-24,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,1,0,0,0,0,0,0,0,0,0,1,2
+16-24,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,0,0,0,0,0,0,0,0,1,2
+16-24,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,1,0,0,0,0,0,0,0,0,0,1
+16-24,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,0,0,0,0,3,1,0,4
+16-24,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,0,0,0,0,2,0,0,2,0,0,5
+16-24,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,1,0,0,0,0,0,0,0,0,2
+16-24,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,0,1,0,0,3,0,1,5
+16-24,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,0,0,0,0,0,2,2
+16-24,Higher education,Female,Estonian,Tartu linn,Tartu linn,0,4,1,0,0,0,0,0,3,0,3,11
+16-24,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,1,0,0,0,1,0,0,0,0,0,0,2
+16-24,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,1,0,1,1,0,0,0,0,0,3
+16-24,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,0,0,1,0,0,1,0,0,0,0,0,2
+16-24,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,1,0,1,0,0,0,0,0,0,2
+16-24,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,0,0,0,1,0,0,1
+16-24,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,0,0,0,0,0,0,1,1,0,2
+16-24,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,1,0,0,0,0,0,0,0,1
+16-24,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,0,0,0,1,0,0,1
+16-24,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,2,0,0,0,0,1,0,0,0,0,0,3
+16-24,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,1,0,0,0,1,0,0,0,1,0,3
+16-24,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,1,0,0,0,0,0,0,0,0,1
+16-24,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,0,0,0,0,0,0,0,0,1,0,0,1
+16-24,Higher education,Male,Estonian,Tartu linn,Tartu linn,0,0,0,0,0,2,0,0,0,0,3,5
+16-24,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1,0,0,0,0,1,0,0,0,0,0,2
+16-24,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,1,0,0,0,0,0,0,0,1
+16-24,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,1,0,0,0,0,0,0,0,0,0,1
+16-24,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,1,0,0,0,0,0,0,1
+16-24,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,1,1,0,0,0,0,0,1,0,0,3
+16-24,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,1,4,0,1,0,0,0,1,2,1,10
+16-24,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,0,0,0,1,0,1,3
+16-24,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,2,0,0,0,0,0,4,0,0,6
+16-24,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,1,0,0,0,0,0,1
+16-24,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,1,0,0,0,1,0,0,1,0,0,3
+16-24,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,0,0,0,1,0,0,0,0,0,2
+16-24,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,1,0,0,0,0,0,0,0,0,1
+16-24,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,2,0,2,0,0,0,1,0,5
+16-24,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,2,1,0,0,0,0,0,0,0,0,3
+16-24,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,1,3,0,0,2,0,0,2,1,0,10
+16-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,3,1,0,1,1,1,0,1,1,1,11
+16-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,1,1,0,0,0,0,0,0,1,4
+16-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,0,1,0,0,0,0,0,0,0,0,1
+16-24,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1,0,1,0,0,2,0,0,1,2,0,7
+16-24,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,4,1,0,0,1,0,0,0,0,0,6
+16-24,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,0,0,3,0,1,1,0,0,2,0,0,7
+16-24,Secondary education,Female,Estonian,Tartu linn,Tartu linn,0,10,5,0,0,4,0,0,8,3,2,32
+16-24,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,1,0,0,0,0,0,0,0,0,1
+16-24,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,1,1,0,1,0,0,0,0,0,3
+16-24,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,1,0,0,0,0,0,0,0,0,0,1
+16-24,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,1,0,0,0,0,1,0,2
+16-24,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,0,0,1,0,0,2,0,0,0,0,0,3
+16-24,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,3,0,3,3,0,0,0,0,0,9
+16-24,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,2,1,0,0,0,0,0,3
+16-24,Secondary education,Female,Other,Pärnumaa,Pärnumaa,0,0,0,0,2,0,0,0,0,0,0,2
+16-24,Secondary education,Female,Other,Tartu linn,Tartu linn,0,0,0,0,0,3,0,0,0,0,0,3
+16-24,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,1,1,0,0,0,0,0,2,0,0,4
+16-24,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,2,0,0,0,0,0,0,2,0,1,5
+16-24,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,1,0,0,0,0,0,0,1,0,1,4
+16-24,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,0,1,2,1,0,3,0,0,3,0,3,13
+16-24,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,1,0,0,0,0,0,3,0,1,5
+16-24,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,1,0,0,0,0,1,1,0,0,0,0,3
+16-24,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,1,0,0,0,0,0,0,0,0,0,1
+16-24,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,0,0,0,3,0,0,0,0,0,4
+16-24,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,1,0,0,0,0,0,0,0,1,0,1,3
+16-24,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,0,0,0,0,0,0,0,0,0,0,1
+16-24,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,3,0,0,1,0,0,0,0,0,0,0,4
+16-24,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,3,0,1,0,0,1,0,0,1,0,0,6
+16-24,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,2,2,0,1,0,0,1,0,1,7
+16-24,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,0,0,1,2,0,0,0,0,0,4
+16-24,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,0,1,0,1,0,0,0,0,0,3
+16-24,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,1,0,2,0,0,2,0,0,2,1,1,9
+16-24,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,2,0,0,0,0,0,1,0,0,3
+16-24,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,2,0,2,0,0,2,0,0,2,0,0,8
+16-24,Secondary education,Male,Estonian,Tartu linn,Tartu linn,2,5,0,1,0,2,0,0,11,2,3,26
+16-24,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,1,0,0,1,0,0,0,0,0,2
+16-24,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,1,0,0,0,0,3,0,0,4
+16-24,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,0,0,0,0,0,0,0,0,0,1
+16-24,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,0,0,0,0,0,1,1
+16-24,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,0,0,0,0,0,0,0,0,0,0,1
+16-24,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,0,0,0,0,0,2,0,0,0,0,1,3
+16-24,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,2,1,0,2,1,0,0,0,0,0,7
+16-24,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,1,2,0,0,0,0,0,0,0,0,3
+16-24,Secondary education,Male,Other,Tartu linn,Tartu linn,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,1,0,0,0,0,0,0,1
+25-34,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,0,0,0,0,1,0,0,1
+25-34,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,4,0,0,1,0,0,0,0,0,5
+25-34,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,1,0,0,0,0,0,0,0,0,0,1
+25-34,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,3,0,1,0,0,0,0,0,0,0,0,4
+25-34,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,1,1,0,0,0,0,0,0,0,2
+25-34,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,1,0,0,2,0,0,0,0,0,3
+25-34,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,0,0,0,0,0,0,0,0,0,1
+25-34,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,0,0,0,0,0,0,0,0,0,1
+25-34,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,3,0,0,2,0,0,1,1,0,8
+25-34,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,1,0,0,0,1,0,0,0,0,0,2
+25-34,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,1,0,0,1,1,0,0,0,0,0,1,4
+25-34,Basic education,Female,Estonian,Tartu linn,Tartu linn,1,1,0,0,0,1,0,0,1,0,0,4
+25-34,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,1,0,0,0,0,0,0,1
+25-34,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,1,0,0,1,0,0,0,0,1,4
+25-34,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,2,0,0,2,0,0,0,0,0,5
+25-34,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,0,0,0,1,0,0,1
+25-34,Basic education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,0,1,0,0,0,0,1
+25-34,Basic education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Basic education,Female,Other,Mustamäe ja Nõmme,Nõmme,0,0,1,0,0,0,0,0,0,0,0,1
+25-34,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,1,0,0,0,0,0,0,1
+25-34,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1,0,0,0,0,0,0,0,0,0,0,1
+25-34,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1,0,1,0,0,0,0,0,0,0,0,2
+25-34,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,1,1,0,2,0,0,1,2,0,7
+25-34,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,1,0,0,1,0,0,0,0,0,0,0,2
+25-34,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,0,1,0,0,0,1,0,0,1,0,0,3
+25-34,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,0,0,0,0,1,0,0,1
+25-34,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,2,0,1,5,0,0,1,0,0,9
+25-34,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,1,0,1,1,0,0,0,0,0,3
+25-34,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,0,0,0,0,0,0,1
+25-34,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,0,0,1,1,0,0,0,0,0,3
+25-34,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,2,0,0,0,0,0,0,0,0,0,2
+25-34,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,3,0,0,0,0,0,0,0,2,0,0,5
+25-34,Basic education,Male,Estonian,Tartu linn,Tartu linn,0,2,0,1,0,0,0,0,0,0,0,3
+25-34,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,1,0,0,0,0,0,0,1
+25-34,Basic education,Male,Other,Tartu linn,Tartu linn,0,0,0,0,0,0,0,0,0,1,0,1
+25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1,0,1,0,1,1,0,0,2,0,1,7
+25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,0,1,0,3,1,2,7
+25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,4,1,0,1,3,0,0,4,0,3,16
+25-34,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,2,6,4,0,2,2,0,0,5,0,4,25
+25-34,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,1,0,0,0,0,0,0,0,0,0,1
+25-34,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,1,0,0,0,0,0,1,0,0,2
+25-34,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,1,0,0,0,0,0,0,0,1,2
+25-34,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,2,1,0,0,0,0,0,2,0,1,6
+25-34,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,0,0,0,1,0,1,2
+25-34,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,1,2,0,0,0,0,0,4,1,1,9
+25-34,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,4,2,0,0,1,0,0,6,2,4,19
+25-34,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,1,3,0,2,1,0,0,1,1,0,10
+25-34,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,0,0,0,1,0,0,1
+25-34,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,3,0,1,0,0,0,0,5,1,2,12
+25-34,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,1,0,0,0,0,0,0,0,0,1,2
+25-34,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,1,0,0,0,1,0,0,3,0,0,5
+25-34,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,0,0,3,1,1,1,0,0,4,0,0,10
+25-34,Higher education,Female,Estonian,Tartu linn,Tartu linn,0,2,0,0,1,2,0,0,4,1,2,12
+25-34,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,0,0,0,0,1,0,0,1
+25-34,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,3,0,0,1,0,0,4
+25-34,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,1,0,0,0,1,1,0,0,0,0,3
+25-34,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,2,0,0,0,0,0,0,0,0,2
+25-34,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,0,2,0,1,1,0,0,1,0,0,5
+25-34,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,0,1,1,0,1,1,0,0,0,1,0,5
+25-34,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,1,0,0,0,0,0,0,0,0,1
+25-34,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,3,0,11,5,0,0,2,0,1,23
+25-34,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,1,0,0,0,0,0,0,0,1,2
+25-34,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,2,1,0,1,0,0,0,0,0,0,4
+25-34,Higher education,Female,Other,Tartu linn,Tartu linn,0,1,0,0,1,2,0,0,0,0,0,4
+25-34,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1,0,0,2,0,0,0,0,3,0,0,6
+25-34,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,2,0,1,2,0,0,0,3,1,0,9
+25-34,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,3,2,0,0,0,0,0,6,0,3,14
+25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1,1,3,0,1,0,0,0,7,0,2,15
+25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,0,0,1,0,0,0,0,1,2
+25-34,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,0,0,0,0,1,0,1
+25-34,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,0,1,0,1,1,1,0,0,1,1,0,6
+25-34,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,2,0,0,0,0,1,0,0,3
+25-34,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,1,0,0,0,0,0,1,0,1,3
+25-34,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1,0,0,0,0,0,0,0,0,0,0,1
+25-34,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,0,0,2,1,0,0,6,0,0,10
+25-34,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,5,0,0,1,1,0,0,5,2,0,15
+25-34,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,1,1,1,1,0,0,0,0,0,0,5
+25-34,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,1,0,0,0,0,0,0,0,0,0,1
+25-34,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,1,0,0,0,0,0,0,2,0,0,4
+25-34,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,1,0,0,1,3,1,0,2,0,0,8
+25-34,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,3,1,0,0,2,0,0,1,1,1,9
+25-34,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,0,1,1,0,0,0,0,0,0,0,0,2
+25-34,Higher education,Male,Estonian,Tartu linn,Tartu linn,2,2,0,0,0,4,1,0,3,0,0,12
+25-34,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,0,0,0,1,0,0,1
+25-34,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,1,0,0,0,0,0,0,0,1,3
+25-34,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,0,2,0,0,0,0,0,2
+25-34,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,1,1,0,1,1,0,0,0,0,0,4
+25-34,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,1,1,0,0,0,1,0,0,0,0,0,3
+25-34,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,1,1,0,0,2,1,0,0,0,0,0,5
+25-34,Higher education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,0,0,0,0,0,0,1,1
+25-34,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,2,4,1,0,1,3,0,0,0,0,0,11
+25-34,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,1,0,0,0,0,0,0,0,0,1
+25-34,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,1,1,0,0,1,1,0,0,1,0,0,5
+25-34,Higher education,Male,Other,Pärnumaa,Pärnumaa,0,0,0,0,1,0,0,0,0,0,0,1
+25-34,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,1,0,0,0,1,0,1,3
+25-34,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,1,0,0,2,0,0,1,0,0,4
+25-34,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,2,0,2,1,0,0,0,0,0,0,5
+25-34,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,2,3,0,0,0,3,0,0,7,1,2,18
+25-34,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,1,0,0,1,0,1,0,0,0,0,0,3
+25-34,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,1,0,1,0,1,0,0,0,1,0,0,4
+25-34,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,0,0,0,0,0,2,2
+25-34,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,0,0,1,0,0,0,0,0,0,2
+25-34,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1,0,0,0,0,0,0,0,0,0,0,1
+25-34,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,0,1,0,0,3,0,0,0,0,0,5
+25-34,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,1,0,0,1,0,0,0,0,0,2
+25-34,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,2,1,0,2,0,0,0,0,1,7
+25-34,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,1,2,0,1,1,0,0,0,0,1,6
+25-34,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,1,1,2,1,0,0,1,0,0,6
+25-34,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,0,0,0,0,0,1,1
+25-34,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,1,2,0,1,1,0,0,2,1,0,8
+25-34,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,0,0,0,0,0,1,1
+25-34,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,1,1,1,2,0,3,1,0,3,0,0,12
+25-34,Secondary education,Female,Estonian,Tartu linn,Tartu linn,0,0,2,2,2,1,0,0,3,1,0,11
+25-34,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,2,1,0,0,1,0,0,0,0,0,4
+25-34,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,1,0,0,1,1,0,0,1,0,0,4
+25-34,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,1,0,1,1,0,0,0,0,1,5
+25-34,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,2,0,1,0,0,0,0,0,1,4
+25-34,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,1,0,0,1,0,0,0,0,0,2
+25-34,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,1,0,4,0,2,3,0,0,0,0,0,10
+25-34,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,1,0,0,0,0,0,0,1
+25-34,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,0,0,0,1,1,0,0,0,0,0,3
+25-34,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,2,0,2,3,0,0,1,1,2,11
+25-34,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,1,0,0,0,0,1,0,0,0,0,1,3
+25-34,Secondary education,Female,Other,Pärnumaa,Pärnumaa,0,0,0,0,1,1,0,0,0,0,0,2
+25-34,Secondary education,Female,Other,Tartu linn,Tartu linn,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,1,0,0,0,0,0,0,1,0,2,4
+25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,1,0,1,1,0,0,3,0,0,6
+25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,5,0,0,0,2,1,0,0,1,0,9
+25-34,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1,3,1,1,0,5,0,0,4,1,0,16
+25-34,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,1,0,0,2,0,3,0,0,0,0,0,6
+25-34,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,2,0,0,0,0,0,0,0,1,0,0,3
+25-34,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,1,2,0,2,0,0,0,0,0,5
+25-34,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,2,0,1,0,2,0,0,0,0,0,0,5
+25-34,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,2,2,0,0,0,1,0,0,1,1,1,8
+25-34,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,3,0,0,1,0,1,0,0,0,0,0,5
+25-34,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,2,0,0,1,0,3,1,0,1,0,0,8
+25-34,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,3,2,0,2,0,3,0,0,2,0,0,12
+25-34,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,1,3,0,0,2,0,0,3,0,1,11
+25-34,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,1,1,1,2,1,0,0,2,0,0,9
+25-34,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,0,0,0,1,0,0,1
+25-34,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,3,2,0,1,2,0,0,4,0,0,13
+25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,3,0,1,1,0,2,0,0,5,1,2,15
+25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,1,3,0,0,0,0,0,3,0,0,7
+25-34,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,4,2,0,1,1,2,1,0,1,0,0,12
+25-34,Secondary education,Male,Estonian,Tartu linn,Tartu linn,1,2,1,3,1,4,0,0,6,0,0,18
+25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,1,0,0,1,0,0,1,0,0,3
+25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,2,0,1,0,0,1,0,0,0,1,0,5
+25-34,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,1,0,1,0,0,0,0,2
+25-34,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,1,0,0,0,0,0,2
+25-34,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,3,1,0,0,1,3,0,0,2,0,1,11
+25-34,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,1,0,0,0,0,0,1
+25-34,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,2,0,0,1,3,0,0,0,0,0,7
+25-34,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,0,3,0,0,0,0,0,3
+25-34,Secondary education,Male,Other,Tartu linn,Tartu linn,0,0,1,0,0,0,0,0,0,0,0,1
+25-34,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,0,0,0,1,0,0,1
+35-44,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,1,0,0,0,1,0,0,0,0,0,2
+35-44,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,3,0,1,0,1,1,0,0,4,0,0,10
+35-44,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,1,0,0,0,0,0,0,0,0,0,0,1
+35-44,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,0,2,0,0,0,0,0,2
+35-44,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,0,1,0,0,0,0,3,4
+35-44,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1,0,0,0,0,1,0,0,0,0,0,2
+35-44,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,0,0,0,2,0,0,0,0,0,3
+35-44,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,2,1,0,1,0,0,0,0,0,0,0,4
+35-44,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Female,Estonian,Tartu linn,Tartu linn,0,0,1,0,0,1,0,0,0,0,0,2
+35-44,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,1,0,0,0,0,0,0,0,0,2
+35-44,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,1,0,0,1,0,0,0,0,0,3
+35-44,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,1,1,0,0,0,0,0,2
+35-44,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,0,0,0,0,0,0,1,1
+35-44,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,2,0,0,0,0,0,0,2
+35-44,Basic education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,1,0,0,0,0,0,2
+35-44,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,1,0,1,0,1,0,0,0,0,0,0,3
+35-44,Basic education,Female,Other,Pärnumaa,Pärnumaa,0,0,1,0,0,1,0,0,0,0,0,2
+35-44,Basic education,Female,Other,Tartu linn,Tartu linn,0,0,0,0,0,2,0,0,0,0,0,2
+35-44,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,1,0,0,1,0,0,0,0,0,2
+35-44,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1,0,0,0,1,1,0,0,0,0,2,5
+35-44,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,0,0,1,1,0,0,4,0,0,6
+35-44,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,3,0,2,0,1,0,0,0,1,0,0,7
+35-44,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,1,1,0,0,0,0,0,2
+35-44,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,0,0,0,0,1,0,0,0,1,2
+35-44,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,1,1,0,2,0,0,0,0,0,4
+35-44,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,1,0,0,0,0,0,0,1,0,0,2
+35-44,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,1,0,0,0,0,0,2
+35-44,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,2,0,0,2,0,0,1,0,0,6
+35-44,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,1,0,0,0,0,0,0,1,0,0,2
+35-44,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,1,0,0,0,0,0,0,0,1,0,0,2
+35-44,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,0,0,1,0,0,0,0,0,1,0,0,2
+35-44,Basic education,Male,Estonian,Tartu linn,Tartu linn,0,1,1,0,0,1,0,0,1,0,0,4
+35-44,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1,0,0,0,0,0,0,0,0,0,0,1
+35-44,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,1,0,1,0,0,0,0,0,0,0,3
+35-44,Basic education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,0,0,0,2,0,0,2
+35-44,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,0,0,0,0,0,0,1
+35-44,Basic education,Male,Other,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Basic education,Male,Other,Tartu linn,Tartu linn,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,1,0,0,0,0,0,0,2,0,0,3
+35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,1,0,0,0,2,0,0,6,0,0,9
+35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,4,1,1,0,2,0,1,3,1,0,14
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,0,3,3,2,0,7,0,2,14,2,0,33
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,0,1,0,0,0,1,0,0,1,0,0,3
+35-44,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,0,0,0,0,0,0,1,0,0,1
+35-44,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,0,0,0,1,0,0,1
+35-44,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,1,0,0,0,1,0,0,2,0,0,4
+35-44,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,1,0,0,1,0,0,1,0,0,3
+35-44,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,1,0,0,0,1,0,0,1,0,0,3
+35-44,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,1,0,1,0,1,0,0,1,0,0,4
+35-44,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,2,1,2,0,2,0,0,8,0,2,18
+35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,4,3,0,0,2,0,0,10,0,0,20
+35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,3,1,0,0,2,0,0,6
+35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,1,0,0,2,0,1,4
+35-44,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,2,2,0,0,2,0,0,1,0,1,8
+35-44,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,1,2,0,0,2,0,0,1,0,0,6
+35-44,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,3,1,0,0,1,0,0,2,0,2,9
+35-44,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,3,0,1,1,0,0,0,0,6,0,1,12
+35-44,Higher education,Female,Estonian,Tartu linn,Tartu linn,2,2,3,0,1,3,0,0,2,1,5,19
+35-44,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,0,0,0,0,0,1,1
+35-44,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,1,0,0,0,0,0,0,0,0,1
+35-44,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,1,0,0,0,0,0,1,0,0,2
+35-44,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,4,0,0,0,5,0,0,0,1,0,0,10
+35-44,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,1,0,0,0,0,0,0,0,0,1
+35-44,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,0,0,0,0,0,1,2
+35-44,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,2,3,0,2,1,1,0,0,0,0,9
+35-44,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,1,2,0,0,2,2,0,0,1,0,1,9
+35-44,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,0,1,0,0,0,1,0,0,0,0,0,2
+35-44,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,1,0,1,0,0,0,0,0,0,2
+35-44,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,2,0,4,0,4,7,0,0,1,0,1,19
+35-44,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,1,0,0,0,0,1,0,0,0,2
+35-44,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,0,0,0,0,0,0,0,0,0,0,1,1
+35-44,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,2,0,3,2,0,0,0,0,1,8
+35-44,Higher education,Female,Other,Pärnumaa,Pärnumaa,0,0,0,0,0,0,0,0,0,0,1,1
+35-44,Higher education,Female,Other,Tartu linn,Tartu linn,0,0,1,0,2,1,0,0,0,0,0,4
+35-44,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1,0,0,0,1,2,0,0,3,0,0,7
+35-44,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,1,0,0,1,0,0,2,0,0,4
+35-44,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,3,0,1,1,1,0,0,2,0,2,10
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,2,3,0,0,0,4,0,0,13,0,0,22
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,1,0,0,0,0,0,1,0,0,2
+35-44,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,0,0,0,2,0,0,2
+35-44,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,0,0,0,0,1,0,0,1
+35-44,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,1,1,2,1,0,0,0,3,1,1,11
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,1,3,0,0,4,0,0,5,0,0,13
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,1,0,0,0,0,0,1,0,0,3
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,1,0,0,0,1,1,0,0,1,0,0,4
+35-44,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,1,0,1,0,1,0,0,0,0,0,3
+35-44,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,1,0,3,0,0,0,0,1,5
+35-44,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,0,0,0,1,1,1,0,0,0,0,0,3
+35-44,Higher education,Male,Estonian,Tartu linn,Tartu linn,2,5,0,0,0,2,0,0,3,0,1,13
+35-44,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,2,0,0,0,0,0,1,0,0,4
+35-44,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,2,0,0,0,1,0,1,4
+35-44,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,2,0,0,0,0,0,0,0,0,2
+35-44,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,3,1,0,0,1,0,0,5
+35-44,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,2,1,0,0,2,4,0,0,1,0,1,11
+35-44,Higher education,Male,Other,Harju- ja Raplamaa,Raplamaa,0,1,0,0,0,0,0,0,0,0,0,1
+35-44,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,2,1,2,0,3,2,1,0,0,0,1,12
+35-44,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,0,0,0,1,0,0,1
+35-44,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,2,0,1,0,3,2,0,0,0,0,2,10
+35-44,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,1,0,0,0,0,0,0,1
+35-44,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,2,0,0,1,2,0,0,0,0,4,9
+35-44,Higher education,Male,Other,Pärnumaa,Pärnumaa,0,0,1,0,0,0,0,0,0,0,0,1
+35-44,Higher education,Male,Other,Tartu linn,Tartu linn,1,0,0,0,0,1,0,0,0,0,0,2
+35-44,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,1,0,0,0,0,3,1,0,5
+35-44,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,2,0,0,0,0,0,1,0,1,4
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,3,0,5,1,0,1,0,0,9,1,0,20
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,0,1,1,0,0,2,0,0,4
+35-44,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,0,0,0,2,0,0,0,0,0,2
+35-44,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,2,0,0,3,0,0,5
+35-44,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1,0,1,0,1,0,0,0,0,0,0,3
+35-44,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,1,1,1,0,1,0,0,0,0,0,0,4
+35-44,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1,0,1,0,0,2,0,0,0,0,0,4
+35-44,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,1,0,0,0,1,0,0,3,0,0,6
+35-44,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,2,0,0,0,0,0,0,0,0,0,0,2
+35-44,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,0,1,0,3,0,0,2,0,1,8
+35-44,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,1,0,0,0,0,0,0,0,0,2,4
+35-44,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,1,0,0,0,2,0,0,0,1,1,5
+35-44,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,0,0,0,1,0,0,1
+35-44,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,2,0,0,0,0,1,0,0,1,1,0,5
+35-44,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,1,0,0,1,0,0,0,0,0,2
+35-44,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,1,0,0,0,0,0,0,0,2,0,0,3
+35-44,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,1,0,4,0,1,2,0,0,5,0,0,13
+35-44,Secondary education,Female,Estonian,Tartu linn,Tartu linn,0,1,1,0,0,1,0,0,4,0,0,7
+35-44,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,1,1,1,1,0,0,0,0,0,4
+35-44,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,2,0,1,0,0,0,1,1,0,6
+35-44,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,1,0,0,1,0,0,0,0,0,0,2
+35-44,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,0,1,0,0,2,0,0,0,0,0,3
+35-44,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,1,0,1,0,0,0,0,0,0,0,0,2
+35-44,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,0,0,0,0,0,1,1
+35-44,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,0,1,5,0,1,1,0,0,0,0,2,10
+35-44,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,0,0,1,0,0,0,0,0,0,0,0,1
+35-44,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,3,1,0,0,0,0,0,4
+35-44,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,2,0,3,5,0,0,0,0,0,10
+35-44,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,1,0,3,0,0,0,0,0,0,4
+35-44,Secondary education,Female,Other,Pärnumaa,Pärnumaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,3,0,0,0,0,0,0,0,0,0,0,3
+35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,1,0,0,0,0,1,0,1,0,1,4
+35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,2,0,2,1,0,0,0,0,0,1,7
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,5,4,3,1,1,3,0,0,8,1,1,27
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,1,1,0,0,0,1,0,0,4,0,0,7
+35-44,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,1,0,0,1,0,0,0,0,0,2
+35-44,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,1,2,0,0,1,1,0,5
+35-44,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,1,0,2,0,0,2,0,0,5
+35-44,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,1,0,2,2,0,0,1,0,0,6
+35-44,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,3,0,0,0,0,0,0,0,2,0,0,5
+35-44,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,3,0,2,1,1,2,0,0,0,0,1,10
+35-44,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1,0,1,1,1,1,0,0,1,0,0,6
+35-44,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,3,0,3,0,0,0,0,0,2,0,0,8
+35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,2,2,1,0,0,0,0,1,0,0,7
+35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,1,0,0,1,0,0,2,0,1,5
+35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,2,1,0,1,0,2,0,0,4,0,1,11
+35-44,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,1,0,0,2,0,0,0,0,4,0,0,7
+35-44,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,2,0,1,0,0,0,0,1,0,1,5
+35-44,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,2,1,2,2,0,2,0,0,1,0,1,11
+35-44,Secondary education,Male,Estonian,Tartu linn,Tartu linn,3,0,1,0,1,3,1,0,4,0,0,13
+35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1,0,1,0,1,0,0,0,0,0,0,3
+35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,0,0,0,1,0,0,1,0,0,3
+35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,1,1,0,0,0,0,0,0,0,2
+35-44,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,1,0,1,0,0,0,0,0,1,3
+35-44,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,2,0,0,0,0,0,0,2
+35-44,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,1,0,1,3,0,0,0,1,1,7
+35-44,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,1,0,0,0,1,0,1,0,0,0,0,3
+35-44,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,0,1,1,0,4,3,0,0,0,0,2,11
+35-44,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,1,0,0,0,0,0,1
+35-44,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,0,1,0,0,0,0,0,0,0,0,0,1
+35-44,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,2,2,4,0,11,6,1,0,0,0,1,27
+35-44,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,1,0,1,0,0,0,0,0,0,0,0,2
+35-44,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,0,0,1,1,0,0,0,0,0,0,0,2
+35-44,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,2,0,3,0,0,0,0,0,0,5
+35-44,Secondary education,Male,Other,Tartu linn,Tartu linn,1,0,0,0,1,1,0,0,0,0,1,4
+45-54,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,1,0,0,1,0,1,4
+45-54,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,2,0,2,1,0,0,0,0,0,5
+45-54,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,1,0,0,0,0,1,0,0,0,0,0,2
+45-54,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,1,0,0,0,0,0,0,0,0,1
+45-54,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,1,0,0,0,0,0,0,0,1,2
+45-54,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,2,0,0,2,0,0,0,0,0,4
+45-54,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,3,1,0,0,0,0,1,0,0,5
+45-54,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,1,0,0,0,0,0,0,0,0,1
+45-54,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,2,1,0,0,1,0,0,4
+45-54,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,0,0,0,0,1,0,0,0,0,2
+45-54,Basic education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,0,2,0,0,0,0,0,2
+45-54,Basic education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,0,1,1,0,0,0,0,0,2
+45-54,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,1,0,1,0,0,1,0,0,0,0,0,3
+45-54,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,1,0,0,0,0,0,1
+45-54,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,1,0,0,0,0,0,1
+45-54,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,0,0,0,0,0,0,1
+45-54,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1,0,0,0,0,1,0,0,0,0,0,2
+45-54,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,0,0,0,0,1,0,0,0,0,0,2
+45-54,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,0,0,0,0,0,0,2,0,0,2
+45-54,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,1,0,0,0,0,0,0,0,1
+45-54,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1,0,0,0,0,0,0,0,0,0,0,1
+45-54,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,1,0,0,0,0,0,1,0,0,2
+45-54,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,1,0,0,0,0,0,0,0,0,0,1
+45-54,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,0,1,1,0,0,0,0,0,0,0,3
+45-54,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,0,2,1,0,0,0,1,1,0,6
+45-54,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,1,1,1,0,0,0,0,0,0,4
+45-54,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,0,0,0,1,0,0,1
+45-54,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,3,0,2,1,1,1,0,0,0,0,0,8
+45-54,Basic education,Male,Estonian,Tartu linn,Tartu linn,1,0,0,0,0,1,0,0,1,0,0,3
+45-54,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1,0,0,0,0,1,0,0,0,0,0,2
+45-54,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,1,0,0,0,0,0,0,0,0,2
+45-54,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,1,0,0,1,0,0,0,2
+45-54,Basic education,Male,Other,Pärnumaa,Pärnumaa,0,0,0,0,1,0,0,0,0,0,0,1
+45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,2,1,0,0,2,0,0,4,0,0,9
+45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1,0,3,0,0,1,0,0,0,0,0,5
+45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,1,0,0,0,0,0,0,2,0,1,4
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,0,2,2,1,1,4,0,1,15,1,2,29
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,1,1,1,0,0,0,0,0,3,0,0,6
+45-54,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1,0,1,0,0,0,0,0,0,0,0,2
+45-54,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,1,0,1,0,0,0,0,0,0,0,0,2
+45-54,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,1,0,0,0,0,1,2
+45-54,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,0,1,0,0,0,0,0,0,1,0,0,2
+45-54,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,0,0,0,0,2,0,0,2
+45-54,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,2,2,0,0,0,0,3,0,1,8
+45-54,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,2,0,0,0,0,0,2
+45-54,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,0,0,0,0,2,0,2,4
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,0,4,0,0,0,0,0,3,1,1,10
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,1,0,0,0,0,0,0,2,0,1,4
+45-54,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,0,2,0,0,0,0,0,2,0,0,4
+45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,2,0,0,1,0,0,0,0,3,0,2,8
+45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,1,0,0,0,0,0,3,0,1,5
+45-54,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,1,0,1,0,0,2,0,0,3,0,0,7
+45-54,Higher education,Female,Estonian,Tartu linn,Tartu linn,0,3,2,0,0,1,1,0,5,0,1,13
+45-54,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,2,0,1,0,0,0,0,0,1,0,0,4
+45-54,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,1,0,0,1,0,0,1,0,0,3
+45-54,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,1,0,0,1,2,0,0,0,0,0,4
+45-54,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,1,1,0,1,0,0,0,0,0,0,3
+45-54,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,2,2,0,0,2,0,0,0,0,0,6
+45-54,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,4,1,0,0,3,3,0,0,1,0,0,12
+45-54,Higher education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,0,0,0,0,0,0,1,1
+45-54,Higher education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,1,0,0,0,0,0,1
+45-54,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,0,0,1,0,0,0,0,0,0,0,0,1
+45-54,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,1,2,0,2,1,0,0,0,0,1,7
+45-54,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,1,0,0,0,0,0,0,1
+45-54,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,0,0,0,0,0,0,0,0,1,0,0,1
+45-54,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,1,0,2,0,1,0,1,0,0,0,0,5
+45-54,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,0,0,0,0,1,0,1
+45-54,Higher education,Female,Other,Pärnumaa,Pärnumaa,0,0,0,0,1,0,0,0,0,0,0,1
+45-54,Higher education,Female,Other,Tartu linn,Tartu linn,0,0,1,0,1,2,0,0,0,0,0,4
+45-54,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,0,1,0,0,0,0,0,1
+45-54,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,0,1,0,0,0,0,0,1
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,3,0,0,0,0,3,0,0,6
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,2,0,1,2,0,0,0,0,1,0,0,6
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,1,0,0,0,0,1,0,0,2
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,5,3,1,0,0,3,0,1,11,0,0,24
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,1,0,1,0,0,0,0,0,0,1,3
+45-54,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,1,0,0,1,0,0,2
+45-54,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,1,1,1,0,2,0,0,0,0,2,7
+45-54,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,0,0,2,1,0,0,1,0,0,5
+45-54,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,0,0,1,0,1,0,0,0,0,0,3
+45-54,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1,0,0,1,0,0,0,0,1,0,0,3
+45-54,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,2,0,0,0,1,0,0,0,0,4
+45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,1,0,0,0,0,0,0,3,0,0,4
+45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,1,1,2,1,0,0,0,0,6,0,0,11
+45-54,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,0,1,0,1,0,0,0,0,0,1,3
+45-54,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,3,0,0,0,1,0,0,2,0,1,7
+45-54,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,1,1,1,2,0,2,0,0,1,0,0,8
+45-54,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,0,1,1,1,0,0,0,0,1,0,0,4
+45-54,Higher education,Male,Estonian,Tartu linn,Tartu linn,1,2,1,1,0,0,0,0,7,0,1,13
+45-54,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,0,0,0,1,0,0,1
+45-54,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,0,0,0,0,0,0,2,0,0,3
+45-54,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1,1,0,0,1,0,0,0,0,0,0,3
+45-54,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,1,0,0,0,1,0,0,0,0,0,2
+45-54,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,0,1,0,0,0,2,0,0,0,0,0,3
+45-54,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,0,0,1,0,0,1,0,0,0,0,0,2
+45-54,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,2,0,0,0,0,0,3
+45-54,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,2,0,0,0,0,1,0,0,0,0,0,3
+45-54,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,0,1,0,0,0,0,0,1
+45-54,Higher education,Male,Other,Pärnumaa,Pärnumaa,0,0,0,0,0,1,0,0,0,0,1,2
+45-54,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1,0,0,0,0,0,0,0,0,0,0,1
+45-54,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,1,0,0,0,0,1,2
+45-54,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,1,0,0,1,0,0,0,0,0,2
+45-54,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,1,0,0,0,0,0,0,3,0,1,5
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,2,2,5,2,0,5,0,0,2,0,0,18
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,2,0,1,0,0,2,0,0,0,0,0,5
+45-54,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,1,0,0,0,0,1,0,0,0,0,0,2
+45-54,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,1,2,0,0,3,0,0,2,0,0,8
+45-54,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,0,1,2,0,0,2,0,0,0,0,0,5
+45-54,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1,0,0,0,0,1,0,0,1,0,0,3
+45-54,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,2,0,2,0,0,0,0,0,0,4
+45-54,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,1,0,1,0,0,0,4,0,0,6
+45-54,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,1,0,1,0,1,0,0,3,0,1,8
+45-54,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,1,0,0,0,2,0,0,1,0,0,5
+45-54,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,1,1,1,2,0,0,1,0,0,6
+45-54,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,1,0,0,0,0,0,0,0,1,0,0,2
+45-54,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,1,0,0,2,2,0,0,2,0,0,7
+45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1,1,0,1,1,1,0,0,0,0,0,5
+45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,1,0,0,0,0,1,0,0,3,0,0,5
+45-54,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,2,0,6,1,1,4,0,0,1,0,0,15
+45-54,Secondary education,Female,Estonian,Tartu linn,Tartu linn,3,3,0,0,0,3,0,0,1,0,1,11
+45-54,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,2,1,1,0,0,1,0,0,0,0,0,5
+45-54,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,2,0,3,0,0,1,0,0,1,0,0,7
+45-54,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,2,1,0,0,0,0,0,0,1,5
+45-54,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,2,2,0,0,0,0,0,4
+45-54,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,1,0,0,0,0,0,0,1
+45-54,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,1,0,0,0,0,0,2
+45-54,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,0,4,0,2,3,0,0,0,1,0,10
+45-54,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,1,0,0,0,0,1,0,0,0,0,0,2
+45-54,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,1,1,4,0,3,3,0,0,1,0,0,13
+45-54,Secondary education,Female,Other,Järva- ja Viljandimaa,Järvamaa,0,0,1,0,0,0,0,0,0,0,0,1
+45-54,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,2,0,0,0,0,0,0,2
+45-54,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,3,0,4,3,1,0,0,0,0,12
+45-54,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,3,0,0,1,0,0,0,0,0,4
+45-54,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,0,0,1,0,0,0,0,0,0,0,0,1
+45-54,Secondary education,Female,Other,Pärnumaa,Pärnumaa,1,0,0,0,0,1,0,0,0,0,0,2
+45-54,Secondary education,Female,Other,Tartu linn,Tartu linn,1,0,1,0,2,1,0,0,0,0,0,5
+45-54,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,0,0,0,0,0,0,0,0,0,1
+45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,1,0,0,0,0,0,0,0,1,0,2
+45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,1,0,1,0,0,0,0,0,2
+45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,2,1,0,0,0,0,0,0,2,1,0,6
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,6,3,6,3,1,5,0,0,11,0,0,35
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,1,1,0,1,0,2,0,0,2,0,0,7
+45-54,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,1,0,0,0,0,0,0,0,1
+45-54,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,2,1,1,1,1,1,0,0,2,0,0,9
+45-54,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,1,0,0,0,0,0,0,0,1,3
+45-54,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,1,0,0,0,0,2,0,0,2,0,1,6
+45-54,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,2,3,1,1,2,0,0,2,0,0,12
+45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1,0,1,1,0,2,0,0,3,0,0,8
+45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,2,1,2,0,1,3,0,0,6,0,0,15
+45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,2,0,1,2,0,1,0,0,2,0,0,8
+45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,0,0,1,0,0,0,1,0,0,3
+45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,1,0,0,0,0,0,0,0,0,0,0,1
+45-54,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,5,1,0,2,0,3,0,0,2,0,2,15
+45-54,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,3,0,0,1,0,1,0,0,1,0,0,6
+45-54,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,2,3,0,1,1,0,0,0,2,0,0,9
+45-54,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,6,2,4,0,1,2,0,0,5,0,1,21
+45-54,Secondary education,Male,Estonian,Tartu linn,Tartu linn,1,1,2,1,0,2,0,0,2,0,2,11
+45-54,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,2,0,0,0,0,2,1,0,1,0,0,6
+45-54,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,1,1,0,0,1,0,0,3,0,0,7
+45-54,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,3,2,2,0,0,3,0,0,1,0,0,11
+45-54,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,1,0,0,0,0,0,0,0,1,2
+45-54,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,0,2,0,0,0,0,0,2
+45-54,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,2,3,0,0,0,0,0,5
+45-54,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,0,0,0,0,1,0,0,0,0,0,0,1
+45-54,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,2,0,2,1,4,3,0,0,1,1,0,14
+45-54,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,1,0,0,0,0,0,1
+45-54,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,1,0,0,0,0,0,0,0,0,1
+45-54,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,2,0,1,0,1,1,0,0,1,0,0,6
+45-54,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,0,0,0,0,0,1,0,0,0,0,0,1
+45-54,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,1,0,1,0,0,0,0,2
+45-54,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,0,1,0,0,0,1,0,0,0,0,0,2
+45-54,Secondary education,Male,Other,Pärnumaa,Pärnumaa,2,0,0,0,1,0,0,0,0,0,0,3
+45-54,Secondary education,Male,Other,Tartu linn,Tartu linn,1,0,0,0,0,2,0,0,0,0,0,3
+45-54,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,1,0,0,0,0,0,1
+45-54,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,3,0,0,0,0,4,0,0,1,0,0,8
+55-64,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,1,0,0,1,0,0,0,0,0,2
+55-64,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,1,0,0,0,0,0,0,1
+55-64,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,1,1,0,0,0,0,0,2
+55-64,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,2,0,0,0,0,0,0,2
+55-64,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,0,1,0,0,0,0,0,0,0,2
+55-64,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,0,0,0,0,1,0,0,0,0,0,0,1
+55-64,Basic education,Female,Estonian,Tartu linn,Tartu linn,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1,0,0,0,0,1,0,0,0,0,0,2
+55-64,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,1,0,2,0,0,0,0,0,0,3
+55-64,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,2,0,0,0,0,0,0,0,0,0,0,2
+55-64,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,1,0,0,0,0,0,0,0,1
+55-64,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1,0,0,0,0,0,0,0,0,0,0,1
+55-64,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,1,0,0,0,0,0,0,0,0,0,0,1
+55-64,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,1,0,0,0,0,0,0,0,0,0,0,1
+55-64,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,2,1,0,0,2,0,0,0,0,0,0,5
+55-64,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,0,0,0,0,0,0,1,1
+55-64,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,1,0,0,1,0,0,2
+55-64,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,1,0,0,0,0,0,0,0,0,0,1
+55-64,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,0,0,0,0,0,0,1
+55-64,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,0,0,2,0,0,0,0,1,0,0,3
+55-64,Basic education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,1,0,0,0,0,0,0,0,1,0,0,2
+55-64,Basic education,Male,Estonian,Tartu linn,Tartu linn,0,0,0,0,1,0,0,0,0,0,0,1
+55-64,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1,0,0,0,0,0,0,0,0,0,0,1
+55-64,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,1,0,0,0,0,0,0,0,0,1
+55-64,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,0,0,0,1,0,0,1
+55-64,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1,0,1,0,0,2,0,0,8,0,1,13
+55-64,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,1,0,1,0,0,0,0,4,0,2,9
+55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,0,1,1,1,0,4,0,0,9,2,4,22
+55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,0,1,0,0,0,1,0,0,0,0,2,4
+55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,1,0,0,0,0,0,0,0,0,1
+55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,1,0,0,2,0,0,3
+55-64,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,0,1,0,0,0,0,0,0,2,0,1,4
+55-64,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1,0,0,0,0,0,0,0,0,0,1,2
+55-64,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,2,1,0,0,0,0,0,0,1,0,1,5
+55-64,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,1,3,1,0,0,0,0,0,0,0,5
+55-64,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,1,1,0,0,0,0,0,0,0,0,3
+55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,1,0,0,2,0,1,4
+55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,1,0,0,0,0,0,0,0,0,1,2
+55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,1,2,1,0,0,0,2,0,0,6
+55-64,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,0,1,0,0,1,0,0,3,0,0,5
+55-64,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,1,0,1,1,1,0,0,2,0,1,7
+55-64,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,1,1,1,1,1,0,0,0,1,0,0,6
+55-64,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,1,1,2,0,1,3,0,0,1,0,2,11
+55-64,Higher education,Female,Estonian,Tartu linn,Tartu linn,0,1,0,4,0,1,0,0,3,0,1,10
+55-64,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,0,0,0,1,0,0,1
+55-64,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,1,1,0,0,1,0,0,2,0,1,6
+55-64,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,1,1,0,0,0,0,0,2
+55-64,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,1,1,0,0,0,0,0,2
+55-64,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,1,0,0,0,0,0,2
+55-64,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,1,0,0,1,0,0,0,0,0,0,2
+55-64,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,0,2,4,0,2,4,0,0,1,0,3,16
+55-64,Higher education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,1,0,0,0,0,0,0,0,1,0,0,2
+55-64,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,1,1,0,3,0,0,0,0,0,0,6
+55-64,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,4,3,0,0,0,0,1,8
+55-64,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,1,0,0,1,0,0,0,0,0,2
+55-64,Higher education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,0,1,0,0,0,0,0,0,0,0,0,1
+55-64,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,1,0,1,1,0,0,1,0,1,5
+55-64,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Higher education,Female,Other,Pärnumaa,Pärnumaa,0,0,1,0,1,0,0,0,0,0,0,2
+55-64,Higher education,Female,Other,Tartu linn,Tartu linn,0,1,1,0,0,1,1,0,0,0,0,4
+55-64,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,1,0,0,0,0,0,0,0,0,0,1
+55-64,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,1,0,0,2,0,0,0,0,0,3
+55-64,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1,0,0,0,0,1,0,0,0,0,0,2
+55-64,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,1,0,0,0,0,0,1,0,2
+55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,0,1,0,1,0,2,0,0,12,0,2,18
+55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,1,1,0,0,0,0,0,0,0,2
+55-64,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,1,0,1,0,0,0,0,0,0,2
+55-64,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1,0,0,0,1,0,0,0,3,0,0,5
+55-64,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,1,2,1,0,0,0,0,0,0,4
+55-64,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,1,0,1,0,0,0,0,0,0,0,3
+55-64,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,2,0,0,0,0,0,0,0,0,2
+55-64,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,1,0,0,1,0,0,0,1,0,0,3
+55-64,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,1,0,0,2,0,0,3
+55-64,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,0,0,0,1,0,0,1
+55-64,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,1,0,0,0,0,1,0,0,2
+55-64,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,0,0,0,0,1,0,0,0,0,1,2
+55-64,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,1,2,0,0,0,0,0,3,0,0,6
+55-64,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,1,1,1,1,0,0,0,0,1,0,0,5
+55-64,Higher education,Male,Estonian,Tartu linn,Tartu linn,1,0,2,0,0,2,0,0,4,0,0,9
+55-64,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,1,0,0,0,0,0,0,1
+55-64,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,4,0,0,0,0,0,4
+55-64,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,1,0,0,0,0,0,0,1
+55-64,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,0,0,0,0,1,1,0,2
+55-64,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,3,1,0,0,1,0,1,6
+55-64,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,2,2,0,0,2,3,0,0,0,0,0,9
+55-64,Higher education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,0,0,3,0,0,0,0,1,0,5
+55-64,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,1,0,0,0,0,0,0,0,0,1
+55-64,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,1,0,0,0,0,0,0,0,0,0,1
+55-64,Higher education,Male,Other,Pärnumaa,Pärnumaa,0,0,0,0,0,1,0,0,0,1,0,2
+55-64,Higher education,Male,Other,Tartu linn,Tartu linn,1,1,1,0,0,0,0,0,2,0,0,5
+55-64,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,1,0,0,0,0,0,0,0,1
+55-64,Higher education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,1,0,0,0,0,0,0,1
+55-64,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,3,1,1,0,0,1,0,0,0,0,0,6
+55-64,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,0,0,0,0,0,0,0,1,0,1,3
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,1,3,1,4,1,4,1,0,4,1,1,21
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,2,0,1,2,0,2,0,0,4,0,0,11
+55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,2,2,0,0,1,0,0,1,0,0,6
+55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,1,1,1,1,0,0,0,1,0,0,5
+55-64,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,2,0,2,0,0,0,0,0,0,4
+55-64,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,2,0,0,3,0,0,5,0,0,10
+55-64,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,0,0,3,2,7,0,0,2,0,1,16
+55-64,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,1,1,0,0,0,0,1,3
+55-64,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,1,4,0,1,4,0,0,3,1,1,16
+55-64,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,0,1,0,0,2,0,0,3,0,0,7
+55-64,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,1,1,0,1,0,0,2,0,0,5
+55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,3,1,1,1,0,2,0,0,4,0,0,12
+55-64,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,2,0,0,1,0,0,2,0,1,6
+55-64,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,2,0,0,0,0,0,0,0,2,0,0,4
+55-64,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,3,2,5,2,2,3,0,0,4,1,0,22
+55-64,Secondary education,Female,Estonian,Tartu linn,Tartu linn,0,2,0,1,1,1,0,0,3,0,1,9
+55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,1,0,0,0,0,0,0,1,2
+55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,2,0,3,0,0,1,0,0,1,0,0,7
+55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,4,2,2,0,0,2,0,0,0,0,2,12
+55-64,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,2,0,0,0,0,0,0,2
+55-64,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,1,0,0,0,1,0,0,0,0,0,0,2
+55-64,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,1,0,0,0,0,0,0,0,0,1
+55-64,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,2,0,3,0,5,7,2,0,1,0,1,21
+55-64,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,6,1,0,0,2,1,2,12
+55-64,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,1,0,0,0,0,0,0,0,0,1
+55-64,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,0,1,0,0,0,0,0,0,0,0,1,2
+55-64,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,1,1,0,0,0,0,0,2
+55-64,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,0,0,0,0,1,0,0,0,0,0,0,1
+55-64,Secondary education,Female,Other,Pärnumaa,Pärnumaa,1,1,0,0,0,0,0,0,0,0,0,2
+55-64,Secondary education,Female,Other,Tartu linn,Tartu linn,0,0,0,0,0,3,0,0,0,0,0,3
+55-64,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,2,0,0,0,1,0,0,0,0,0,1,4
+55-64,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,2,0,1,0,0,0,0,0,0,0,0,3
+55-64,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1,0,0,1,0,0,0,0,0,0,0,2
+55-64,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,2,0,1,0,0,0,0,0,0,0,3
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,7,0,2,1,0,3,0,0,7,0,1,21
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,2,0,2,1,1,2,0,0,1,0,0,9
+55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,1,0,1,0,0,0,0,0,0,0,0,2
+55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,1,0,0,2,0,0,1,0,0,4
+55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,4,1,0,1,0,3,0,0,3,0,0,12
+55-64,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,3,0,3,1,0,1,0,0,0,0,0,8
+55-64,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,0,4,0,0,1,0,0,5
+55-64,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,3,1,3,2,0,5,1,0,3,0,0,18
+55-64,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,2,0,0,0,2,0,0,0,1,0,0,5
+55-64,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,3,1,0,4,0,3,0,0,2,0,0,13
+55-64,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,1,0,1,0,1,0,0,0,0,0,4
+55-64,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,1,0,0,0,1,1,3
+55-64,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,1,0,0,0,0,0,1,0,0,2
+55-64,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,2,0,3,1,4,0,0,4,0,0,15
+55-64,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,1,0,0,0,1,0,0,0,0,0,0,2
+55-64,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,1,0,1,3,0,1,0,0,4,0,0,10
+55-64,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,7,0,1,2,2,5,0,0,2,0,0,19
+55-64,Secondary education,Male,Estonian,Tartu linn,Tartu linn,4,1,5,0,1,2,0,0,2,0,0,15
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,3,1,0,0,0,2,0,0,1,0,0,7
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,0,0,0,0,0,0,3,0,0,4
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,2,1,2,1,2,1,0,0,0,0,0,9
+55-64,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1,0,1,0,1,1,0,0,0,0,1,5
+55-64,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,1,0,0,1,0,0,0,0,1,3
+55-64,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,1,0,0,0,1,2,0,0,0,0,0,4
+55-64,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,1,0,0,0,0,0,0,0,0,0,0,1
+55-64,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,0,0,1,0,4,5,0,0,2,0,2,14
+55-64,Secondary education,Male,Other,Järva- ja Viljandimaa,Järvamaa,1,0,0,0,0,0,0,0,0,0,1,2
+55-64,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,0,0,1,0,0,0,0,0,1,0,0,2
+55-64,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,0,0,0,0,0,1,1
+55-64,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,4,0,1,2,0,0,0,0,0,7
+55-64,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Secondary education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,0,1,2,0,0,0,0,0,0,0,0,3
+55-64,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,0,4,0,0,0,0,0,4
+55-64,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,1,0,0,0,0,0,1
+55-64,Secondary education,Male,Other,Pärnumaa,Pärnumaa,1,0,0,0,0,0,0,0,0,0,0,1
+55-64,Secondary education,Male,Other,Tartu linn,Tartu linn,0,0,1,0,0,0,0,0,0,0,0,1
+65-74,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,0,1,0,0,0,0,0,0,0,0,2
+65-74,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,1,0,1,0,0,0,0,1,0,3
+65-74,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,0,2,0,0,0,1,0,0,3
+65-74,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,0,1,1,0,0,0,0,0,0,2
+65-74,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,1,0,1,0,0,0,0,0,0,2
+65-74,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,1,0,0,0,0,1,0,0,0,0,0,2
+65-74,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,0,1,0,0,0,0,0,1
+65-74,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,1,0,0,0,0,0,0,0,1
+65-74,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,0,0,1,0,0,0,1,0,1,4
+65-74,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,0,0,0,0,0,0,0,0,0,0,1,1
+65-74,Basic education,Female,Estonian,Tartu linn,Tartu linn,0,1,0,0,0,0,0,0,0,0,0,1
+65-74,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,1,0,0,0,0,0,0,1
+65-74,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,0,0,0,0,0,0,0,0,0,1
+65-74,Basic education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,0,1,0,0,0,0,0,1
+65-74,Basic education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,0,0,1,0,0,0,0,0,0,0,0,1
+65-74,Basic education,Female,Other,Tartu linn,Tartu linn,0,0,0,0,0,1,0,0,0,0,0,1
+65-74,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,1,0,0,1,0,0,0,0,0,2
+65-74,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,0,1,0,0,0,0,0,0,1
+65-74,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,1,0,0,0,0,0,0,0,1
+65-74,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,1,0,0,1,0,0,0,0,0,2
+65-74,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,1,0,0,0,0,0,0,0,0,1
+65-74,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,0,0,0,2,0,0,0,0,0,0,3
+65-74,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,0,2,0,0,0,0,0,2
+65-74,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,2,0,0,0,0,0,0,0,0,0,0,2
+65-74,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,2,0,0,0,1,0,0,0,0,0,0,3
+65-74,Basic education,Male,Estonian,Tartu linn,Tartu linn,0,0,0,0,0,0,0,0,1,0,0,1
+65-74,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,0,1,0,0,0,0,0,1
+65-74,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,1,0,0,0,0,0,1,2
+65-74,Basic education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1,0,0,0,0,0,0,0,0,0,0,1
+65-74,Basic education,Male,Other,Ida-Virumaa,Ida-Virumaa,0,0,0,0,0,1,0,0,0,0,0,1
+65-74,Basic education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,0,0,0,0,0,0,1
+65-74,Basic education,Male,Other,Pärnumaa,Pärnumaa,0,0,1,0,0,0,0,0,0,0,0,1
+65-74,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,2,0,1,0,0,0,0,0,1,0,0,4
+65-74,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,1,0,0,0,0,0,0,0,1,0,0,2
+65-74,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,2,0,0,2,0,0,0,0,1,5
+65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,1,2,0,1,0,5,0,0,5,0,2,16
+65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,1,0,0,1,0,0,0,0,0,0,0,2
+65-74,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,1,0,0,0,2,0,0,1,0,0,4
+65-74,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,0,0,0,1,0,0,1
+65-74,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,0,0,0,1,0,0,1,0,1,4
+65-74,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,1,0,1,0,0,0,0,0,2
+65-74,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,0,0,0,0,0,0,0,1,0,0,2
+65-74,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1,0,1,0,1,1,0,0,1,0,1,6
+65-74,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,1,0,0,0,0,1,0,2,0,1,6
+65-74,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,0,2,1,0,0,0,0,3,0,0,7
+65-74,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,1,0,0,1,0,0,2
+65-74,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,1,0,0,0,0,0,1
+65-74,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,0,0,1,0,0,0,1,0,0,3
+65-74,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,0,1,0,0,0,0,2,0,0,3
+65-74,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,1,0,1,0,0,0,0,0,3,0,0,5
+65-74,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,3,0,0,0,2,1,0,0,4,0,1,11
+65-74,Higher education,Female,Estonian,Tartu linn,Tartu linn,2,0,0,0,2,2,0,0,2,0,1,9
+65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,1,0,1,0,1,0,0,2,0,1,6
+65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,1,0,1,0,0,0,1,0,0,3
+65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,1,0,0,0,0,0,1,2
+65-74,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1,1,0,0,3,0,0,0,0,0,1,6
+65-74,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,1,0,1,1,0,0,0,0,0,3
+65-74,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,1,0,2,2,0,0,0,0,0,5
+65-74,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,0,2,0,0,0,0,1,3
+65-74,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,0,0,1,0,4,4,0,0,1,0,1,11
+65-74,Higher education,Female,Other,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,0,0,0,0,1,0,0,1
+65-74,Higher education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,1,0,1,0,0,1,0,0,0,0,0,3
+65-74,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,1,0,0,3,0,0,0,0,0,0,4
+65-74,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,1,0,2,2,0,0,0,0,1,6
+65-74,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,1,2,0,0,0,0,1,4
+65-74,Higher education,Female,Other,Mustamäe ja Nõmme,Nõmme,0,0,0,0,1,0,0,0,0,0,0,1
+65-74,Higher education,Female,Other,Pärnumaa,Pärnumaa,0,1,1,0,1,0,0,0,0,0,0,3
+65-74,Higher education,Female,Other,Tartu linn,Tartu linn,0,0,0,0,0,2,0,0,1,0,0,3
+65-74,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,1,0,0,0,0,0,0,0,0,1
+65-74,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,2,0,1,0,0,1,0,0,4
+65-74,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,1,0,1,0,0,0,0,0,2
+65-74,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,3,0,0,0,0,0,0,0,0,0,1,4
+65-74,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,2,0,2,1,1,2,0,0,7,0,0,15
+65-74,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,0,1,0,0,0,0,0,0,1
+65-74,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,0,1,0,0,0,1,0,0,0,0,0,2
+65-74,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,1,1,1,0,0,0,0,0,3
+65-74,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,1,0,1,2,0,0,0,0,0,4
+65-74,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,2,0,0,1,0,0,3
+65-74,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,2,0,0,1,0,2,0,0,1,0,0,6
+65-74,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,1,1,0,1,0,0,0,0,1,0,0,4
+65-74,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,2,0,0,1,0,0,2,0,0,6
+65-74,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,0,0,0,0,2,0,1,3
+65-74,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,2,0,0,0,0,0,0,1,1,0,0,4
+65-74,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,0,0,1,1,1,1,0,0,1,0,1,6
+65-74,Higher education,Male,Estonian,Tartu linn,Tartu linn,0,1,0,0,0,0,0,0,2,0,0,3
+65-74,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,0,1,0,0,1,0,0,2
+65-74,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,2,0,0,0,1,0,1,0,0,0,0,4
+65-74,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,1,0,0,0,0,0,0,0,0,1
+65-74,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,0,0,0,1,0,0,1
+65-74,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,0,0,0,0,0,1,2
+65-74,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,0,0,1,0,0,1,0,0,0,0,0,2
+65-74,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,1,0,1,0,3,0,0,0,0,1,4,10
+65-74,Higher education,Male,Other,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,0,0,0,0,0,0,1,1
+65-74,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,0,0,0,1,0,0,1
+65-74,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,0,0,0,0,0,0,1
+65-74,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,1,0,0,0,0,0,0,0,0,0,1
+65-74,Higher education,Male,Other,Lääne-Virumaa,Lääne-Virumaa,0,0,0,0,0,0,0,0,1,0,0,1
+65-74,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,2,2,0,0,0,0,0,4
+65-74,Higher education,Male,Other,Pärnumaa,Pärnumaa,1,0,1,0,0,0,0,0,0,0,0,2
+65-74,Higher education,Male,Other,Tartu linn,Tartu linn,0,0,0,0,3,0,0,0,0,0,0,3
+65-74,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1,0,0,0,0,0,0,0,0,0,0,1
+65-74,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,0,0,0,1,0,1,2
+65-74,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,1,0,0,1,1,0,0,2,0,0,6
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,3,2,2,2,3,5,0,0,3,0,2,22
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,1,0,1,1,2,2,0,0,1,0,1,9
+65-74,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,0,0,0,0,0,0,2,0,0,2
+65-74,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,3,0,0,0,0,0,0,0,2,0,0,5
+65-74,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,2,2,0,1,0,0,2,0,0,7
+65-74,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,0,0,0,0,0,0,2,0,2,4
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,1,0,0,0,5,2,0,8
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,1,0,1,1,2,0,0,1,0,0,6
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,1,3,0,1,0,0,0,1,0,0,6
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,3,0,0,2,0,0,1,1,1,2,11
+65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,1,0,0,0,0,0,0,1,0,1,3
+65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,1,2,1,2,0,0,2,0,1,9
+65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,0,0,0,1,1,0,2
+65-74,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,2,1,0,3,2,4,0,0,2,0,2,16
+65-74,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1,0,0,2,0,1,0,0,2,0,0,6
+65-74,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,1,0,1,0,1,0,0,0,2,0,1,6
+65-74,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,4,0,3,1,3,2,0,0,1,0,1,15
+65-74,Secondary education,Female,Estonian,Tartu linn,Tartu linn,2,0,1,0,2,1,0,0,5,0,1,12
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,1,0,0,0,0,0,2,0,0,3
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,0,1,1,0,0,0,5,0,2,10
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,0,1,2,0,0,0,1,0,1,6
+65-74,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,1,0,1,0,0,0,1,0,0,3
+65-74,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,1,0,1,1,0,0,0,0,0,3
+65-74,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,0,0,0,0,0,1,2
+65-74,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,1,2,0,0,1,0,0,4
+65-74,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,1,0,0,0,0,0,0,0,0,1
+65-74,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,2,0,4,0,6,7,0,0,1,1,2,23
+65-74,Secondary education,Female,Other,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,0,1,0,0,0,0,0,1
+65-74,Secondary education,Female,Other,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,1,0,0,0,1,0,0,2
+65-74,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,1,0,0,0,0,0,0,0,0,0,0,1
+65-74,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,2,0,0,0,0,0,0,2
+65-74,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,2,0,4,4,0,0,0,0,0,10
+65-74,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,0,0,0,1,0,0,0,0,0,1
+65-74,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,2,0,0,0,0,0,1,3
+65-74,Secondary education,Female,Other,Mustamäe ja Nõmme,Nõmme,0,0,2,0,1,0,0,0,0,0,0,3
+65-74,Secondary education,Female,Other,Pärnumaa,Pärnumaa,1,0,1,0,0,0,0,0,0,0,1,3
+65-74,Secondary education,Female,Other,Tartu linn,Tartu linn,0,0,0,0,1,0,0,0,0,0,0,1
+65-74,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,1,0,0,0,0,0,0,0,1
+65-74,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,0,1,0,0,0,0,0,1
+65-74,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,0,1,0,1,0,0,2
+65-74,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,1,0,1,0,0,1,0,0,3
+65-74,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,0,0,0,0,0,0,1
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,2,0,2,2,2,1,1,0,6,0,1,17
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,2,1,0,0,0,0,0,0,2,0,0,5
+65-74,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,2,0,0,0,0,1,0,0,1,0,0,4
+65-74,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,2,0,1,0,0,0,0,0,3,0,0,6
+65-74,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,1,1,0,1,0,0,1,0,0,4
+65-74,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,1,0,1,1,0,0,3,0,1,7
+65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,2,0,0,0,1,1,0,0,1,0,0,5
+65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,1,1,1,1,0,0,0,0,0,4
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,2,0,0,0,0,0,0,2
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,1,0,1,0,0,0,1,0,0,4
+65-74,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,0,0,0,2,0,0,2
+65-74,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,1,1,1,0,0,0,1,0,0,5
+65-74,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,1,0,0,0,0,0,0,0,0,0,1
+65-74,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,0,1,1,2,2,0,0,0,0,0,6
+65-74,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,1,1,0,0,1,0,0,3
+65-74,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,1,0,1,1,0,0,0,0,0,0,0,3
+65-74,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,5,0,0,1,0,2,0,0,3,0,0,11
+65-74,Secondary education,Male,Estonian,Tartu linn,Tartu linn,2,0,1,3,1,1,0,0,0,0,0,8
+65-74,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,1,0,1,0,1,0,0,3
+65-74,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,2,0,1,0,0,0,1,0,0,4
+65-74,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,1,1,1,1,0,0,1,0,1,7
+65-74,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,2,1,0,0,0,0,0,3
+65-74,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,2,1,0,0,0,0,0,3
+65-74,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,0,1,0,0,1,0,0,2
+65-74,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,0,0,0,0,3,1,0,0,0,0,0,4
+65-74,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,1,0,0,0,0,0,2
+65-74,Secondary education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,0,1,0,0,0,0,1,2
+65-74,Secondary education,Male,Other,Pärnumaa,Pärnumaa,0,0,1,0,0,1,0,0,0,0,0,2
+65-74,Secondary education,Male,Other,Tartu linn,Tartu linn,1,0,0,0,0,0,0,0,0,0,0,1
+65-74,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,1,0,0,0,0,0,1,0,0,2
+75+,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,0,0,0,1,0,0,1
+75+,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,0,0,0,0,1,0,0,1
+75+,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,2,0,3,2,0,0,3,0,0,10
+75+,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,1,0,1,0,0,1,0,0,3
+75+,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,2,0,0,0,0,0,0,2
+75+,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,1,0,0,0,2,0,0,3
+75+,Basic education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,1,0,0,1,1,0,0,0,0,0,0,3
+75+,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,3,0,0,0,1,0,0,4
+75+,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,2,0,0,0,1,0,0,3
+75+,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,1,1,0,0,0,0,0,2
+75+,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,0,0,1,1,2,0,0,0,0,0,0,4
+75+,Basic education,Female,Estonian,Tartu linn,Tartu linn,0,0,1,0,0,0,0,0,0,0,0,1
+75+,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1,0,0,0,0,0,0,0,1,0,0,2
+75+,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,1,0,0,1,0,0,0,0,1,3
+75+,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,0,0,1,0,0,2,0,0,3
+75+,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,1,0,1,0,0,0,0,0,0,2
+75+,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Basic education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,0,0,0,0,0,0,0,0,0,0,1
+75+,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,0,0,0,0,0,1,0,0,1
+75+,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,1,0,0,0,0,0,0,0,2,0,0,3
+75+,Basic education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,1,0,0,1,0,0,2
+75+,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,0,1,0,1,0,0,0,0,0,0,3
+75+,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,0,0,0,0,2,0,0,0,0,0,0,2
+75+,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,1,0,0,0,0,0,0,0,1,0,0,2
+75+,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Basic education,Male,Estonian,Tartu linn,Tartu linn,0,0,0,1,0,0,0,0,0,0,0,1
+75+,Basic education,Male,Other,Harju- ja Raplamaa,Harjumaa,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,1,0,0,0,0,0,0,0,0,1
+75+,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,1,0,0,1,0,1,3
+75+,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,0,0,0,0,2,0,0,2
+75+,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,2,1,0,0,2,0,0,0,2,0,1,8
+75+,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,0,1,1,0,0,0,0,0,0,0,1,3
+75+,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,1,0,0,0,0,0,1,2
+75+,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,0,0,0,2,1,0,3
+75+,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,0,1,0,0,0,0,0,0,1,0,1,3
+75+,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,3,0,0,0,4,0,1,8
+75+,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,2,2,1,0,1,0,0,1,0,1,9
+75+,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,2,0,0,0,1,0,0,0,1,0,0,4
+75+,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,0,0,0,0,0,0,1,0,1,3
+75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,1,0,1,1,0,0,2,0,0,5
+75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,0,0,0,3,0,0,3
+75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,1,0,0,0,0,0,0,0,0,0,0,1
+75+,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,0,1,0,1,2,0,0,0,2,0,1,7
+75+,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1,0,0,1,0,1,0,0,2,0,1,6
+75+,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,2,0,0,2,0,0,4
+75+,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,0,1,0,0,0,1,0,0,4,0,2,8
+75+,Higher education,Female,Estonian,Tartu linn,Tartu linn,1,2,0,0,1,0,0,1,9,0,0,14
+75+,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,1,0,0,0,1,0,0,0,0,0,1,3
+75+,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,0,0,0,0,3,0,0,3
+75+,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,2,1,0,0,0,0,0,0,0,0,3
+75+,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,1,0,0,0,0,0,0,0,0,1
+75+,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,1,0,0,1,0,0,0,0,0,1,3
+75+,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,0,0,1,0,0,0,0,0,0,0,1,2
+75+,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,1,0,2,0,0,0,0,0,0,3
+75+,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Higher education,Female,Other,Pärnumaa,Pärnumaa,0,0,0,0,2,0,0,0,0,0,0,2
+75+,Higher education,Female,Other,Tartu linn,Tartu linn,0,0,1,0,0,1,0,0,0,0,0,2
+75+,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,1,0,0,0,1,0,0,0,0,0,0,2
+75+,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,0,0,0,0,0,0,1,0,0,1
+75+,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,1,0,0,0,0,0,2
+75+,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,1,0,0,2,3,1,0,0,3,1,0,11
+75+,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,0,0,0,0,0,0,0,0,1,0,0,1
+75+,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,0,0,0,0,0,0,0,0,1,1
+75+,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,1,0,0,0,0,0,0,1,2
+75+,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,2,0,0,0,0,0,0,0,0,0,0,2
+75+,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,1,0,0,0,0,0,1,0,0,2
+75+,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,3,0,0,0,1,0,0,0,0,0,0,4
+75+,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,1,1,0,0,0,0,0,2
+75+,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,2,0,1,0,2,0,0,5
+75+,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,1,0,1,1,0,0,0,0,1,0,0,4
+75+,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,0,0,1,0,0,0,0,0,1,0,0,2
+75+,Higher education,Male,Estonian,Tartu linn,Tartu linn,1,0,2,0,1,1,0,0,3,0,1,9
+75+,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,0,1,0,0,0,0,1,0,0,2
+75+,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,1,1,0,0,1,0,1,4
+75+,Higher education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,2,0,0,0,1,0,0,0,0,0,0,3
+75+,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,1,0,0,0,0,0,0,0,0,1
+75+,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,0,2,0,0,0,0,0,2
+75+,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,0,0,0,0,3,0,0,0,0,0,0,3
+75+,Higher education,Male,Other,Tartu linn,Tartu linn,0,0,0,1,0,0,0,0,0,0,0,1
+75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,1,0,0,0,0,0,0,0,0,1
+75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,0,0,1,2,2,0,0,0,4,0,0,9
+75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,1,0,0,0,1,2,1,0,1,0,0,6
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,2,2,3,2,6,4,1,0,12,0,1,33
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,1,0,0,0,2,0,0,0,2,0,1,6
+75+,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,1,0,0,0,0,0,0,1,0,2,4
+75+,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,1,0,0,0,0,0,0,3,0,0,4
+75+,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,1,0,2,0,1,1,0,0,1,0,1,7
+75+,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,0,1,0,2,0,0,4,0,0,7
+75+,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,3,0,0,0,2,0,0,0,0,0,0,5
+75+,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,4,1,1,1,3,1,0,0,4,0,2,17
+75+,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1,0,4,1,2,2,0,0,1,0,0,11
+75+,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,0,0,0,0,2,1,0,0,1,0,1,5
+75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,1,0,2,2,1,1,0,0,4,0,0,11
+75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,1,1,1,0,1,0,0,1,0,1,7
+75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,0,0,2,0,1,0,0,0,0,0,0,3
+75+,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,3,0,0,2,6,1,0,0,2,0,2,16
+75+,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,1,1,0,1,1,0,0,0,6,0,0,10
+75+,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,0,0,0,1,0,0,2,0,0,3
+75+,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,4,1,3,0,1,2,0,0,3,0,1,15
+75+,Secondary education,Female,Estonian,Tartu linn,Tartu linn,2,0,1,2,3,4,0,0,4,0,0,16
+75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,2,1,1,0,1,0,0,0,2,0,0,7
+75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,3,0,0,0,2,1,0,0,4,0,0,10
+75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,0,1,0,1,1,0,0,2,0,1,7
+75+,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,0,1,0,0,0,0,0,0,1,0,0,2
+75+,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Secondary education,Female,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,0,0,0,1,0,0,1
+75+,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,1,0,0,0,8,2,0,0,0,0,1,12
+75+,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,0,0,0,0,0,1,0,0,1,0,0,2
+75+,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,0,0,0,0,1,1,0,0,0,0,0,2
+75+,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,0,0,1,0,1,1,0,0,0,0,0,3
+75+,Secondary education,Female,Other,Pärnumaa,Pärnumaa,0,0,0,1,0,0,0,0,0,1,0,2
+75+,Secondary education,Female,Other,Tartu linn,Tartu linn,0,0,1,0,0,0,0,0,0,0,0,1
+75+,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,0,0,1,0,0,0,0,0,0,0,0,1
+75+,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,0,0,1,2,0,1,0,0,4,0,0,8
+75+,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,2,0,0,0,1,1,0,0,0,0,0,4
+75+,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,0,2,0,0,0,0,0,0,0,0,0,2
+75+,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,0,0,0,0,0,0,0,0,2,0,1,3
+75+,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,1,1,0,0,1,0,0,3
+75+,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,1,0,0,0,0,0,0,0,2,0,0,3
+75+,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,1,1,0,0,1,1,0,0,0,0,0,4
+75+,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,1,0,0,1,2,0,0,0,3,0,0,7
+75+,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,2,0,0,0,0,0,0,0,0,0,0,2
+75+,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,1,0,0,0,0,0,0,0,1,0,0,2
+75+,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,4,0,0,0,1,0,0,0,2,0,0,7
+75+,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,0,0,1,1,0,0,0,0,0,0,0,2
+75+,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,0,0,1,0,0,0,0,0,2,0,1,4
+75+,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,3,1,0,0,3,2,0,0,2,0,0,11
+75+,Secondary education,Male,Estonian,Tartu linn,Tartu linn,0,0,0,0,2,1,0,0,1,0,0,4
+75+,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,0,0,0,1,1,0,0,0,0,0,0,2
+75+,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,1,0,0,0,2,0,0,1,0,0,1,5
+75+,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,1,1,1,0,1,0,0,0,0,0,1,5
+75+,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,0,0,0,0,1,0,0,0,0,0,0,1
+75+,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,0,0,1,0,0,0,0,0,0,0,0,1
+75+,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,0,1,0,0,0,0,0,0,0,0,0,1
+75+,Secondary education,Male,Other,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,0,1,0,0,0,0,0,0,0,0,0,1
+75+,Secondary education,Male,Other,Järva- ja Viljandimaa,Järvamaa,0,0,0,0,0,1,0,0,0,0,0,1
+75+,Secondary education,Male,Other,Pärnumaa,Pärnumaa,0,0,0,0,0,1,0,0,0,0,0,1
