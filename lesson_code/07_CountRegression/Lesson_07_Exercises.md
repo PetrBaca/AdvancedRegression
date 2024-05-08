@@ -6,11 +6,11 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.13.8
+      jupytext_version: 1.16.1
   kernelspec:
-    display_name: Python 3 (ipykernel)
+    display_name: ib_advanced_regression
     language: python
-    name: python3
+    name: ib_advanced_regression
 ---
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -50,9 +50,9 @@ In this exercise were going to work through transformations outside of a model t
 x = np.random.normal(size=1000)
 ```
 
-## 1b: Build a Poisson model in PyMC with to estimate our known parameters
+## 1b: Build a Poisson model in PyMC to estimate our known parameters
 
-We;re going to do a parameter recovery and prediction verification. Doing this end to end will ensure you're getting every step correct, and especially the transformation steps above correct as it can be easy or tempting to make a mistake.
+We're going to do a parameter recovery and prediction verification. Doing this end to end will ensure you're getting every step correct, and especially the transformation steps above correct as it can be easy or tempting to make a mistake.
 
 Specifically we want two things an az.summary table showing the estimated parameters, which we than can compare with the fixed parameters we used for data generation
 
@@ -64,7 +64,7 @@ categorical_effect = 0.5
 
 # Random Observations. We create many so out sampler has the best chance of recovering the final value
 x = stats.uniform(-1, 1).rvs(22345)
-categorical_indicator = stats.bernoulli(p=0.7).rvs(200)
+categorical_indicator = stats.bernoulli(p=0.7).rvs(22345)
 
 # Data Generating Process
 mu = slope * x + categorical_indicator * categorical_effect + intercept
@@ -87,7 +87,7 @@ With the data loaded let's write a PyMC model that takes into account the X inpu
 Great! We got a model that largely estimates the input parameters.
 
 
-## 1c: Build a Poisson model in PyMC with to estimate our known parameters
+## 1c: Build a Poisson model in Bambi to estimate our known parameters
 Let's now do the same with Bambi to see what we get.
 
 ```python
@@ -97,7 +97,7 @@ Let's now do the same with Bambi to see what we get.
 After inference we get results similar to the PyMC model. As expected Bambi automatically adds the intercept detects the categorical variable correctly. estimating the "1" level.
 
 
-## 1d: Estimate the Poisson distribution at a fixed inputs value "by hand", with Bambi and with posterior samples
+## 1d: Estimate the Poisson distribution at a fixed inputs value "by hand", with Bambi and posterior samples
 We'll used the fixed values, where x is set a particular float value, and we include the categorical effect as well
 
 You'll need to do three things here
@@ -156,8 +156,7 @@ df.head()
 ```python
 df.rename({"FTHG": "GoalsHome", "FTAG": "GoalsAway"}, axis=1, inplace=True)
 
-# Get
-df["Date"] = pd.to_datetime(df["Date"])
+df["Date"] = pd.to_datetime(df["Date"], format="%d/%m/%y")
 first_game = df["Date"].min()
 df["Days_Since_First_Game"] = (df["Date"] - first_game).dt.days
 
@@ -192,41 +191,33 @@ This exercise does not require any code, just referencing the lesson and thinkin
 
 
 ## 2b: Estimating a home vs away effect per team
-Let's now ask another question. Does team performance drop over the a season? Let's first create a mode for Man City, and then create one for all teams. For this model we want a `Days_Since_First_Game` effect per team and an intercept per team.
 
-First start with Manchester City and estimate the slope and intercept for that first. Check for converge and parameter estimations there first.
-Then expand this to all teams. Use Bambi for both models.
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
-
-## 2c: All teams
-Now try estimating the `Days_Since_First_Game` for all teams. Use Bambi. Do you run into any issues? If you do think about the scale of days since first game. Anything there that might cause issues?
+Now, actually extend the Bambi model from the lesson, but with one home effect _per_ team, not one home effect for all the teams.
 
 ```python
 # Insert Bambi Model here
 ```
 
-Convergence failed in our last model. This is especically suspicious because the Manchester City model worked, even though it had an identical structure. The issue is numerical overflow because our `Days_Since_First_Game` is so large. We need to scale our value. We could do this manually but instead we decide to use Bambi built in scaling as  
+## 2c: Estimating a home vs away effect per team
+
+Let's now ask another question: **Does team performance drop over a season?** For this model we want a `Days_Since_First_Game` effect per team and an intercept per team.
+
+Start with Manchester City and estimate the slope and intercept for that first. Check for converge and parameter estimations there first.
+Then expand to all teams. Use Bambi for both models.
+
+_Hint: if you run into any issues for the all-teams model, think about the scale of `Days_Since_First_Game`. Anything there that might cause issues?_
+
+
+### Man City Model
 
 ```python
-all_teams_scaled_model = bmb.Model(
-    "Goals ~ scale(Days_Since_First_Game):Team + Team + 0", long_df, family="poisson"
-)
-all_teams_scaled_idata = all_teams_scaled_model.fit()
+# Insert Bambi Model here
+```
+
+### All teams
+
+```python
+# Insert Bambi Model here
 ```
 
 # Exercise 3: Rewriting the fishing model [Hard]

@@ -6,11 +6,11 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.13.8
+      jupytext_version: 1.16.1
   kernelspec:
-    display_name: Python 3 (ipykernel)
+    display_name: ib_advanced_regression
     language: python
-    name: python3
+    name: ib_advanced_regression
 ---
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -60,22 +60,19 @@ print("Calculation 2", np.mean(y))
 
 
 
-
-Do the same now 
-
 ```python
-x_1 = np.random.normal(size=1000)
-x_2 = 2
+x = np.random.normal(size=1000)
+y = 2
 ```
 
 ```python
-print("Calculation 1", np.exp(x_1 + x_2).mean())
-print("Calculation 2", (np.exp(x_1) + x_2).mean())
+print("Calculation 1", np.exp(x + y).mean())
+print("Calculation 2", (np.exp(x) + 2).mean())
 ```
 
-## 1b: Build a Poisson model in PyMC with to estimate our known parameters
+## 1b: Build a Poisson model in PyMC to estimate our known parameters
 
-We;re going to do a parameter recovery and prediction verification. Doing this end to end will ensure you're getting every step correct, and especially the transformation steps above correct as it can be easy or tempting to make a mistake.
+We're going to do a parameter recovery and prediction verification. Doing this end to end will ensure you're getting every step correct, and especially the transformation steps above correct as it can be easy or tempting to make a mistake.
 
 Specifically we want two things an az.summary table showing the estimated parameters, which we than can compare with the fixed parameters we used for data generation
 
@@ -86,9 +83,8 @@ slope = 0.7
 categorical_effect = 0.5
 
 # Random Observations. We create many so out sampler has the best chance of recovering the final value
-num_samples = 500
-x = stats.uniform(-1, 1).rvs(num_samples)
-categorical_indicator = stats.bernoulli(p=0.7).rvs(num_samples)
+x = stats.uniform(-1, 1).rvs(22345)
+categorical_indicator = stats.bernoulli(p=0.7).rvs(22345)
 
 # Data Generating Process
 mu = slope * x + categorical_indicator * categorical_effect + intercept
@@ -132,8 +128,12 @@ az.summary(idata)
 Great! We got a model that largely estimates the input parameters.
 
 
-## 1c: Build a Poisson model in PyMC  to estimate our known parameters
+## 1c: Build a Poisson model in Bambi to estimate our known parameters
 Let's now do the same with Bambi to see what we get.
+
+```python
+# Build your bambi model here
+```
 
 ```python
 model = bmb.Model("y ~ x + categorical", family="poisson", data=data)
@@ -156,7 +156,7 @@ az.summary(idata_bmb)
 After inference we get results similar to the PyMC model. As expected Bambi automatically adds the intercept detects the categorical variable correctly. estimating the "1" level.
 
 
-## 1d: Estimate the Poisson distribution at a fixed inputs value "by hand", with Bambi and with posterior samples
+## 1d: Estimate the Poisson distribution at a fixed inputs value "by hand", with Bambi and posterior samples
 We'll used the fixed values, where x is set a particular float value, and we include the categorical effect as well
 
 You'll need to do three things here
@@ -180,7 +180,7 @@ data_new
 # Simulate the data manually
 mu = slope * x_new + categorical_indicator_new * categorical_effect + intercept
 _lambda = np.exp(mu)
-y_manual = stats.poisson(_lambda).rvs(500)
+y_manual = stats.poisson(_lambda).rvs(20000)
 ```
 
 Calculate mu and lambda here. These are our "true deterministics" that we will be estimating later with PyMC and bambi. After getting. those plot the observed distribution of y_manual as well.
@@ -190,10 +190,12 @@ mu, _lambda, y_manual.mean()
 ```
 
 ```python
-az.plot_dist(y_manual);
+#az.plot_dist(y_manual);
 ```
 
-This is our "true" expected Poisson distribution from the data generating process. 
+This is our "true" expected Poisson distribution from the data generating process. Note that it roughly ranges from 119 to 183, a range we'll reference later.
+
+
 Let's now estimate our expected Try using `az.summary`, then try from the samples directly`
 
 ```python
@@ -201,10 +203,7 @@ summary = az.summary(idata_bmb)
 summary
 ```
 
-## Calculations for the estimates
-
 ```python
-# Take the summary directly. This is wrong.
 mu_new_mean = (
     summary.loc["x", "mean"] * x_new
     + summary.loc["categorical[1]", "mean"] * categorical_indicator_new
@@ -216,14 +215,14 @@ mu_new_mean, lambda_new_mean
 ```
 
 ```python
-# Get the samples 
+# Get the samplpes 
 slope_estimate = idata_bmb.posterior["x"].to_numpy().reshape(-1)
 categorical_estimate = idata_bmb.posterior["categorical"].to_numpy().reshape(-1)
 intercept_estimate = idata_bmb.posterior["Intercept"].to_numpy().reshape(-1)
 ```
 
 ```python
-# Mean, Addition, Transform: This is also wrong
+# Mean, Addition, Transform: This also should be wrong
 MU_new_mean = (
     slope_estimate.mean() * x_new
     + categorical_estimate.mean() * categorical_indicator_new
@@ -236,11 +235,12 @@ MU_new_mean, np.exp(MU_new_mean)
 ```python
 # Vector Add, Transform, Mean: This should be right
 mu_new = (
-      slope_estimate * x_new
+    slope_estimate * x_new
     + categorical_estimate * categorical_indicator_new
     + intercept_estimate
 )
 
+# print(mu_new.shape)
 lambda_new = np.exp(mu_new)
 mu_new.mean(), lambda_new.mean()
 ```
@@ -259,10 +259,6 @@ new_predictions
 ```
 
 ```python
-new_predictions.posterior_predictive["y"].mean()
-```
-
-```python
 az.plot_dist(new_predictions.posterior_predictive["y"].values.reshape(-1));
 ```
 
@@ -270,15 +266,14 @@ az.plot_dist(new_predictions.posterior_predictive["y"].values.reshape(-1));
 We're going to reanalyze the football data. We've already looked at the data a couple of ways but perhaps there's more. Let's load the data first before we move onto the questions.
 
 ```python
-df = pd.read_csv("data/season-1718_csv.csv")
+df = pd.read_csv("data/season-1718.csv")
 df.head()
 ```
 
 ```python
 df.rename({"FTHG": "GoalsHome", "FTAG": "GoalsAway"}, axis=1, inplace=True)
 
-# Get
-df["Date"] = pd.to_datetime(df["Date"])
+df["Date"] = pd.to_datetime(df["Date"], format="%d/%m/%y")
 first_game = df["Date"].min()
 df["Days_Since_First_Game"] = (df["Date"] - first_game).dt.days
 
@@ -309,25 +304,19 @@ Look back at Premiere League data. Let's answer the following questions.
 This exercise does not require any code, just referencing the lesson and thinking through the answer
 
 
-**Write your answer here**
-
-
 **Answer**: 
 This is a bit of a trick question. 
-We do use a shared parameter for all teams. That's easiest seen using the model graph functionality from Bambi. You can see Team_dim (20) but GameType is 1, indicating one parameter.
-However the estimated effect is not the same. That's because once we transform the sum of the individual team effect and the shared goal effect, the difference in the number of goals from home and away is different in the "observed goal" space.ßß
+We do use a shared parameter for all teams. That's easiest seen using the model graph functionality from Bambi. You can see `Team_dim (20)` but `GameType` is 1, indicating one parameter.
+However the estimated effect is not the same. That's because once we transform the sum of the individual team effect and the shared goal effect, the difference in the number of goals from home and away is different in the "observed goal" space.
 
 
 ## 2b: Estimating a home vs away effect per team
-Let's now ask another question. Does team performance drop over the a season? Let's first create a mode for Man City, and then create one for all teams. For this model we want a `Days_Since_First_Game` effect per team and an intercept per team.
 
-First start with Manchester City and estimate the slope and intercept for that first. Check for converge and parameter estimations there first.
-Then expand this to all teams. Use Bambi for both models.
+Now, actually extend the Bambi model from the lesson, but with one home effect _per_ team, not one home effect for all the teams.
 
 ```python
-# Load the dataset below
 goals_model_bambi = bmb.Model(
-    "Goals ~ Team + GameType:Team + 0", long_df, family="poisson"
+    "Goals ~ 0 + Team + GameType:Team", long_df, family="poisson"
 )
 goals_model_bambi.build()
 goals_model_bambi.graph()
@@ -337,6 +326,18 @@ goals_model_bambi.graph()
 goals_model_bambi_data = goals_model_bambi.fit()
 az.summary(goals_model_bambi_data)
 ```
+
+## 2c: Estimating a home vs away effect per team
+
+Let's now ask another question: **Does team performance drop over a season?** For this model we want a `Days_Since_First_Game` effect per team and an intercept per team.
+
+Start with Manchester City and estimate the slope and intercept for that first. Check for converge and parameter estimations there first.
+Then expand to all teams. Use Bambi for both models.
+
+_Hint: if you run into any issues for the all-teams model, think about the scale of `Days_Since_First_Game`. Anything there that might cause issues?_
+
+
+### Man City Model
 
 ```python
 mancity_model = bmb.Model(
@@ -351,12 +352,10 @@ mancity_idata = mancity_model.fit()
 mancity_model.graph()
 ```
 
-## 2c: All teams
-Now try estimating the `Days_Since_First_Game` for all teams. Use Bambi. Do you run into any issues? If you do think about the scale of days since first game. Anything there that might cause issues?
+Worked all good! No need to interpret now, let's go directly to the expanded model:
 
-```python
-# Insert Bambi Model here
-```
+
+### All teams
 
 ```python
 all_teams_model = bmb.Model(
@@ -373,7 +372,15 @@ all_teams_model.graph()
 az.summary(all_teams_idata)
 ```
 
-Convergence failed in our last model. This is especically suspicious because the Manchester City model worked, even though it had an identical structure. The issue is numerical overflow because our `Days_Since_First_Game` is so large. We need to scale our value. We could do this manually but instead we decide to use Bambi built in scaling as  
+The model structure looks good, but convergence was really bad and it look a long time to sample. This is especically suspicious because the Manchester City model worked, even though it had an identical structure. 
+
+We know the `Team` variable is not an issue. What about `Days_Since_First_Game`?
+
+```python
+az.plot_dist(long_df["Days_Since_First_Game"]);
+```
+
+Well, well, well! It's clear now: the issue is numerical overflow because `Days_Since_First_Game` can get so large. We need to scale its values. We could do this manually but instead we decide to use Bambi built in scaling function:
 
 ```python
 all_teams_scaled_model = bmb.Model(
@@ -386,11 +393,15 @@ all_teams_scaled_idata = all_teams_scaled_model.fit()
 az.summary(all_teams_scaled_idata)
 ```
 
-We can now use a forest plot to see this effective. For some teams it does seem plausible that the performance changed over time. However for most teaems it does not seem this is the case.
+Convergence is all good now! Let's use a forest plot to see this effect:
 
 ```python
-az.plot_forest(all_teams_scaled_idata, var_names ="scale(Days_Since_First_Game)", filter_vars="like", combined=True);
+ax = az.plot_forest(all_teams_scaled_idata, var_names ="scale(Days_Since_First_Game)", filter_vars="like", combined=True)
+ax[0].axvline(ls="--", lw=3, color="grey");
 ```
+
+For some teams it does seem plausible that the performance changed over time. However, for most teams, it does not seem to be the case.
+
 
 # Exercise 3: Rewriting the fishing model [Hard]
 We're going to extend the fishing data. Let's start by loading in the data again.

@@ -211,7 +211,7 @@ Now let's say you do this for 2 years. You'll get a graph that looks like this. 
 This graph looks almost like a normal distribution, but it is not because we only have values at natural number integers, and we don't have decimals. It'd be real weird if 43.2 people showed up on a particular day. After all this isn't a hospital or morgue, but dark jokes aside, let's get back to our restaurant
 <!-- #endregion -->
 
-<!-- #region slideshow={"slide_type": "slide"} tags=[] -->
+<!-- #region jp-MarkdownHeadingCollapsed=true slideshow={"slide_type": "slide"} tags=[] -->
 ## A less popular restaurant
 <!-- #endregion -->
 
@@ -280,7 +280,7 @@ The Normal distribution has values that are real numbered, meaning they have dec
 Poisson distributions model the distribution that you first learned.  That is counting 0, 1, 2, 3, 4, 5,. These are called natural numbers that start at zero and go up, and all make sense for customer count.
 <!-- #endregion -->
 
-<!-- #region slideshow={"slide_type": "slide"} tags=[] -->
+<!-- #region jp-MarkdownHeadingCollapsed=true slideshow={"slide_type": "slide"} tags=[] -->
 ## Binomial Versus Poisson
 <!-- #endregion -->
 
@@ -300,7 +300,7 @@ Now showing up to a reservation is still a count. But it's a different nature. Y
 With Poisson distributions there are no fixed upper bounds to trials or counts.
 <!-- #endregion -->
 
-<!-- #region slideshow={"slide_type": "slide"} tags=[] -->
+<!-- #region jp-MarkdownHeadingCollapsed=true slideshow={"slide_type": "slide"} tags=[] -->
 ##  Plotting the Poisson distribution
 <!-- #endregion -->
 
@@ -329,7 +329,7 @@ Another thing you may have noticed that Poisson distributions are quite simple t
 Though the parameter symbol doesn't matter you'll often also see the $\lambda$ be used in literature as we've showed here.
 <!-- #endregion -->
 
-<!-- #region slideshow={"slide_type": "slide"} tags=[] -->
+<!-- #region jp-MarkdownHeadingCollapsed=true slideshow={"slide_type": "slide"} tags=[] -->
 ## Poisson Parameterization 
 <!-- #endregion -->
 
@@ -427,7 +427,7 @@ One parameter controls the mean of the distribution, but it also affects the var
   * This parameter is often shown as $\lambda$ or $\mu$
 <!-- #endregion -->
 
-<!-- #region slideshow={"slide_type": "slide"} tags=[] -->
+<!-- #region jp-MarkdownHeadingCollapsed=true slideshow={"slide_type": "slide"} tags=[] -->
 # Count Regressions
 With the magic of log link functions
 <!-- #endregion -->
@@ -829,13 +829,13 @@ with home_model_scaled:
     ppc_500k = pm.sample_posterior_predictive(idata_homes_scaled)
 ```
 
-```python hide_input=true
+```python hide_input=false
 fig, ax = plt.subplots(figsize=FIGSIZE)
 
 az.plot_dist(ppc_500k.posterior_predictive.Rooms)
 ax.set_xlabel("Count of Rooms")
 ax.set_ylabel("Probability")
-ax.set_xlim(0, 20)
+ax.set_xlim(-.5, 20)
 ax.set_title("Prediction for $500k house");
 ```
 
@@ -868,7 +868,7 @@ From all the things we've learned in this course we are now rich and can afford 
 ## Plotting Side by Side
 <!-- #endregion -->
 
-```python hide_input=true
+```python hide_input=false
 fig, ax = plt.subplots(figsize=FIGSIZE)
 
 
@@ -889,7 +889,7 @@ house_ppc_df.plot(kind="bar", ax=ax)
 ax.set_xlabel("Count of Rooms")
 ax.set_ylabel("Posterior Predictive Probability")
 ax.set_xticklabels(ax.get_xticks(), rotation=0)
-ax.set_xlim(0, 30);
+ax.set_xlim(-1, 30);
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
@@ -948,7 +948,7 @@ Oh not this football, I'm American so I forgot that this isn't the sport anyone 
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-That's right, this one, the one you play with your feet. The goal of this game is to well, score goals, and that's what we're going to analyze just that. How many goals does a team score and what other insights can produce from the data?
+That's right, this one, the one you play with your feet. The goal of this game is to well, score goals, and we're going to analyze just that. How many goals does a team score and what other insights can we produce from the data?
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -956,18 +956,24 @@ That's right, this one, the one you play with your feet. The goal of this game i
 <!-- #endregion -->
 
 ```python
-raw_football_df = pd.read_csv("data/season-1718_csv.csv")
+raw_football_df = pd.read_csv("data/season-1718.csv")
 raw_football_df.head()
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
 Now we're going to do what you should have totally expected. Exploratory analysis to see what we're working with. Let's first subset to the data, clean up the columns, 
 
-Here's the data from the English premier league from the 2017-2018 season. There are many columns of data but we're going to ignore most of them. For this section, we're going to focus just on the goals for now, which are labeled FTHG for home team goals, and FTAG for away team goals.
+Here's the data from the English premier league from the 2017-2018 season. There are many columns of data but we're going to ignore most of them. For this section, we're going to focus just on the goals, which are labeled `FTHG` for home team goals, and `FTAG` for away team goals.
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Data Cleanup and EDA
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "notes"} -->
+Let's reformat the data to make it easier to use. We see we have 380 rows -- one for each game.
+
+In the exercises, we'll want to measure team performance as a function of time in the season as well so we might as well add that now (`days_since_first_game`).
 <!-- #endregion -->
 
 ```python
@@ -987,18 +993,15 @@ subset_raw_football_df = raw_football_df.iloc[:, [2, 3, 4, 5, -1]].rename(
     columns={"HomeTeam": "home_team", "AwayTeam": "away_team"}
 )
 
-
 subset_raw_football_df
 ```
 
-<!-- #region slideshow={"slide_type": "notes"} -->
-Let's reformat the data to make it easier to use. Once we're all well and we see we have 380 rows. One for each game
-
-In the exercises we want to measure team performance as a function of time in the season as well so we might as well add that now.
-<!-- #endregion -->
-
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Individual teams
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "notes"} -->
+Lets take a look to verify we got all the teams.
 <!-- #endregion -->
 
 ```python
@@ -1010,18 +1013,22 @@ teams
 teams.shape
 ```
 
+Looks like we have all 20 so were good to go! Just for fun we can use itertools to see how many permutations there are, that if every team plays two games against every other team how many games we get?
+
 ```python slideshow={"slide_type": "fragment"}
 from itertools import permutations
 
 len(list(permutations(teams, 2)))
 ```
 
-<!-- #region slideshow={"slide_type": "notes"} -->
-Lets take a look to verify we got all the teams. Looks like we have all 20 so were good to go! Just for fun we can use itertools to see how many permutations there are, that if every team plays two games against every other team how many games we get? And what do you know! It happens to be 380, same shape as our previous dataframe.
-<!-- #endregion -->
+And what do you know! It happens to be 380, same shape as our previous dataframe.
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## More reshaping
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "notes"} -->
+Let's rearrange the columns to make it easier for analysis, we want all the goals in one column to be represented by a categorical column of game type. We don't care so much who they were playing against.
 <!-- #endregion -->
 
 ```python
@@ -1040,13 +1047,11 @@ long_football_df = pd.concat([home_goals, away_goals], axis=0)
 long_football_df.head()
 ```
 
-<!-- #region slideshow={"slide_type": "notes"} -->
-Let's rearrange the columns to make it easier for analysis, we want all the goals in one column to be represented by a categorical column of game type. We don't care so much who they were playing against.
-<!-- #endregion -->
-
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Total Goals Per Team
 <!-- #endregion -->
+
+Let's first answer the most burning question, let's see which team got the most goals. Pandas makes that simple and here's the plot. 
 
 ```python hide_input=true
 fig, ax = plt.subplots(figsize=FIGSIZE)
@@ -1058,7 +1063,7 @@ ax.bar_label(ax.containers[0]);
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-Let's first answer the most burning question, let's see which team got the most goals. Pandas makes that simple and here's the plot. Clearly Manchester City is dominating.
+Clearly, Manchester City is dominating.
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -1126,9 +1131,7 @@ Now most data analysts would stop here, but because we're Bayesian statisticians
 * Through EDA we notice different teams have different levels of performance
 <!-- #endregion -->
 
-<!-- #region jp-MarkdownHeadingCollapsed=true -->
 #  Soccer Statistics
-<!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 Using our new modeling capability
@@ -1205,15 +1208,15 @@ Note uncertainty in the posterior predictive distribution is quite large (the ov
 ## Counting Goals for Huddersfield
 <!-- #endregion -->
 
+<!-- #region slideshow={"slide_type": "notes"} -->
+Let's do the same for Huddersfield. Not too bad to implement, we just swap out the filter.
+<!-- #endregion -->
+
 ```python
 normal_model = bmb.Model("Goals ~ 1", long_football_df.query(f"Team == 'Huddersfield'"))
 normal_idata = normal_model.fit()
 normal_model.predict(normal_idata, kind="pps")
 ```
-
-<!-- #region slideshow={"slide_type": "notes"} -->
-Let's do the same for Huddersfield. Not too bad to implement, we just swap out the filter.
-<!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## The predictions suck
@@ -1287,15 +1290,15 @@ y_i & \sim \text{Poisson}(\lambda_i)
 $$
 <!-- #endregion -->
 
+<!-- #region slideshow={"slide_type": "notes"} -->
+Now that we're acquainted with the Poisson distribution let's use Bambi to fit it. Like everything else Bambi makes this quite easy with a one keyword change. We don't even need to specify the link function, since the logarithm is already the default for the Poisson family.
+<!-- #endregion -->
+
 ```python
 manchester_model = bmb.Model(
     "Goals ~ 1", long_football_df.query(f"Team == 'Man City'"), family="poisson"
 )
 ```
-
-<!-- #region slideshow={"slide_type": "notes"} -->
-Now that we're acquainted with the Poisson distribution let's use Bambi to fit it. Like everything else Bambi makes this quite easy with a one keyword change. We don't even need to specify the link function, since the logarithm is already the default for the Poisson family.
-<!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## A deeper dive into the model
@@ -1307,7 +1310,7 @@ manchester_model
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-Since this is our first time using Bambi for Poisson model fitting let's see what's going on one level deeper. Here we get a confirmation of our 28 observations of games, and that this is an intercept-only model, which means we have no covariates. This makes sense since we're just looking at one team.
+Since this is our first time using Bambi for Poisson model fitting let's see what's going on one level deeper. Here we get a confirmation of our 38 observations of games, and that this is an intercept-only model, which means we have no covariates. This makes sense since we're just looking at one team.
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -1328,12 +1331,14 @@ Actually, no, remember we have the link function that makes interpretation a bit
 ## Sampling
 <!-- #endregion -->
 
+Let's go ahead and sample:
+
 ```python
 manchester_idata = manchester_model.fit()
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-Let's go ahead and sample. No issues with overflow or anything like that from what we can tell here. 
+No issues with overflow or anything like that from what we can tell here. 
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -1374,6 +1379,7 @@ az.plot_ppc(manchester_idata, alpha=0);
 <!-- #endregion -->
 
 ```python
+x_natural = np.arange(0, 20)
 m = 5
 pmf = stats.poisson.pmf(x_natural, m)
 ```
@@ -1413,6 +1419,10 @@ Now remember when we said the parameter of the Poisson is also the mean of the o
 )
 ```
 
+So it should be the case that the mean from our posterior predictions is the same as the mean of the samples from our parameters, but when we calculate them... it is not?
+
+Remember, we need to exponentiate this value, because the posterior predictive and parameter space are different -- in this case, transformed:
+
 ```python slideshow={"slide_type": "fragment"}
 (
     "Exponentiated Sampled Parameter Mean: " ,
@@ -1420,19 +1430,19 @@ Now remember when we said the parameter of the Poisson is also the mean of the o
 )
 ```
 
+As a sanity check, we also calculate the empirical mean and see that its around the same value:
+
 ```python slideshow={"slide_type": "fragment"}
 empirical_mean = long_football_df.query(f"Team == 'Man City'")["Goals"].mean()
 f"Observed Empirical Mean: {empirical_mean:.2f}"
 ```
 
-<!-- #region slideshow={"slide_type": "notes"} -->
-So it should be the case that the mean from our posterior predictions is the same as the mean of the samples from our parameters, but when we calculate them it is not?
-
-Remember we need to exponentiate this value, the posterior predictive and parameter space are different, and in this case, transformed. As a sanity check, we also calculate the empirical mean and see that its around the same value.
-<!-- #endregion -->
-
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Huddersfield Model
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "notes"} -->
+Now that we understand our model for Manchester City let's do the same for Huddersfield. Recall that Huddersfield does not score as many goals as Manchester City typically. Let's see if our model can pick up on that.
 <!-- #endregion -->
 
 ```python
@@ -1445,10 +1455,6 @@ huddersfield_idata = huddersfield_model.fit()
 ```python
 az.plot_trace(huddersfield_idata);
 ```
-
-<!-- #region slideshow={"slide_type": "notes"} -->
-Now that we understand our model for Manchester City let's do the same for Huddersfield. Recall that Huddersfield does not score as many goals as Manchester City typically. Let's see if our model can pick up on that.
-<!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Huddersfield Posterior Predictive Plot
@@ -1473,14 +1479,13 @@ This indeed is the case. Most of our posterior predictive distribution is close 
   * Just need to add the `family="poisson"` argument
 <!-- #endregion -->
 
-<!-- #region jp-MarkdownHeadingCollapsed=true slideshow={"slide_type": "slide"} -->
+<!-- #region slideshow={"slide_type": "slide"} -->
 # Home Field Advantage
 Do teams really do better in their home stadium?
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-Let's now generalize our regression. We want to answer the question, do teams have a home field advantage.
-If I hear you saying, add a categorical indicator to Bambi lets do it!
+Let's now generalize our regression. We want to answer the question, do teams have a home field advantage. Do I hear you saying "let's add a categorical indicator to Bambi"?
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -1517,7 +1522,7 @@ ax.set_title("Arsenal");
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-From this plot we get a sense the distributions aren't quite the same.
+From this plot we get a sense that the distributions aren't quite the same.
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -1547,6 +1552,10 @@ az.plot_trace(arsenal_idata);
 az.summary(arsenal_idata)
 ```
 
+<!-- #region slideshow={"slide_type": "notes"} -->
+How cool is that, we quite quickly found a difference and we can even say by how much! Awesome stuff. Now that we verified this is possible let's run this for all teams.
+<!-- #endregion -->
+
 <!-- #region slideshow={"slide_type": "skip"} -->
 ## All Teams
 <!-- #endregion -->
@@ -1555,12 +1564,12 @@ az.summary(arsenal_idata)
 long_football_df
 ```
 
-<!-- #region slideshow={"slide_type": "notes"} -->
-How cool is that, we quite quickly found a difference and we can even say by how much! Awesome stuff. Now that we verified this is possible let's run this for all teams.
-<!-- #endregion -->
-
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Expanding to all teams again in PyMC
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "notes"} -->
+Let's create a similar model again in PyMC so we can really see what's going on. This time we're including all the teams. This part of the model should look familiar so we won't talk about it too much.
 <!-- #endregion -->
 
 ```python
@@ -1579,34 +1588,9 @@ with pm.Model(coords=coords) as goals_model:
     μ = b_gametype[gametype.codes] + b_teams[team.codes]
 
     λ = pm.math.exp(μ)
-```
-
-<!-- #region slideshow={"slide_type": "notes"} -->
-Let's create a similar model again in PyMC so we can really see what's going on. This time we're including all the teams. This part of the model should look familiar so we won't talk about it too much.
-<!-- #endregion -->
-
-<!-- #region slideshow={"slide_type": "slide"} -->
-## Adding `Deterministic` quantities
-<!-- #endregion -->
-
-```python
-with goals_model:
-    pm.Deterministic("HomeAdvantage", pm.math.exp(b_teams[1] - b_teams[0]))
-
-    pm.Deterministic(
-        "HomeAdvantagePerTeam",
-        pm.math.exp(b_teams[1] * [b_teams] - b_teams[0] * [b_teams]),
-    )
 
     y = pm.Poisson("y", mu=λ, observed=goals)
 ```
-
-<!-- #region slideshow={"slide_type": "notes"} -->
-Lets get back to sampling. Because were using PyMC we can throw in a couple of deterministics to make things even nicer for output. We want to answer:
-
-* Is there an overall advantage or home vs away for all teams
-* Is there a per team advantage
-<!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Sampling with PyMC
@@ -1651,6 +1635,8 @@ Remember our old friend over unidentifiability? It's back
 ## How can we tell?
 <!-- #endregion -->
 
+Our trace is a bit suspicious so let's use a pairplot, one that Alex was kind enough to help me make.
+
 ```python hide_input=true
 corr_basis = idata.posterior.sel(GameType="Home")[["GameType_var", "Teams_var"]]
 
@@ -1668,7 +1654,7 @@ plt.tight_layout();
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-Our trace is a bit suspicious so let's use a pairplot, one that Alex was kind enough to help me make. What you can see here is heavy posterior correlation between each individual team and the game type. As one of the coefficients goes up, the other _has_ to go down and the sampler is having trouble converging. Why does it _have_ to? As often: unidentifiability...
+What you can see here is heavy posterior correlation between each individual team and the game type. As one of the coefficients goes up, the other _has_ to go down and the sampler is having trouble converging. Why does it _have_ to? As often: unidentifiability...
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -1682,7 +1668,7 @@ Our trace is a bit suspicious so let's use a pairplot, one that Alex was kind en
 <!-- #region slideshow={"slide_type": "notes"} -->
 Let's focus on homes again, not this type of home, but home games.
 
-The reason we have unidentifiability is because every estimate is a combination of team, home and away that can vary independently. But in reality, these parameters are _not_ independent: if we know a team effect, then we know the home (or away) effect for that team -- otherwise, what is the team effect not at home _and_ not away? That's why the sampler has troubles: we have 3 effects in our model, but can only identify 3. There you have it: __overparametrization__, leading to __unidentifiability__.
+The reason we have unidentifiability is because every estimate is a combination of team, home and away that can vary independently. But in reality, these parameters are _not_ independent: if we know a team effect, then we know the home (or away) effect for that team -- otherwise, what is the team effect not at home _and_ not away? That's why the sampler has troubles: we have 3 effects in our model, but can only identify 2. There you have it: __overparametrization__, leading to __unidentifiability__.
 
 Said another way: Teams can only play home games or away games, and we already are estimating each team's performance. So if we try estimating a team's performance, its home performance, _and_ its away performance, that's three things. We've never seen a team's performance at NOT a home or away game. So the best we can do is measure the **difference** in goals between home and away, but not each in isolation.
 <!-- #endregion -->
@@ -1691,7 +1677,7 @@ Said another way: Teams can only play home games or away games, and we already a
 ## Same as the Fish and Softmax
 <!-- #endregion -->
 
-Links to the previous sections
+Links to the previous sections:
 * https://www.intuitivebayes.com/view/courses/advanced-regression/1609615-categorical-regression/6120728-categorical-model-with-bambi
 * https://www.intuitivebayes.com/view/courses/advanced-regression/1609615-categorical-regression/6120726-introducing-pm-zerosumnormal
 
@@ -1718,7 +1704,7 @@ goals_model_bambi
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-We'll use Bambi to help us here. Bambi fixes this by "seeing" the levels "home" and "away" and then adding an indicator variable that is 0 when `GameType == "away"` and 1 when `GameType == "home"` (i.e pivoting). 
+We use Bambi to help us here. Bambi fixes this by "seeing" the levels "home" and "away" and then adding an indicator variable that is 0 when `GameType == "away"` and 1 when `GameType == "home"` (i.e pivoting). 
 We see that the GameType indicator is only of dimension 1, whereas the teams have dimension 20.
 <!-- #endregion -->
 
@@ -1789,7 +1775,7 @@ Looks so much better now! No extreme correlations that hurt anymore, that's awes
 
 Like we said above you could use ZSN. ZSN would make more sense if you could estimate the team effect thanks to other data (budget, manager's quality, etc.), and then add the home and away effects as offsets.
 
-We've leave the implementation of this as an exercise for you. A hint, it only requires a one line change in the PyMC model, the trick is _identifying_ what the one line is :). Funny pun right, well I thought the pun was funny.
+We've left the implementation of this as an exercise for you. A hint, it only requires a one line change in the PyMC model, the trick is _identifying_ what the one line is :). Funny pun right, well I thought the pun was funny.
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "skip"} -->
@@ -1829,7 +1815,8 @@ However if your conclusion is that every team sees a 1.3 goal difference, you wo
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Exponentiation makes things non linear
-`goals = np.exp(team["team_idx"] + game_type["game_type_idx"])`
+
+`goals = np.exp(team[team_idx] + game_type[game_type_idx])`
 <!-- #endregion -->
 
 ```python slideshow={"slide_type": "fragment"}
@@ -1849,6 +1836,10 @@ When you calculate it in code you see the difference. Even if we add the same `h
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Using the Bambi Predict Method
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "notes"} -->
+Another way we can do this is to use the Bambi predict method, so Bambi handles this complexity for us:
 <!-- #endregion -->
 
 ```python
@@ -1879,12 +1870,16 @@ preds.index = [
 preds
 ```
 
-<!-- #region slideshow={"slide_type": "notes"} -->
-Another way we can do this is to use the Bambi predict method, so Bambi handles this complexity for us. You can now see that Huddersfield has a smaller home advantage than Manchester City when we're counting in the space of actual goals (which is the one we care about).
-<!-- #endregion -->
+You can now see that Huddersfield has a smaller home advantage than Manchester City when we're counting in the space of actual goals (which is the one we care about).
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Verifying our calculation for away games
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "notes"} -->
+To make sure we understand it let's verify some calculations manually. We can take the samples for a particular team, transform them, and then take the mean. Notice how we exponentiate the samples first before taking the mean.
+
+This order of operations is important. To reinforce this we created an exercise where you can empirically see the difference. Be sure to try it out.
 <!-- #endregion -->
 
 ```python
@@ -1896,26 +1891,20 @@ man_city_samples
 np.exp(man_city_samples["Team"]).mean().item()
 ```
 
-<!-- #region slideshow={"slide_type": "notes"} -->
-To make sure we understand it let's verify some calculations manually. We can take the samples for a particular team, transform them, and then take the mean. Notice how we exponentiate the samples first before taking the mean.
-
-This order of operations is important. To reinforce this we created an exercise where you can empirically see the difference. Be sure to try it out.
-<!-- #endregion -->
-
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Manchester City Home Games
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "notes"} -->
+Let's now do the same thing again but for home games. What we need to do here is sum the home effect and the team effect together and then run the exponentiation. Make sure to compare that to the result from Bambi's predict method above. 
 <!-- #endregion -->
 
 ```python
 np.exp(man_city_samples["Team"] + man_city_samples["GameType"].squeeze()).mean().item()
 ```
 
-<!-- #region slideshow={"slide_type": "notes"} -->
-Let's now do the same thing again but for home games. What we need to do here is sum the home effect and the team effect together and then run the exponentiation. We'll show both here and invite you to compare that to the result from Bambi's predict method above. 
-<!-- #endregion -->
-
 <!-- #region slideshow={"slide_type": "slide"} -->
-## All team's share an effect, but not the same magnitude
+## All teams share an effect, but not the same magnitude
 <!-- #endregion -->
 
 ```python
@@ -1923,7 +1912,7 @@ goals_model_bambi.graph()
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-To round things out let's talk through one last unintuitive concept. All teams share the same game type effect. That is in untransformed space the magnitude of the effect is the same. However once we go through the link function calculation the magnitude of the goal home vs away difference is **not** the same.
+To round things out, let's talk through one last unintuitive concept. All teams share _the same_ game type effect. That is: **in untransformed space, the magnitude of the effect is the same**. However, once we go through the link function calculation, the magnitude of the home vs away difference is **not** the same.
 
 If we want to calculate a different home vs away effect for each team we'd need to create a model that has an interaction effect with the team. This will of course be one of your exercises for this lesson ;)
 <!-- #endregion -->
@@ -2075,7 +2064,7 @@ $$
 <!-- #region slideshow={"slide_type": "notes"} -->
 Here is the probability mass function. Compare this to the previous poisson pmf. You'll see the extra term at the top. Basically this is the zero inflation. Poisson distributions already have zero in their support as we've seen in previous examples, but we need to inflate that value. That's what the new symbol is, referred to as psi ($\psi$).
 
-Psi is the probability that an observed 0 is a "true" zero and not a "false" zero (i.e one coming from the zero-inflation process). In other words, as psi approaches 0, we get more zero inflation. As psi approaches 1, we get more of our "regular" Poisson.
+Psi is the probability that an observed 0 is a "true" zero (i.e coming from the Poisson process) and not a "false" zero (i.e one coming from the zero-inflation process). In other words, as psi approaches 0, we get more zero inflation. As psi approaches 1, we get more of our "regular" Poisson.
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -2114,7 +2103,7 @@ plt.tick_params(left=False, labelleft=False);
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-I'd qualify this as a very weakly informative prior: we're basically any probability can be true, but we're skeptical of very extreme ones -- i.e all / none of the observed zeros are from the data generating process.
+I'd qualify this as a very weakly informative prior: we're basically any probability can be true, but we're skeptical of very extreme ones -- i.e all / none of the observed zeros are from the Poisson process.
 
 Do you think we can do better? I think we can! In particular, I'd argue that we can probably expect the majority of zeros to be true zeroes. In other words, the team does show up more tham 50% of the time. Let's see how we can skew our prior in this direction:
 <!-- #endregion -->
@@ -2124,7 +2113,7 @@ Do you think we can do better? I think we can! In particular, I'd argue that we 
 <!-- #endregion -->
 
 ```python
-ax = az.plot_dist(pm.draw(pm.Beta.dist(alpha=2, beta=6), draws=10_000))
+ax = az.plot_dist(pm.draw(pm.Beta.dist(alpha=6, beta=2), draws=10_000))
 ax.set(xlabel="Prior Probability", ylabel="Plausibility", title="Prior for $\psi$")
 plt.tick_params(left=False, labelleft=False);
 ```
@@ -2238,7 +2227,7 @@ There are a number of places that zero inflation could occur for various reasons
   * ZIP is so common that PyMC has a dedicated distribution for it
 <!-- #endregion -->
 
-<!-- #region slideshow={"slide_type": "slide"} -->
+<!-- #region jp-MarkdownHeadingCollapsed=true slideshow={"slide_type": "slide"} -->
 # Diving into inflated fish
 Fish or children -- can you have both?
 <!-- #endregion -->
@@ -2246,6 +2235,8 @@ Fish or children -- can you have both?
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Fishing
 <!-- #endregion -->
+
+** Insert picture of fishing**
 
 <!-- #region slideshow={"slide_type": "notes"} -->
 Did you ever go fishing? Personally, I never did. Even though I love being in nature, I think I lack the patience required to be a good fisher. But it sure looks like statisticians like fish -- there seems to be a trove of fish datasets out there!
@@ -2292,7 +2283,7 @@ ax.set(xlabel="Fish caught", ylabel="Frequency", title="Observed counts");
 Some visitors do not fish, but there is no data on whether a person fished or not. _Some visitors who did fish did not catch any fish_, so there are excess zeros in the data because of the people that did not fish".
 
 
-We indeed see a big number of 0, because some do fish but don't catch anything, but also lots of people don't fish, so a 0 is reported. But, in a way, these 0 are not the same: the former are true 0, coming from people who don't fish, while the latter are false 0, because these people didn't even bother to try fishing.
+We indeed see a big number of 0, because some do fish but don't catch anything, but also lots of people don't fish, so a 0 is reported. But, in a way, these 0 are not the same: the former are true 0, coming from the Poisson process of fishing, while the latter are false 0, because these people didn't even enter the Poisson process.
 
 Actually, to make it even clearer, let me show you what Poisson draws look like, compared to Zero-Inflated Poisson draws with the same Poisson rate:
 <!-- #endregion -->
@@ -2335,7 +2326,7 @@ right.tick_params(left=False, labelleft=False, labelsize=12);
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-Left to right, you have draws from a classic Poisson distribution, a Zero-Inflated Poisson with a 90% probability of each draw being a real Poisson draw (i.e not a false 0 coming from the inflation line), and a Zero-Inflated Poisson with only a 10% probability of Poisson draw.
+Left to right, you have draws from a classic Poisson distribution, a Zero-Inflated Poisson with a 90% probability of each draw being a real Poisson draw (i.e not a false 0 coming from the inflation process), and a Zero-Inflated Poisson with only a 10% probability of Poisson draw.
 
 You can see that our data look much more like the rightmost plot than like the leftmost one, so using a Zero-Inflated Poisson likelihood makes a lot of sense here.
 <!-- #endregion -->
@@ -2345,8 +2336,9 @@ You can see that our data look much more like the rightmost plot than like the l
 <!-- #endregion -->
 
 ```python
+# LIVE CODE
 zip_fish_simple = bmb.Model(
-    "count ~ 0  + camper + persons + child",
+    "count ~ 0 + camper + persons + child",
     fish_data,
     family='zero_inflated_poisson'
 )
@@ -2405,6 +2397,7 @@ A standard deviation of 0.5 should already be plenty, as the exponential of it i
 <!-- #endregion -->
 
 ```python
+# LIVE CODE
 common_priors = {"common": bmb.Prior("Normal", mu=0, sigma=0.5)} 
 
 zip_fish_simple = bmb.Model(
@@ -2430,7 +2423,7 @@ That looks better. Let's draw some prior predictive samples now:
 prior_preds = zip_fish_simple.prior_predictive()
 ```
 
-```python hide_input=false slideshow={"slide_type": "slide"}
+```python hide_input=true slideshow={"slide_type": "slide"}
 bins = np.arange(150)
 fig, ax = plt.subplots(figsize=(9, 6))
 plot_ppc_discrete(prior_preds, bins, ax, group="prior_predictive")
@@ -2499,9 +2492,9 @@ az.summary(zip_fish_simple_idata, round_to=2)
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-The __probability of the that someone fishes__ is not that high, with a mean of 57%, which means that each `count` observation has an about 1 in 2 chance of being a true observation.
+The __probability of the Poisson process__ is not that high, with a mean of 57%, which means that each `count` observation has an about 1 in 2 chance of being a true observation.
 
-Remember, the probability of catching no fish is actually higher than 43% (100 - 57), because even if you do fish, you may end up catching no fish nonetheless (hence the name: zero _inflation_). 
+Remember, the probability of catching no fish is actually higher than 43% (100 - 57), because even if you do fish (i.e enter the Poisson process), you may end up catching no fish nonetheless (hence the name: zero _inflation_). 
 
 If you want to treat _all_ zeros as coming from a _separate_ process, you can use hurdle models instead, but that's outside the scope of this notebook.
 
@@ -2522,7 +2515,7 @@ According to our model, campers catch more fish than non-campers, bigger groups 
 We can even use the `interpret` sub-package to visualize how the parameters vary as a covariate changes:
 <!-- #endregion -->
 
-<!-- #region hide_input=true slideshow={"slide_type": "slide"} -->
+<!-- #region slideshow={"slide_type": "slide"} -->
 ## Plot Conditional Adjusted Predictions
 <!-- #endregion -->
 
@@ -2648,7 +2641,7 @@ $$
 <!-- #region slideshow={"slide_type": "notes"} -->
 Statistically, the model becomes what we see here.
 
-Now, we have two distinct linear regressions, one for $\mu$, that you already know, and a new one for $\psi$. Since $\mu$ and $\psi$ live on different spaces, each uses a different inverse link function -- exponential for the former, logistic for the latter. Again psi controls the amount of zero-inflation
+Now, we have two distinct linear regressions, one for $\mu$, that you already know, and a new one for $\psi$. Since $\mu$ and $\psi$ live on different spaces, each uses a different inverse link function -- exponential for the former, logistic for the latter.
 
 Formally, this model is called a _mixture_ of two processes. This is a broad family of models, that you'll explore in more depth in lesson 8 with Tomi.
 
@@ -2660,9 +2653,10 @@ How do we specify it in Bambi?
 <!-- #endregion -->
 
 ```python
+# LIVE CODE
 formula = bmb.Formula(
     "count ~ 0 + camper + persons + child", # Poisson rate, mu
-    "psi ~ child"    # Probability of fishing, psi
+    "psi ~ child"    # Probability of entering Poisson process, psi
 
 )
 common_priors = {
@@ -2682,7 +2676,7 @@ zip_fish_complex
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-We see that coefficients without the substring "psi" correspond to the $\mu$ parameter are on the log scale. Coefficients with the substring "psi" correspond to the $\psi$ parameter and are on the logit scale.
+We see that coefficients without the substring "psi" correspond to the $\mu$ parameter (the mean of the Poisson process) and are on the log scale. Coefficients with the substring "psi" correspond to the $\psi$ parameter and are on the logit scale.
 
 Now that our model is ready, let's use the same workflow to run and evaluate it:
 <!-- #endregion -->
@@ -2884,8 +2878,8 @@ Now as a warning, this is a quick intro to model comparison. We're giving you th
 
 ```python
 models = {"Simple": zip_fish_simple_idata, "Complex": zip_fish_complex_idata}
-df_compare = az.compare(models)  
-df_compare 
+df_compare = az.compare(models)
+df_compare
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
@@ -2927,7 +2921,12 @@ The black dots and lines are respectively the LOO score and standard error on th
 </center>
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-We got a warning when ArviZ computed the LOO scores. This is a warning the LOO estimation itself is suspect.
+We got a warning when ArviZ computed the LOO scores, essentially saying:
+
+> Estimated shape parameter of Pareto distribution is greater than 0.7 for one or more samples.
+> This is more likely to happen with a non-robust model and highly influential observations.
+
+
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -2939,7 +2938,7 @@ fish_data["count"].describe()
 ```
 
 <!-- #region slideshow={"slide_type": "notes"} -->
-This tends to happen when you have very dispersed data, like we have here (pay attention to the standard deviation and max of the data in particular):
+In essence, ArviZ is telling us that the LOO score is to be interpreted with a grain of salt, because some of its assumptions may be broken by our model and data. This tends to happen when you have very dispersed data, like we have here (pay attention to the standard deviation and max of the data in particular):
 
 So here, we can't only use LOO to choose the second model -- we need to have better arguments than this one to choose a more complex model (remember, parsimony principle). And we do have one: the second model makes more sense scientifically; it tells a more credible generative story (namely, that number of children is negatively correlated with probability of fishing and number of fish caught).
 <!-- #endregion -->
@@ -2964,7 +2963,7 @@ In a nutshell: __Refer to it, but don't defer to it__. As for convergence diagno
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Section Recap
 - You just worked through a big, full Bayesian workflow!
-- ZIPoisson gives us even more flexibility, with two distinct linear regressions,
+- ZIPoisson gives us even more flexibility, with two distinct linear regressions, one for the Poisson process, and another for the probability of entering the Poisson process.
     - Each uses a different inverse link function -- exponential for the former, logistic for the latter.
     - ZIPoisson is part of a broader class of models called mixture models.
     - They give us more flexibility to adapt models to data, not data to models.
@@ -2977,7 +2976,7 @@ In a nutshell: __Refer to it, but don't defer to it__. As for convergence diagno
     - Beware of automated thinking: Refer to LOO, but don't defer to it.
 <!-- #endregion -->
 
-<!-- #region slideshow={"slide_type": "slide"} -->
+<!-- #region jp-MarkdownHeadingCollapsed=true slideshow={"slide_type": "slide"} -->
 # Lesson Recap
 <!-- #endregion -->
 
@@ -3033,7 +3032,7 @@ This was a big lesson and we've got two more really meaty ones to go, so we'll d
     * One for count of fish caught
     * One for if we're fishing or not
 * Start simple and then build complexity
-  * Use tools like `az.compare` to justify complexity
+  * Use tools like `az.compare` and LOO to justify complexity
 
 <!-- #region slideshow={"slide_type": "notes"} -->
 Congratulations again for making it through your final link function. In the next section Tomas will talk to you about overdispersion and how we can add even more flexibility in our model when we need it. For now though this is the last time you'll hear from me. So PyMCheers and let's keep on sampling
