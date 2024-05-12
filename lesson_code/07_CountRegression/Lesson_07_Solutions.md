@@ -327,7 +327,7 @@ goals_model_bambi_data = goals_model_bambi.fit()
 az.summary(goals_model_bambi_data)
 ```
 
-## 2c: Estimating a home vs away effect per team
+## 2c: Team performance evolution
 
 Let's now ask another question: **Does team performance drop over a season?** For this model we want a `Days_Since_First_Game` effect per team and an intercept per team.
 

@@ -198,7 +198,7 @@ Now, actually extend the Bambi model from the lesson, but with one home effect _
 # Insert Bambi Model here
 ```
 
-## 2c: Estimating a home vs away effect per team
+## 2c: Team performance evolution
 
 Let's now ask another question: **Does team performance drop over a season?** For this model we want a `Days_Since_First_Game` effect per team and an intercept per team.
 
