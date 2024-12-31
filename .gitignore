@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+l# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.virtual_documents/
+.ipynb_checkpoints/
 build/
 develop-eggs/
 dist/
@@ -76,6 +78,9 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints*
+Untitled*.ipynb
 
 # IPython
 profile_default/
