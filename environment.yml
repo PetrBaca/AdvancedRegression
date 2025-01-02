@@ -17,3 +17,4 @@ dependencies:
   - python-graphviz
   - python=3.10
   - rise=5.7.1
+  - seaborn=0.13
